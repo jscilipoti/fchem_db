@@ -1,0 +1,35 @@
+&names
+    formula_extended = '(CH3(CH2)7CHCH(CH2)7COOCH2)2CHOOC(CH2)7CHCH(CH2)7CH3'
+    iupac = 'Triolein'
+/
+
+&pengrobinson
+    ac = 1808.8358535936454
+    b = 2.2570352685562773
+    k = 0.37464
+/
+
+&pure
+    a = 0.019443
+    acentric_factor = 0.0
+    b = 0.12411
+    c = 1238.0
+    d = 0.37833
+    pc = 4.7
+    tc = 1640.0
+    vc = 3.09
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 2869.301245832439
+    b = 0.6636356968004753
+    del1 = 29.335913029965567
+    k = -1.1683014092219994
+/
+
+&soaveredlichkwong
+    ac = 1691.1231175635671
+    b = 2.51362717600064
+    k = 0.48
+/

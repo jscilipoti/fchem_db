@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'Polyring compound, see ref. 5875'
+    iupac = 'Dehydroabietic Acid'
+/
+
+&pengrobinson
+    ac = 123.83173118245276
+    b = 0.306044545334969
+    k = 1.6139816582507405
+/
+
+&pure
+    a = 0.2542
+    acentric_factor = 0.91535
+    b = 0.249
+    c = 828.0
+    d = 0.28571
+    pc = 17.5
+    tc = 828.0
+    vc = 0.98
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 129.18313228663516
+    b = 0.2844312478601588
+    del1 = 3.2919513815637718
+    k = 4.1068883952929855
+/
+
+&soaveredlichkwong
+    ac = 115.77319350150832
+    b = 0.3408373351262749
+    k = 1.7741344160625
+/

@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'POLYRING COMPOUND, SEE REF. # 13139'
+    iupac = '1,3-Dimethyladamantane'
+/
+
+&pengrobinson
+    ac = 52.81467117767322
+    b = 0.15265265365137948
+    k = 0.803986440769728
+/
+
+&pure
+    a = 0.46939
+    acentric_factor = 0.29346
+    b = 0.26748
+    c = 708.0
+    d = 0.27248
+    pc = 30.0
+    tc = 708.0
+    vc = 0.57
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 48.73022325199046
+    b = 0.17343697622897747
+    del1 = 0.41421356237309515
+    k = 2.753926807074817
+/
+
+&soaveredlichkwong
+    ac = 49.37767636440617
+    b = 0.17000702826950673
+    k = 0.92683525497
+/

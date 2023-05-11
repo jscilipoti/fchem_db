@@ -1,0 +1,35 @@
+&names
+    formula_extended = '(CH3)2NC6H4CHO'
+    iupac = 'P-Dimethylaminobenzaldehyde'
+/
+
+&pengrobinson
+    ac = 71.27177857495533
+    b = 0.1752981392341795
+    k = 1.1192272280146427
+/
+
+&pure
+    a = 0.4438
+    acentric_factor = 0.527151
+    b = 0.2258
+    c = 832.0
+    d = 0.2857
+    pc = 30.7
+    tc = 832.0
+    vc = 0.471
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 83.77037906684905
+    b = 0.1288182615544881
+    del1 = 6.410498442193319
+    k = 2.1603170437736123
+/
+
+&soaveredlichkwong
+    ac = 66.63365951007714
+    b = 0.19522697443856563
+    k = 1.261105243059825
+/

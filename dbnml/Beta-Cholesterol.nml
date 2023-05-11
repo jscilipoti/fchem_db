@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'Polyring compound, see refs. 6857, 2867'
+    iupac = 'Beta-Cholesterol'
+/
+
+&pengrobinson
+    ac = 232.56080438261841
+    b = 0.49625049102262003
+    k = 1.6535041287881596
+/
+
+&pure
+    a = 0.15677
+    acentric_factor = 0.94769
+    b = 0.215
+    c = 959.0
+    d = 0.28571
+    pc = 12.5
+    tc = 959.0
+    vc = 1.35
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 271.2431993427897
+    b = 0.37079684758195436
+    del1 = 6.166660653055409
+    k = 3.437452647246172
+/
+
+&soaveredlichkwong
+    ac = 217.42655739008632
+    b = 0.5526669156286675
+    k = 1.8144937011825002
+/

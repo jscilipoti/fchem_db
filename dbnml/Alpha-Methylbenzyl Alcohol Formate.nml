@@ -1,0 +1,35 @@
+&names
+    formula_extended = '(C6H5)CH(CH3)OOCH'
+    iupac = 'Alpha-Methylbenzyl Alcohol Formate'
+/
+
+&pengrobinson
+    ac = 46.59131612686883
+    b = 0.13817800679468414
+    k = 0.997932482832201
+/
+
+&pure
+    a = 0.58201
+    acentric_factor = 0.437667
+    b = 0.26132
+    c = 690.0
+    d = 0.28571
+    pc = 32.3
+    tc = 690.0
+    vc = 0.449
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 48.0713318843304
+    b = 0.13095526615508601
+    del1 = 3.055984288535451
+    k = 2.654721556543687
+/
+
+&soaveredlichkwong
+    ac = 43.55931558041786
+    b = 0.15388682571490742
+    k = 1.135366187494425
+/

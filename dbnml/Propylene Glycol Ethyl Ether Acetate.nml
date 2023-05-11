@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'CH3COOCH(CH3)CH2OCH2CH3'
+    iupac = 'Propylene Glycol Ethyl Ether Acetate'
+/
+
+&pengrobinson
+    ac = 43.03493848803071
+    b = 0.14366260852415808
+    k = 1.1395211508084808
+/
+
+&pure
+    a = 0.57916
+    acentric_factor = 0.542485
+    b = 0.26757
+    c = 613.0
+    d = 0.28571
+    pc = 27.6
+    tc = 613.0
+    vc = 0.462
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 44.75124711842185
+    b = 0.1342807028058994
+    del1 = 3.222899737460832
+    k = 2.9694879688807494
+/
+
+&soaveredlichkwong
+    ac = 40.23437460919782
+    b = 0.15999494646463952
+    k = 1.282370644335625
+/

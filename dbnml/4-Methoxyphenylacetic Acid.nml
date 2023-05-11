@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'CH3O(C6H4)CH2COOH'
+    iupac = '4-Methoxyphenylacetic Acid'
+/
+
+&pengrobinson
+    ac = 47.80432085027501
+    b = 0.1273763993961967
+    k = 1.593194099918161
+/
+
+&pure
+    a = 0.61076
+    acentric_factor = 0.898421
+    b = 0.287
+    c = 768.0
+    d = 0.28571
+    pc = 39.0
+    tc = 768.0
+    vc = 0.47
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 44.46677469900996
+    b = 0.1429586805423827
+    del1 = 0.8547617631179075
+    k = 4.822105364725995
+/
+
+&soaveredlichkwong
+    ac = 44.69338218208907
+    b = 0.14185723349737195
+    k = 1.752861602682825
+/

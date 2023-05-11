@@ -1,0 +1,35 @@
+&names
+    formula_extended = '-CH(CH3)CH2CH2CH(CH3)(CH2)2-'
+    iupac = 'Trans-1,4-Dimethylcyclohexane'
+/
+
+&pengrobinson
+    ac = 37.134140014415756
+    b = 0.12930065224102924
+    k = 0.7500838210431999
+/
+
+&pure
+    a = 0.57193
+    acentric_factor = 0.2548
+    b = 0.25737
+    c = 587.7
+    d = 0.2808
+    pc = 29.4
+    tc = 587.7
+    vc = 0.45
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 36.29523466383819
+    b = 0.13426983872750248
+    del1 = 1.9589760992934033
+    k = 2.282300582309408
+/
+
+&soaveredlichkwong
+    ac = 34.71757954402446
+    b = 0.14400024575404863
+    k = 0.869693668
+/

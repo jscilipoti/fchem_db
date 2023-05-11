@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'CHF2OCH2CF3'
+    iupac = '2-(Difluoromethoxy)-1,1,1-Trifluoroethane'
+/
+
+&pengrobinson
+    ac = 18.222495019704503
+    b = 0.08398052061753149
+    k = 0.9333561914331724
+/
+
+&pure
+    a = 0.90904
+    acentric_factor = 0.388716
+    b = 0.2627
+    c = 444.03
+    d = 0.27702
+    pc = 34.2
+    tc = 444.03
+    vc = 0.289
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 17.974921866559114
+    b = 0.08591072400186867
+    del1 = 2.141341876524125
+    k = 2.741798182746778
+/
+
+&soaveredlichkwong
+    ac = 17.03663852432249
+    b = 0.09352787784035713
+    k = 1.0653964614852
+/

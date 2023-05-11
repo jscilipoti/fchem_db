@@ -1,0 +1,35 @@
+&names
+    formula_extended = '(CH3)2CHCH2COOCH2CH2CH(CH3)2'
+    iupac = 'Isopentyl Isovalerate'
+/
+
+&pengrobinson
+    ac = 58.299590387572806
+    b = 0.18728763554685812
+    k = 1.1869611101457185
+/
+
+&pure
+    a = 0.46229
+    acentric_factor = 0.578522
+    b = 0.27737
+    c = 637.0
+    d = 0.25727
+    pc = 22.0
+    tc = 637.0
+    vc = 0.6
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 60.798020850082594
+    b = 0.1741684803495533
+    del1 = 3.2844774492744584
+    k = 3.0723426433173104
+/
+
+&soaveredlichkwong
+    ac = 54.50565613957568
+    b = 0.20857950117040788
+    k = 1.3320232797153
+/

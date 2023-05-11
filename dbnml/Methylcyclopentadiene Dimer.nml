@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'Polyring compound, see ref. 6857'
+    iupac = 'Methylcyclopentadiene Dimer'
+/
+
+&pengrobinson
+    ac = 54.55228399725348
+    b = 0.16538350862654266
+    k = 0.9785250000710323
+/
+
+&pure
+    a = 0.4704
+    acentric_factor = 0.422852
+    b = 0.254
+    c = 675.0
+    d = 0.28571
+    pc = 26.4
+    tc = 675.0
+    vc = 0.541
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 55.99983771727193
+    b = 0.1581392943695495
+    del1 = 2.949219949664353
+    k = 2.632216072342586
+/
+
+&soaveredlichkwong
+    ac = 51.00221139489498
+    b = 0.18418519530353916
+    k = 1.1142783805668
+/

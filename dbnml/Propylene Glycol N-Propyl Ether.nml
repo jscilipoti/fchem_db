@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'CH3CH(OH)CH2OCH2CH2CH3'
+    iupac = 'Propylene Glycol N-Propyl Ether'
+/
+
+&pengrobinson
+    ac = 31.448839466726778
+    b = 0.1123137783028254
+    k = 1.4712566743597415
+/
+
+&pure
+    a = 0.64989
+    acentric_factor = 0.80023
+    b = 0.25996
+    c = 573.0
+    d = 0.28571
+    pc = 33.0
+    tc = 573.0
+    vc = 0.4
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 30.155653142029067
+    b = 0.1202614000471708
+    del1 = 1.5726042188996878
+    k = 4.322532252314659
+/
+
+&soaveredlichkwong
+    ac = 29.402258550473693
+    b = 0.12508221263280345
+    k = 1.6274976107424999
+/

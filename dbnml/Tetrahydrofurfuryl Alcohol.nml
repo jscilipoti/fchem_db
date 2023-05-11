@@ -1,0 +1,35 @@
+&names
+    formula_extended = '(CH2CH2CH2OCH)CH2OH'
+    iupac = 'Tetrahydrofurfuryl Alcohol'
+/
+
+&pengrobinson
+    ac = 27.696514563037052
+    b = 0.08869666625739386
+    k = 1.349883782981703
+/
+
+&pure
+    a = 0.97001
+    acentric_factor = 0.704357
+    b = 0.2813
+    c = 639.0
+    d = 0.23837
+    pc = 46.6
+    tc = 639.0
+    vc = 0.29
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 28.442174941723724
+    b = 0.08475573729569459
+    del1 = 2.957106724672041
+    k = 3.5776382165071006
+/
+
+&soaveredlichkwong
+    ac = 25.894121879790063
+    b = 0.09878018027952896
+    k = 1.501837130896425
+/

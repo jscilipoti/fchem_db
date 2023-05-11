@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'NCCH(CH3)CH2CH2CN'
+    iupac = 'Methylglutaronitrile'
+/
+
+&pengrobinson
+    ac = 60.4261107550622
+    b = 0.16664940708763473
+    k = 1.264569539973143
+/
+
+&pure
+    a = 0.54145
+    acentric_factor = 0.63806
+    b = 0.21875
+    c = 742.0
+    d = 0.3546
+    pc = 28.8
+    tc = 742.0
+    vc = 0.404
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 75.42828747721032
+    b = 0.10663915331210251
+    del1 = 8.604605201843976
+    k = 2.115475019772251
+/
+
+&soaveredlichkwong
+    ac = 56.493789969567175
+    b = 0.18559500790956623
+    k = 1.41306034137
+/

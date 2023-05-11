@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'CH3CH2CH2O2CCHCHCO2CH2CH2CH3'
+    iupac = 'Dipropyl Maleate'
+/
+
+&pengrobinson
+    ac = 68.60294087978296
+    b = 0.2031644523750062
+    k = 1.4477790729094993
+/
+
+&pure
+    a = 0.4215
+    acentric_factor = 0.781541
+    b = 0.2588
+    c = 691.0
+    d = 0.30125
+    pc = 22.0
+    tc = 691.0
+    vc = 0.614
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 74.62661693349591
+    b = 0.1747784097995926
+    del1 = 4.251297929920836
+    k = 3.4389671561391943
+/
+
+&soaveredlichkwong
+    ac = 64.13850047485326
+    b = 0.22626127991954761
+    k = 1.603254425430825
+/

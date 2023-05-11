@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'Polyring compound, see refs. 1353 and 4350.'
+    iupac = 'Benzanthracene'
+/
+
+&pengrobinson
+    ac = 126.75841562454875
+    b = 0.2649580666702725
+    k = 1.174743051847878
+/
+
+&pure
+    a = 0.29362
+    acentric_factor = 0.569215
+    b = 0.203
+    c = 979.0
+    d = 0.28571
+    pc = 23.9
+    tc = 979.0
+    vc = 0.69
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 151.84271334791498
+    b = 0.18669952844181728
+    del1 = 7.04350572086179
+    k = 2.1723808406777123
+/
+
+&soaveredlichkwong
+    ac = 118.50941951560966
+    b = 0.29507992460791266
+    k = 1.319243409660625
+/

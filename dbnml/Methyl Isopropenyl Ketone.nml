@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'CH2C(CH3)COCH3'
+    iupac = 'Methyl Isopropenyl Ketone'
+/
+
+&pengrobinson
+    ac = 26.03110360114209
+    b = 0.09411507338098642
+    k = 0.7939116684302879
+/
+
+&pure
+    a = 0.8266
+    acentric_factor = 0.28619
+    b = 0.25094
+    c = 566.0
+    d = 0.2857
+    pc = 38.9
+    tc = 566.0
+    vc = 0.302
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 27.11370284740162
+    b = 0.0877124107222044
+    del1 = 3.258221326869346
+    k = 2.0489169638268567
+/
+
+&soaveredlichkwong
+    ac = 24.33709006161324
+    b = 0.104814581064595
+    k = 0.9161297346825
+/

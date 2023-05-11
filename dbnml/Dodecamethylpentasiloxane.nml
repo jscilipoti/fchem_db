@@ -1,0 +1,35 @@
+&names
+    formula_extended = '(CH3)3SiO(Si(CH3)2O)3Si(CH3)3'
+    iupac = 'Dodecamethylpentasiloxane'
+/
+
+&pengrobinson
+    ac = 132.0838939407687
+    b = 0.43012701800074815
+    k = 1.3771199235268254
+/
+
+&pure
+    a = 0.1516
+    acentric_factor = 0.725711
+    b = 0.22876
+    c = 628.4
+    d = 0.28646
+    pc = 9.45
+    tc = 628.4
+    vc = 1.509
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 128.25127352906526
+    b = 0.45144360343922674
+    del1 = 1.8272590498391315
+    k = 4.005452987200854
+/
+
+&soaveredlichkwong
+    ac = 123.4883342550265
+    b = 0.47902617058809976
+    k = 1.5301042342838251
+/

@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'CH3CO2CH2CH2O(CH2)3CH3'
+    iupac = 'Ethylene Glycol Monobutyl Ether Acetate'
+/
+
+&pengrobinson
+    ac = 52.401614289472235
+    b = 0.1672377007949435
+    k = 1.162298682519161
+/
+
+&pure
+    a = 0.45124
+    acentric_factor = 0.559754
+    b = 0.24773
+    c = 641.2
+    d = 0.28571
+    pc = 24.8
+    tc = 641.2
+    vc = 0.549
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 53.64682469784106
+    b = 0.16066657380620386
+    del1 = 2.892862389577863
+    k = 3.124227090246248
+/
+
+&soaveredlichkwong
+    ac = 48.991499779550345
+    b = 0.18625018200930787
+    k = 1.3062210014097
+/

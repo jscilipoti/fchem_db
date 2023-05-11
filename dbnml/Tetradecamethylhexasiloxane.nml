@@ -1,0 +1,35 @@
+&names
+    formula_extended = '(CH3)3SiO(Si(CH3)2O)4Si(CH3)3'
+    iupac = 'Tetradecamethylhexasiloxane'
+/
+
+&pengrobinson
+    ac = 167.74347008150647
+    b = 0.525511812574211
+    k = 1.452190052848396
+/
+
+&pure
+    a = 0.12413
+    acentric_factor = 0.785047
+    b = 0.2244
+    c = 653.2
+    d = 0.29443
+    pc = 8.04
+    tc = 653.2
+    vc = 1.808
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 165.4963340485313
+    b = 0.5374199595714855
+    del1 = 2.1451680114643237
+    k = 4.089760922104281
+/
+
+&soaveredlichkwong
+    ac = 156.82730940543135
+    b = 0.5852548215787682
+    k = 1.6078116893634251
+/

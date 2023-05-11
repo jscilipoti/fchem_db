@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'CH3OOC(C10H6)COOCH3'
+    iupac = 'Dimethyl-2,6-Naphthalenedicarboxylate'
+/
+
+&pengrobinson
+    ac = 99.17548515224463
+    b = 0.2298405571977084
+    k = 1.3255163909513716
+/
+
+&pure
+    a = 0.33848
+    acentric_factor = 0.68533
+    b = 0.236
+    c = 883.0
+    d = 0.28571
+    pc = 24.85
+    tc = 883.0
+    vc = 0.698
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 107.51615759497082
+    b = 0.19901470381422795
+    del1 = 4.168673189003712
+    k = 3.1690967945790165
+/
+
+&soaveredlichkwong
+    ac = 92.72149006961303
+    b = 0.25597006779997683
+    k = 1.4765159084425
+/

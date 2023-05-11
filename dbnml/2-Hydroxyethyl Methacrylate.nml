@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'CH2C(CH3)COOCH2CH2OH'
+    iupac = '2-Hydroxyethyl Methacrylate'
+/
+
+&pengrobinson
+    ac = 39.800201726614986
+    b = 0.12030388168418688
+    k = 1.5192772290058287
+/
+
+&pure
+    a = 0.64667
+    acentric_factor = 0.838673
+    b = 0.2528
+    c = 677.0
+    d = 0.28571
+    pc = 36.4
+    tc = 677.0
+    vc = 0.394
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 40.819506415991555
+    b = 0.11521503711344375
+    del1 = 2.9304071149998276
+    k = 3.9978607273585283
+/
+
+&soaveredlichkwong
+    ac = 37.21014324757658
+    b = 0.13398067393655247
+    k = 1.676981131837425
+/

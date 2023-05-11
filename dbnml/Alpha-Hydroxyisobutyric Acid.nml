@@ -1,0 +1,35 @@
+&names
+    formula_extended = '(CH3)2C(OH)COOH'
+    iupac = 'Alpha-Hydroxyisobutyric Acid'
+/
+
+&pengrobinson
+    ac = 28.325682021643683
+    b = 0.08729619851911599
+    k = 1.696725250761007
+/
+
+&pure
+    a = 0.89118
+    acentric_factor = 0.983288
+    b = 0.268
+    c = 664.0
+    d = 0.28571
+    pc = 49.2
+    tc = 664.0
+    vc = 0.301
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 27.89649560042473
+    b = 0.08953599800437115
+    del1 = 2.1097656109443883
+    k = 4.686850038134409
+/
+
+&soaveredlichkwong
+    ac = 26.482345311979632
+    b = 0.09722049983718516
+    k = 1.8584956360848
+/

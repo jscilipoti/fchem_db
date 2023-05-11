@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'CH3CH(OH)CH2OCH(CH3)CH2OCH2CH2CH3'
+    iupac = 'Dipropylene Glycol N-Propyl Ether'
+/
+
+&pengrobinson
+    ac = 52.107395801927254
+    b = 0.16952422165734057
+    k = 1.672244171142975
+/
+
+&pure
+    a = 0.45891
+    acentric_factor = 0.963095
+    b = 0.26512
+    c = 629.0
+    d = 0.28571
+    pc = 24.0
+    tc = 629.0
+    vc = 0.578
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 51.78408913283838
+    b = 0.17129556382207925
+    del1 = 2.289754955167173
+    k = 4.569043963480151
+/
+
+&soaveredlichkwong
+    ac = 48.71642800622531
+    b = 0.18879664686002776
+    k = 1.8335899336706252
+/

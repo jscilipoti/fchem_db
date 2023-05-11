@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'ClNO2(C6H3)CF3'
+    iupac = '4-Chloro-3-Nitrobenzotrifluoride'
+/
+
+&pengrobinson
+    ac = 54.28839324303847
+    b = 0.16194439008543599
+    k = 1.2199960653170563
+/
+
+&pure
+    a = 0.4804
+    acentric_factor = 0.603776
+    b = 0.241
+    c = 686.0
+    d = 0.2857
+    pc = 27.4
+    tc = 686.0
+    vc = 0.49
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 59.00660443745391
+    b = 0.1395363063762449
+    del1 = 4.231287727001869
+    k = 2.8951924525318713
+/
+
+&soaveredlichkwong
+    ac = 50.7554937316655
+    b = 0.18035509927143634
+    k = 1.3665479688192002
+/

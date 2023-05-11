@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'C6H5CH(CH3)OOH'
+    iupac = 'Ethylbenzene Hydroperoxide'
+/
+
+&pengrobinson
+    ac = 45.30071798373225
+    b = 0.12578261900302612
+    k = 1.4872198890697337
+/
+
+&pure
+    a = 0.6185
+    acentric_factor = 0.812977
+    b = 0.25728
+    c = 737.0
+    d = 0.28571
+    pc = 37.9
+    tc = 737.0
+    vc = 0.416
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 46.111728119469795
+    b = 0.12204585435028865
+    del1 = 2.7741914665432112
+    k = 3.9707349430853602
+/
+
+&soaveredlichkwong
+    ac = 42.35270506846524
+    b = 0.1400822635779107
+    k = 1.6439627675574249
+/

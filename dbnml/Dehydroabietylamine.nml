@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'Polyring compound, see ref. 3701'
+    iupac = 'Dehydroabietylamine'
+/
+
+&pengrobinson
+    ac = 138.4783848958932
+    b = 0.3283630112191936
+    k = 1.3972235336844858
+/
+
+&pure
+    a = 0.23692
+    acentric_factor = 0.741532
+    b = 0.24231
+    c = 863.0
+    d = 0.28571
+    pc = 17.0
+    tc = 863.0
+    vc = 1.02
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 147.7227575949969
+    b = 0.29304291122569437
+    del1 = 3.789380629407833
+    k = 3.4466729945753567
+/
+
+&soaveredlichkwong
+    ac = 129.4666940148566
+    b = 0.3656930842387445
+    k = 1.5509441692708
+/

@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'C6H4(COO(CH2)6CH3)(COO(CH2)10CH3)'
+    iupac = '1,2-Benzene Dicarboxylic Acid, Heptyl, Undecyl Ester'
+/
+
+&pengrobinson
+    ac = 227.7270255716694
+    b = 0.5307659983601741
+    k = 1.74160580257795
+/
+
+&pure
+    a = 0.20005
+    acentric_factor = 1.02051
+    b = 0.27407
+    c = 878.0
+    d = 0.28571
+    pc = 10.7
+    tc = 878.0
+    vc = 1.37
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 274.23555815448316
+    b = 0.3695615814985423
+    del1 = 7.228421646840196
+    k = 3.406442116481556
+/
+
+&soaveredlichkwong
+    ac = 212.90734406503842
+    b = 0.5911063314613768
+    k = 1.9040306244825
+/

@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'Polycyclic compound, see ref 10274'
+    iupac = '5-Ethylidene-2-Norbornene'
+/
+
+&pengrobinson
+    ac = 36.78169115430159
+    b = 0.1196641564640051
+    k = 0.8323721081266919
+/
+
+&pure
+    a = 0.64364
+    acentric_factor = 0.314055
+    b = 0.26267
+    c = 629.0
+    d = 0.29052
+    pc = 34.0
+    tc = 629.0
+    vc = 0.4081
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 36.54630235433756
+    b = 0.1209539661724221
+    del1 = 2.28584103317566
+    k = 2.4198568034480186
+/
+
+&soaveredlichkwong
+    ac = 34.38806682792375
+    b = 0.1332682213129608
+    k = 0.957062224970625
+/

@@ -1,0 +1,35 @@
+&names
+    formula_extended = '(CH3)3SiO(Si(CH3)2O)5Si(CH3)3'
+    iupac = 'Hexadecamethylheptasiloxane'
+/
+
+&pengrobinson
+    ac = 210.71752174525844
+    b = 0.6418649871253832
+    k = 1.5792927729351869
+/
+
+&pure
+    a = 0.10153
+    acentric_factor = 0.887131
+    b = 0.21657
+    c = 671.8
+    d = 0.30749
+    pc = 6.77
+    tc = 671.8
+    vc = 2.133
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 213.69638634096688
+    b = 0.6267731029279967
+    del1 = 2.698205313616547
+    k = 4.215212423542118
+/
+
+&soaveredlichkwong
+    ac = 197.00475949276708
+    b = 0.7148356507489084
+    k = 1.7386189470468252
+/

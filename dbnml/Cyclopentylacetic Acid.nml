@@ -1,0 +1,35 @@
+&names
+    formula_extended = '-CH2CH2CH(CH2COOH)CH2CH2-'
+    iupac = 'Cyclopentylacetic Acid'
+/
+
+&pengrobinson
+    ac = 43.76906451188388
+    b = 0.12650772402048022
+    k = 1.2338616716336732
+/
+
+&pure
+    a = 0.61496
+    acentric_factor = 0.614415
+    b = 0.25215
+    c = 708.0
+    d = 0.28571
+    pc = 36.2
+    tc = 708.0
+    vc = 0.41
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 45.249404189260346
+    b = 0.11947581768683765
+    del1 = 3.098109964488305
+    k = 3.245234251319527
+/
+
+&soaveredlichkwong
+    ac = 40.92072626884489
+    b = 0.14088980243329285
+    k = 1.381025696360625
+/

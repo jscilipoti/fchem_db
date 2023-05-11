@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'H2N(CH2CH2NH)4CH2CH2NH2'
+    iupac = 'Pentaethylene Hexamine'
+/
+
+&pengrobinson
+    ac = 100.72901080438547
+    b = 0.25137596592925365
+    k = 2.1673448169527476
+/
+
+&pure
+    a = 0.2453
+    acentric_factor = 1.38683
+    b = 0.22371
+    c = 820.0
+    d = 0.28571
+    pc = 21.1
+    tc = 820.0
+    vc = 0.912
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 95.07887088951746
+    b = 0.27586942071242965
+    del1 = 1.2334619415874957
+    k = 5.990147803191833
+/
+
+&soaveredlichkwong
+    ac = 94.17391768422708
+    b = 0.27995373761144565
+    k = 2.3262933664425
+/

@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'HSCH2CH2OCH2CH2SH'
+    iupac = 'Dimercaptoethyl Ether'
+/
+
+&pengrobinson
+    ac = 44.40664332032978
+    b = 0.1262113713529388
+    k = 0.973860890217892
+/
+
+&pure
+    a = 0.6806
+    acentric_factor = 0.419305
+    b = 0.25727
+    c = 720.0
+    d = 0.303
+    pc = 36.9
+    tc = 720.0
+    vc = 0.378
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 48.61142938297519
+    b = 0.10727204408983913
+    del1 = 4.4064119757310225
+    k = 2.238071260898143
+/
+
+&soaveredlichkwong
+    ac = 41.51681366952825
+    b = 0.14055975880074967
+    k = 1.1092181504706249
+/

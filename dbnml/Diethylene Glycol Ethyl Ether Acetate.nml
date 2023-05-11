@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'CH3COOCH2CH2OCH2CH2OCH2CH3'
+    iupac = 'Diethylene Glycol Ethyl Ether Acetate'
+/
+
+&pengrobinson
+    ac = 56.89601175417253
+    b = 0.1764090758683122
+    k = 1.3628392179991997
+/
+
+&pure
+    a = 0.441
+    acentric_factor = 0.714503
+    b = 0.24902
+    c = 660.0
+    d = 0.2857
+    pc = 24.2
+    tc = 660.0
+    vc = 0.565
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 59.34599177436876
+    b = 0.16399418631439955
+    del1 = 3.2887453075140387
+    k = 3.5090221000923054
+/
+
+&soaveredlichkwong
+    ac = 53.19341751408306
+    b = 0.19646420832377506
+    k = 1.515287678023425
+/

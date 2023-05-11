@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'C6H4(COO(CH2)6CH3)(COO(CH2)8CH3)'
+    iupac = '1,2-Benzenedicarboxylic Acid, Heptyl, Nonyl Ester'
+/
+
+&pengrobinson
+    ac = 192.72733759340468
+    b = 0.46895412668326325
+    k = 1.8297255172709752
+/
+
+&pure
+    a = 0.21142
+    acentric_factor = 1.09436
+    b = 0.26851
+    c = 841.0
+    d = 0.28571
+    pc = 11.6
+    tc = 841.0
+    vc = 1.27
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 225.41821870799146
+    b = 0.3482854000368783
+    del1 = 6.254836763257412
+    k = 3.796339827099281
+/
+
+&soaveredlichkwong
+    ac = 180.18531385430163
+    b = 0.5222673537940354
+    k = 1.9929384733199997
+/

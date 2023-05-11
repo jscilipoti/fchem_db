@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'Polyring compound, see ref. 5875'
+    iupac = 'Neoabietic Acid'
+/
+
+&pengrobinson
+    ac = 124.79721880919206
+    b = 0.3145081568175178
+    k = 1.5454723180798962
+/
+
+&pure
+    a = 0.24736
+    acentric_factor = 0.859767
+    b = 0.247
+    c = 812.0
+    d = 0.28571
+    pc = 16.7
+    tc = 812.0
+    vc = 0.998
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 131.07158813976554
+    b = 0.2887773263877522
+    del1 = 3.4392834707208766
+    k = 3.9019057833562742
+/
+
+&soaveredlichkwong
+    ac = 116.67585055690479
+    b = 0.3502631354786345
+    k = 1.703913381499425
+/

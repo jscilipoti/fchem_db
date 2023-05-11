@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'Polycyclic compound, see ref 9864'
+    iupac = 'Ethylnorbornene'
+/
+
+&pengrobinson
+    ac = 40.350407755035654
+    b = 0.13211464015192223
+    k = 0.7581421609831579
+/
+
+&pure
+    a = 0.58886
+    acentric_factor = 0.260543
+    b = 0.25715
+    c = 625.0
+    d = 0.28571
+    pc = 30.6
+    tc = 625.0
+    vc = 0.437
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 41.068563174745854
+    b = 0.12821249809851717
+    del1 = 2.7720734692532383
+    k = 2.0809959075656463
+/
+
+&soaveredlichkwong
+    ac = 37.724543784383975
+    b = 0.14713414294400368
+    k = 0.8782152174014249
+/

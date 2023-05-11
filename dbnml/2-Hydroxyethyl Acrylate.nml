@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'CH2CHCOOCH2CH2OH'
+    iupac = '2-Hydroxyethyl Acrylate'
+/
+
+&pengrobinson
+    ac = 34.80504714572248
+    b = 0.10758885179841284
+    k = 1.5508719357115124
+/
+
+&pure
+    a = 0.7231
+    acentric_factor = 0.864126
+    b = 0.25961
+    c = 662.0
+    d = 0.2857
+    pc = 39.8
+    tc = 662.0
+    vc = 0.359
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 35.18444066062715
+    b = 0.10563441544804493
+    del1 = 2.6330514462802057
+    k = 4.169030381249753
+/
+
+&soaveredlichkwong
+    ac = 32.54005592551901
+    b = 0.11982013107317674
+    k = 1.7094594188216998
+/

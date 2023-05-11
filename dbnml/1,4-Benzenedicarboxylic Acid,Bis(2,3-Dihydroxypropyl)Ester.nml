@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'C6H4(COOCH2CH(OH)CH2(OH))'
+    iupac = '1,4-Benzenedicarboxylic Acid,Bis(2,3-Dihydroxypropyl)Ester'
+/
+
+&pengrobinson
+    ac = 84.20999438328178
+    b = 0.19537909293086353
+    k = 2.6103319702633203
+/
+
+&pure
+    a = 0.39818
+    acentric_factor = 1.79353
+    b = 0.32332
+    c = 882.0
+    d = 0.28571
+    pc = 29.2
+    tc = 882.0
+    vc = 0.812
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 77.69757408015295
+    b = 0.2219808060046989
+    del1 = 0.41421356237309515
+    k = 6.9082606725067315
+/
+
+&soaveredlichkwong
+    ac = 78.72990130560416
+    b = 0.21759083894489334
+    k = 2.7400849943425003
+/

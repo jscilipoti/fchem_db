@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'CH3CH(OH)CH2OCH2CH(OH)CH3'
+    iupac = 'Dipropylene Glycol'
+/
+
+&pengrobinson
+    ac = 37.76433048331418
+    b = 0.11816451506486386
+    k = 1.9510219990349913
+/
+
+&pure
+    a = 0.65838
+    acentric_factor = 1.19769
+    b = 0.265
+    c = 654.0
+    d = 0.2857
+    pc = 35.8
+    tc = 654.0
+    vc = 0.415
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 36.6358345497674
+    b = 0.12419863330361756
+    del1 = 1.8093625536280347
+    k = 5.3568578080812514
+/
+
+&soaveredlichkwong
+    ac = 35.30675941255983
+    b = 0.13159809261464042
+    k = 2.1141333261824995
+/

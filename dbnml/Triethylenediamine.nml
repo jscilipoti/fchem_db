@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'Ring compound, see ref. 3212'
+    iupac = 'Triethylenediamine'
+/
+
+&pengrobinson
+    ac = 34.68288070877219
+    b = 0.10835698138373309
+    k = 1.027222010097298
+/
+
+&pure
+    a = 0.71797
+    acentric_factor = 0.460199
+    b = 0.274
+    c = 655.0
+    d = 0.28571
+    pc = 39.1
+    tc = 655.0
+    vc = 0.382
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 33.54089878536204
+    b = 0.1144654325992336
+    del1 = 1.746129760564779
+    k = 3.120649775549345
+/
+
+&soaveredlichkwong
+    ac = 32.42583965470231
+    b = 0.12067558576068195
+    k = 1.1672911800698251
+/

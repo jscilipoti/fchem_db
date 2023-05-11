@@ -1,0 +1,35 @@
+&names
+    formula_extended = '-((CH3)2SiO)4-'
+    iupac = 'Octamethylcyclotetrasiloxane'
+/
+
+&pengrobinson
+    ac = 81.62837061739536
+    b = 0.2848105988399439
+    k = 1.2007433145438715
+/
+
+&pure
+    a = 0.26052
+    acentric_factor = 0.589042
+    b = 0.2523
+    c = 586.5
+    d = 0.2769
+    pc = 13.32
+    tc = 586.5
+    vc = 0.97
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 81.19374170721119
+    b = 0.2873630307341603
+    del1 = 2.3074179610992376
+    k = 3.4018970514413893
+/
+
+&soaveredlichkwong
+    ac = 76.3162806209697
+    b = 0.31718939939960833
+    k = 1.3464322743913
+/

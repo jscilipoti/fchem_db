@@ -1,0 +1,35 @@
+&names
+    formula_extended = '(CH3)3COCH(CH3)CH2OCH2CH(OH)CH3'
+    iupac = 'Dipropylene Glycol T-Butyl Ether'
+/
+
+&pengrobinson
+    ac = 63.060313336577124
+    b = 0.19346986392313997
+    k = 1.7128090369089244
+/
+
+&pure
+    a = 0.40211
+    acentric_factor = 0.996597
+    b = 0.254
+    c = 667.0
+    d = 0.28571
+    pc = 22.3
+    tc = 667.0
+    vc = 0.631
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 64.88045895425817
+    b = 0.18426477517023218
+    del1 = 2.996672159773004
+    k = 4.427281512959928
+/
+
+&soaveredlichkwong
+    ac = 58.956567823674376
+    b = 0.21546455851592494
+    k = 1.874832701428425
+/

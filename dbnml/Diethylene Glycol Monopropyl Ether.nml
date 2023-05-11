@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'CH3CH2CH2OCH2CH2OCH2CH2OH'
+    iupac = 'Diethylene Glycol Monopropyl Ether'
+/
+
+&pengrobinson
+    ac = 48.65875045483142
+    b = 0.14647477098912554
+    k = 1.229880645979409
+/
+
+&pure
+    a = 0.51825
+    acentric_factor = 0.611358
+    b = 0.25339
+    c = 679.8
+    d = 0.2972
+    pc = 30.02
+    tc = 679.8
+    vc = 0.489
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 49.16978054789382
+    b = 0.14391052046450978
+    del1 = 2.6250423706997887
+    k = 3.3783247101266203
+/
+
+&soaveredlichkwong
+    ac = 45.492208484500836
+    b = 0.16312681068215912
+    k = 1.3768697362713
+/

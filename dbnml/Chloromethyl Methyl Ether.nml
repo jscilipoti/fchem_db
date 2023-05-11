@@ -1,0 +1,35 @@
+&names
+    formula_extended = 'ClCH2OCH3'
+    iupac = 'Chloromethyl Methyl Ether'
+/
+
+&pengrobinson
+    ac = 17.05755503265335
+    b = 0.06699803935064925
+    k = 0.7710378556846079
+/
+
+&pure
+    a = 1.1654
+    acentric_factor = 0.26976
+    b = 0.2494
+    c = 521.0
+    d = 0.34942
+    pc = 50.3
+    tc = 521.0
+    vc = 0.214
+    vc_rat = 1.168
+/
+
+&rkpr
+    ac = 17.82802940093188
+    b = 0.06205841940258912
+    del1 = 3.332573524935712
+    k = 1.9682016437605299
+/
+
+&soaveredlichkwong
+    ac = 15.947508773404262
+    b = 0.07461473677293275
+    k = 0.89186740992
+/
