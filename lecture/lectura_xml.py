@@ -3,8 +3,20 @@ import xml.etree.ElementTree as ET
 root = ET.parse("lecture/ChemSep8.32.xml")
 comp = root.getroot()
 
-#import ipdb
-#ipdb.set_trace()
+import ipdb
+ipdb.set_trace()
+
+
+""" class Reader:
+    def __init__(self, c_index) -> None:
+        root = ET.parse("lecture/ChemSep8.32.xml")
+        comp = root.getroot()
+
+        self.c_index = c_index
+        self.compound = comp[c_index] """
+
+        
+
 
 print (len(comp))
 for child in comp:
