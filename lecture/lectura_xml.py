@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-root = ET.parse("src/ChemSep8.32.xml")
+root = ET.parse("lecture/ChemSep8.32.xml")
 root_node = root.getroot()
 
 print (len(root_node))
