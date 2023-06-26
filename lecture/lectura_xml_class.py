@@ -20,7 +20,8 @@ class Reader:
 class Propiedad:
     def __init__(self, compound_property) -> None:
         self.compound_property = compound_property
-        self.attrib = self.compound_property.attrib.get("value")
+        self.name = self.compound_property.attrib.get("name")
+        self.value = self.compound_property.attrib.get("value")
         self.dict = {}
 
         for property in self.compound_property:
@@ -29,8 +30,9 @@ class Propiedad:
     def __getitem__(self, key:str):
         return self.dict.get(key)["value"]
     
-substance = Reader(430)
-print (substance["LiquidDensity"]["A"])
+substance = Reader(0)
+print (substance["SolubilityParameter"].name)
+print (substance["SolubilityParameter"].value)
 print
 #coso["eqno"]
     
