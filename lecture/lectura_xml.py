@@ -3,8 +3,8 @@ import xml.etree.ElementTree as ET
 root = ET.parse("lecture/ChemSep8.32.xml")
 comp = root.getroot()
 
-import ipdb
-ipdb.set_trace()
+#import ipdb
+#ipdb.set_trace()
 
 
 """ class Reader:
