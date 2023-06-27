@@ -1,0 +1,308 @@
+&LibraryIndex
+  name = Index
+  value = 1289
+/
+&CompoundID
+  name = Name
+  value = Terephthalic acid
+/
+&StructureFormula
+  name = Structure
+  value = COOH(C6H4)COOH
+/
+&Family
+  name = Family
+  value = 53
+/
+&CriticalTemperature
+  name = Critical temperature
+  units = K
+  value = 943.0648
+/
+&CriticalPressure
+  name = Critical pressure
+  units = Pa
+  value = 4492234
+/
+&CriticalVolume
+  name = Critical volume
+  units = m3/kmol
+  value = 0.4235
+/
+&CriticalCompressibility
+  name = Critical compressibility factor
+  units = _
+  value = 0.242627
+/
+&NormalBoilingPointTemperature
+  name = Normal boiling point
+  units = K
+  value = 665.55
+/
+&NormalMeltingPointTemperature
+  name = Melting point
+  units = K
+  value = 573.15
+/
+&MolecularWeight
+  name = Molecular weight
+  units = kg/kmol
+  value = 166.1308
+/
+&LiquidVolumeAtNormalBoilingPoint
+  name = Liquid molar volume at normal boiling point
+  units = m3/kmol
+  value = 0.115821
+/
+&AcentricityFactor
+  name = Acentric factor
+  units = _
+  value = 1.16031
+/
+&RadiusOfGyration
+  name = Radius of gyration
+  units = m
+  value = 4.162787E-10
+/
+&SolubilityParameter
+  name = Solubility parameter
+  units = J0.5/m1.5
+  value = 29038.44
+/
+&VanDerWaalsVolume
+  name = Van der Waals volume
+  units = m3/kmol
+  value = 0.0828
+/
+&VanDerWaalsArea
+  name = Van der Waals area
+  units = m2/kmol
+  value = 1.062E+09
+/
+&HeatOfFormation
+  name = IG heat of formation
+  units = J/kmol
+  value = -7.179E+08
+/
+&GibbsEnergyOfFormation
+  name = IG Gibbs energy of formation
+  units = J/kmol
+  value = -5.99E+08
+/
+&AbsEntropy
+  name = IG absolute entropy
+  units = J/kmol/K
+  value = 448000
+/
+&HeatOfFusionAtMeltingPoint
+  name = Heat of fusion at melting point
+  units = J/kmol
+  value = 0
+/
+&HeatOfCombustion
+  name = Standard net heat of combustion LHV
+  units = J/kmol
+  value = -3.0576E+09
+/
+&SolidDensity
+  name = Solid density
+  units = kmol/m3
+  eqno = 2
+  A = 9.0891
+  B = -4.8319E-09
+  C = 0
+  D = 0
+  E = 0
+  Tmin = 298.15
+  Tmax = 307.65
+/
+&LiquidDensity
+  name = Liquid density
+  units = kmol/m3
+  eqno = 105
+  A = 0.42685
+  B = 0.181
+  C = 1113
+  D = 0.28571
+  Tmin = 700.15
+  Tmax = 1113
+/
+&VaporPressure
+  name = Vapour pressure
+  units = Pa
+  eqno = 101
+  A = 215.8574
+  B = -29586.64
+  C = -25.50026
+  D = 3.863371E-06
+  E = 2
+  Tmin = 700.15
+  Tmax = 1113
+/
+&HeatOfVaporization
+  name = Heat of vaporization
+  units = J/kmol
+  eqno = 106
+  A = 8.9802E+07
+  B = 0.189
+  C = -0.50305
+  D = -1.1074
+  E = 4.311
+  Tmin = 298.15
+  Tmax = 307.65
+/
+&SolidHeatCapacityCp
+  name = Solid heat capacity
+  units = J/kmol/K
+  eqno = 100
+  A = -6542500
+  B = 74970
+  C = -317.47
+  D = 0.6016
+  E = -0.0004268
+  Tmin = 318
+  Tmax = 398
+/
+&IdealGasHeatCapacityCp
+  name = Ideal gas heat capacity
+  units = J/kmol/K
+  eqno = 16
+  A = 83070
+  B = -852.74
+  C = 13.689
+  D = -0.000643
+  E = 1.4167E-07
+  Tmin = 273
+  Tmax = 1500
+/
+&VaporViscosity
+  name = Vapour viscosity
+  units = Pa.s
+  eqno = 102
+  A = 2.4248E-08
+  B = 0.96894
+  C = 40.456
+  D = -14256
+  Tmin = 700.15
+  Tmax = 1000
+/
+&VaporThermalConductivity
+  name = Vapour thermal conductivity
+  units = W/m/K
+  eqno = 102
+  A = 0.00016184
+  B = 0.88608
+  C = 624.29
+  D = 90960
+  Tmin = 274
+  Tmax = 1000
+/
+&RPPHeatCapacityCp
+  name = Ideal gas heat capacity (RPP)
+  units = J/kmol/K
+  eqno = 4
+  A = -47902
+  B = 696.58
+  C = -0.43325
+  D = 0.000095385
+  Tmin = 273
+  Tmax = 1500
+/
+&AntoineVaporPressure
+  name = Antoine
+  units = Pa
+  eqno = 10
+  A = 24.733
+  B = 9708.2
+  C = -96.745
+  Tmin = 844.65
+  Tmax = 1113
+/
+&RacketParameter
+  name = Rackett parameter
+  units = _
+  value = 0.208079
+/
+&FullerVolume
+  name = Fuller et al. diffusion volume
+  units = _
+  value = 147.2
+/
+&Parachor
+  name = Parachor
+  units = kg0.25.m3/s0.5/kmol
+  value = 0.049
+/
+&SpecificGravity
+  name = Specific gravity
+  units = _
+  value = 1.51
+/
+&Charge
+  name = Charge
+  units = _
+  value = 0
+/
+&UniquacR
+  name = UNIQUAC r
+  units = _
+  value = 5.456
+/
+&UniquacQ
+  name = UNIQUAC q
+  units = _
+  value = 4.288
+/
+&UnifacVLE
+  name = UNIFAC
+  group = 10
+  group = 4
+  group = 11
+  group = 2
+  group = 43
+  group = 2
+/
+&UnifacLLE
+  name = UNIFAC-LLE
+  group = 9
+  group = 4
+  group = 10
+  group = 2
+  group = 23
+  group = 2
+/
+&Asog
+  name = ASOG
+  group = 10
+  group = 4
+  group = 11
+  group = 2
+  group = 24
+  group = 2
+/
+&Umr
+  name = UMR
+  group = 10
+  group = 4
+  group = 11
+  group = 2
+  group = 43
+  group = 2
+/
+&ModifiedUnifac
+  name = Modified UNIFAC
+  group = 9
+  group = 4
+  group = 10
+  group = 2
+  group = 42
+  group = 2
+/
+&CAS
+  name = CAS number
+  value = 100-21-0
+/
+&Smiles
+  name = SMILES
+  value = c1(C(=O)O)ccc(C(=O)O)cc1
+/

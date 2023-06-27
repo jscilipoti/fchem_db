@@ -1,0 +1,288 @@
+&LibraryIndex
+  name = Index
+  value = 27991
+/
+&CompoundID
+  name = Name
+  value = Methyl Phenyl Carbonate
+/
+&StructureFormula
+  name = Structure
+  value = CH3(OCOO)C6H5
+/
+&Family
+  name = Family
+  value = 45
+/
+&CriticalTemperature
+  name = Critical temperature
+  units = K
+  value = 704.8714
+/
+&CriticalPressure
+  name = Critical pressure
+  units = Pa
+  value = 3441135
+/
+&CriticalVolume
+  name = Critical volume
+  units = m3/kmol
+  value = 0.42129
+/
+&CriticalCompressibility
+  name = Critical compressibility factor
+  units = _
+  value = 0.244961
+/
+&NormalBoilingPointTemperature
+  name = Normal boiling point
+  units = K
+  value = 491.76
+/
+&MolecularWeight
+  name = Molecular weight
+  units = kg/kmol
+  value = 152.1473
+/
+&LiquidVolumeAtNormalBoilingPoint
+  name = Liquid molar volume at normal boiling point
+  units = m3/kmol
+  value = 0.1385
+/
+&AcentricityFactor
+  name = Acentric factor
+  units = _
+  value = 0.472398
+/
+&SolubilityParameter
+  name = Solubility parameter
+  units = J0.5/m1.5
+  value = 19646.23
+/
+&VanDerWaalsVolume
+  name = Van der Waals volume
+  units = m3/kmol
+  value = 0.0834775
+/
+&VanDerWaalsArea
+  name = Van der Waals area
+  units = m2/kmol
+  value = 1.0895E+09
+/
+&HeatOfFormation
+  name = IG heat of formation
+  units = J/kmol
+  value = -4.4828E+08
+/
+&GibbsEnergyOfFormation
+  name = IG Gibbs energy of formation
+  units = J/kmol
+  value = -3.1153E+08
+/
+&AbsEntropy
+  name = IG absolute entropy
+  units = J/kmol/K
+  value = 514291.9
+/
+&HeatOfCombustion
+  name = Standard net heat of combustion LHV
+  units = J/kmol
+  value = -3.82904E+09
+/
+&VaporPressure
+  name = Vapour pressure
+  units = Pa
+  eqno = 10
+  A = 23.07041
+  B = 5677.005
+  C = 0
+  Tmin = 273
+  Tmax = 704.871
+/
+&HeatOfVaporization
+  name = Heat of vaporization
+  units = J/kmol
+  eqno = 106
+  A = 7.238285E+07
+  B = 0.38
+  C = 0
+  D = 0
+  E = 0
+  Tmin = 344.232
+  Tmax = 704.871
+/
+&SolidHeatCapacityCp
+  name = Solid heat capacity
+  units = J/kmol/K
+  eqno = 1
+  A = 187860
+  Tmin = 0
+  Tmax = 643.91
+/
+&IdealGasHeatCapacityCp
+  name = Ideal gas heat capacity
+  units = J/kmol/K
+  eqno = 16
+  A = 71099.59
+  B = -500
+  C = 13.00991
+  D = 0
+  E = 0
+  Tmin = 255
+  Tmax = 1500
+/
+&VaporViscosity
+  name = Vapour viscosity
+  units = Pa.s
+  eqno = 2
+  A = -3.1139E-07
+  B = 1.4221E-08
+  Tmin = 403.23
+  Tmax = 1000
+/
+&SurfaceTension
+  name = Surface tension
+  units = N/m
+  eqno = 116
+  A = 0
+  B = 0
+  C = 0
+  D = 0.0275543
+  E = 0.0275543
+  Tmin = 273
+  Tmax = 704.8714
+/
+&RPPHeatCapacityCp
+  name = Ideal gas heat capacity (RPP)
+  units = J/kmol/K
+  eqno = 4
+  A = -33746
+  B = 553.66
+  C = -0.32246
+  D = 0.00007832
+  Tmin = 193.17
+  Tmax = 1500
+/
+&AntoineVaporPressure
+  name = Antoine
+  units = Pa
+  eqno = 10
+  A = 20.9825
+  B = 3769.291
+  C = -93.16374
+  Tmin = 393.408
+  Tmax = 704.871
+/
+&COSTALDVolume
+  name = COSTLD characteristic volume (V*)
+  units = m3/kmol
+  value = 0.455428
+/
+&DiameterLJ
+  name = Lennard Jones diameter
+  units = m
+  value = 6.988531E-10
+/
+&EnergyLJ
+  name = Lennard Jones energy
+  units = K
+  value = 257.1649
+/
+&RacketParameter
+  name = Rackett parameter
+  units = _
+  value = 0.244961
+/
+&FullerVolume
+  name = Fuller et al. diffusion volume
+  units = _
+  value = 145.71
+/
+&Parachor
+  name = Parachor
+  units = kg0.25.m3/s0.5/kmol
+  value = 0.05534
+/
+&SpecificGravity
+  name = Specific gravity
+  units = _
+  value = 1.14
+/
+&Charge
+  name = Charge
+  units = _
+  value = 0
+/
+&CostaldAcentricFactor
+  name = SRK acentric factor
+  units = _
+  value = 0.41299
+/
+&WilsonVolume
+  name = Wilson volume
+  units = m3/kmol
+  value = 0.1385
+/
+&UniquacR
+  name = UNIQUAC r
+  units = _
+  value = 5.5028
+/
+&UniquacQ
+  name = UNIQUAC q
+  units = _
+  value = 4.358
+/
+&ChaoSeaderAcentricFactor
+  name = Chao-Seader acentric factor
+  units = _
+  value = 0.41299
+/
+&ChaoSeaderLiquidVolume
+  name = Chao-Seader liquid volume
+  units = m3/kmol
+  value = 0.1385
+/
+&UnifacVLE
+  name = UNIFAC
+  group = 1
+  group = 1
+  group = 10
+  group = 5
+  group = 11
+  group = 1
+  group = 120
+  group = 1
+/
+&Asog
+  name = ASOG
+  group = 1
+  group = 1
+  group = 10
+  group = 5
+  group = 11
+  group = 1
+  group = 19
+  group = 1
+  group = 22
+  group = 1
+/
+&Umr
+  name = UMR
+  group = 1
+  group = 1
+  group = 10
+  group = 5
+  group = 11
+  group = 1
+  group = 120
+  group = 1
+/
+&CAS
+  name = CAS number
+  value = 13509-27-8
+/
+&Smiles
+  name = SMILES
+  value = COC(=O)OC1=CC=CC=C1
+/
