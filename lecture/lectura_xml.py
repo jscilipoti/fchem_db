@@ -17,7 +17,6 @@ comp = root.getroot()
 
         
 
-
 print (len(comp))
 for child in comp:
     print (child.tag)
@@ -25,12 +24,14 @@ for child in comp:
         print(i.tag)
         print (i.attrib)
         for j in i.attrib:
+            print (j)
             print (f"key: {j}")
             print(f"valor: {i.attrib[j]}")
         if len(i)>0:
             for k in i:
                 print(k.tag)
                 print (k.attrib)
+    break
 
         
 

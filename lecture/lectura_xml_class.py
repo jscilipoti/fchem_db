@@ -38,12 +38,18 @@ while True:
     i+=1
 print ("i= ",i)
 """
-substance = Reader(0)
-file_name = substance["CompoundID"].value
-file_name = "lecture/db/"+file_name+".txt"
-file = open(file_name, "w")
-file.write("Hola, este .")
-file.close()
+for i in range(3):
+  substance = Reader(i)
+  file_name = substance["CompoundID"].value
+  file_name = "lecture/db/"+file_name+".txt"
+  file = open(file_name, "w")
+
+  file.write("&"+str(substance.compound.attrib.values)+"\n")
+  file.write("  "+substance["CompoundID"].name+"\n")
+  file.write("/"+"\n")
+
+  file.close()
+
 """
 
 substance = Reader(66)
