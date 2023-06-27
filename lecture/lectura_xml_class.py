@@ -29,38 +29,3 @@ class Propiedad:
 
     def __getitem__(self, key:str):
         return self.dict.get(key)["value"]
-"""   
-i=0
-while True:
-    substance = Reader(i)
-    if substance["CompoundID"].value == "Propane":
-       break
-    i+=1
-print ("i= ",i)
-"""
-for i in range(3):
-  substance = Reader(i)
-  file_name = substance["CompoundID"].value
-  file_name = "lecture/db/"+file_name+".txt"
-  file = open(file_name, "w")
-
-  file.write("&"+str(substance.compound.attrib.values)+"\n")
-  file.write("  "+substance["CompoundID"].name+"\n")
-  file.write("/"+"\n")
-
-  file.close()
-
-"""
-
-substance = Reader(66)
-print (substance["UnifacVLE"]["group"])
-print (substance["CompoundID"].value)
-print
-#coso["eqno"]
-    
-"""
-
-import os
-
-directorio_actual = os.getcwd()
-print("Directorio actual:", directorio_actual)
