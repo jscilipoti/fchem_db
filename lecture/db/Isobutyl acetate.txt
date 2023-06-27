@@ -1,0 +1,463 @@
+&LibraryIndex
+  name = Index
+  value = 1316
+/
+&CompoundID
+  name = Name
+  value = Isobutyl acetate
+/
+&StructureFormula
+  name = Structure
+  value = CH3COOCH2CH(CH3)2
+/
+&Family
+  name = Family
+  value = 56
+/
+&CriticalTemperature
+  name = Critical temperature
+  units = K
+  value = 561
+/
+&CriticalPressure
+  name = Critical pressure
+  units = Pa
+  value = 3160000
+/
+&CriticalVolume
+  name = Critical volume
+  units = m3/kmol
+  value = 0.413
+/
+&CriticalCompressibility
+  name = Critical compressibility factor
+  units = _
+  value = 0.266
+/
+&NormalBoilingPointTemperature
+  name = Normal boiling point
+  units = K
+  value = 389.72
+/
+&NormalMeltingPointTemperature
+  name = Melting point
+  units = K
+  value = 174.3
+/
+&TriplePointTemperature
+  name = Triple point temperature
+  units = K
+  value = 174.3
+/
+&TriplePointPressure
+  name = Triple point pressure
+  units = Pa
+  value = 0.00622415
+/
+&MolecularWeight
+  name = Molecular weight
+  units = kg/kmol
+  value = 116.1583
+/
+&LiquidVolumeAtNormalBoilingPoint
+  name = Liquid molar volume at normal boiling point
+  units = m3/kmol
+  value = 0.13387
+/
+&AcentricityFactor
+  name = Acentric factor
+  units = _
+  value = 0.456
+/
+&RadiusOfGyration
+  name = Radius of gyration
+  units = m
+  value = 4.276E-10
+/
+&SolubilityParameter
+  name = Solubility parameter
+  units = J0.5/m1.5
+  value = 17050
+/
+&DipoleMoment
+  name = Dipole moment
+  units = Coulomb.m
+  value = 6.24E-30
+/
+&VanDerWaalsVolume
+  name = Van der Waals volume
+  units = m3/kmol
+  value = 0.07322
+/
+&VanDerWaalsArea
+  name = Van der Waals area
+  units = m2/kmol
+  value = 1.048E+09
+/
+&HeatOfFormation
+  name = IG heat of formation
+  units = J/kmol
+  value = -4.93E+08
+/
+&GibbsEnergyOfFormation
+  name = IG Gibbs energy of formation
+  units = J/kmol
+  value = -3.222E+08
+/
+&AbsEntropy
+  name = IG absolute entropy
+  units = J/kmol/K
+  value = 441000
+/
+&HeatOfFusionAtMeltingPoint
+  name = Heat of fusion at melting point
+  units = J/kmol
+  value = 1.24E+07
+/
+&MatthiasCopemanC1
+  name = Mathias-Copeman C1
+  units = _
+  value = 1.16
+/
+&HeatOfCombustion
+  name = Standard net heat of combustion LHV
+  units = J/kmol
+  value = -3.319E+09
+/
+&SolidDensity
+  name = Solid density
+  units = kmol/m3
+  eqno = 2
+  A = 10.68
+  B = -0.0067015
+  C = 0
+  D = 0
+  E = 0
+  Tmin = 69.72
+  Tmax = 174.3
+/
+&LiquidDensity
+  name = Liquid density
+  units = kmol/m3
+  eqno = 105
+  A = 0.40843
+  B = 0.20784
+  C = 561
+  D = 0.21394
+  Tmin = 174.3
+  Tmax = 560.8
+/
+&VaporPressure
+  name = Vapour pressure
+  units = Pa
+  eqno = 101
+  A = 28.45261
+  B = -5051.537
+  C = -0.615949
+  D = -1.95606E-06
+  E = 2
+  Tmin = 174.3
+  Tmax = 561.15
+/
+&HeatOfVaporization
+  name = Heat of vaporization
+  units = J/kmol
+  eqno = 106
+  A = 6.408651E+07
+  B = 1.313221
+  C = -1.992233
+  D = 1.203843
+  E = -0.0654865
+  Tmin = 174.3
+  Tmax = 560.8
+/
+&SolidHeatCapacityCp
+  name = Solid heat capacity
+  units = J/kmol/K
+  eqno = 1
+  A = 182900
+  Tmin = 0
+  Tmax = 561
+/
+&LiquidHeatCapacityCp
+  name = Liquid heat capacity
+  units = J/kmol/K
+  eqno = 16
+  A = 161610
+  B = 660.76
+  C = 3.3098
+  D = 0.024476
+  E = -0.000019195
+  Tmin = 211.01
+  Tmax = 504.72
+/
+&IdealGasHeatCapacityCp
+  name = Ideal gas heat capacity
+  units = J/kmol/K
+  eqno = 16
+  A = 100140
+  B = -654.65
+  C = 13.176
+  D = -0.00017464
+  E = 3.2068E-08
+  Tmin = 273
+  Tmax = 1400.15
+/
+&SecondVirialCoefficient
+  name = Second virial coefficient
+  units = m3/kmol
+  eqno = 104
+  A = 0.25768
+  B = -273.28
+  C = -54.487
+  D = -16133
+  E = 20909
+  Tmin = 280.4
+  Tmax = 1792.5
+/
+&LiquidViscosity
+  name = Liquid viscosity
+  units = Pa.s
+  eqno = 101
+  A = -7.1351
+  B = 566.94
+  C = -0.24427
+  D = -0.0000078548
+  E = 2
+  Tmin = 275
+  Tmax = 389.8
+/
+&VaporViscosity
+  name = Vapour viscosity
+  units = Pa.s
+  eqno = 102
+  A = 1.0879E-07
+  B = 0.78101
+  C = 111.13
+  D = 1059.5
+  Tmin = 174.3
+  Tmax = 1000
+/
+&LiquidThermalConductivity
+  name = Liquid thermal conductivity
+  units = W/m/K
+  eqno = 16
+  A = 0.070874
+  B = 405.28
+  C = -7.1892
+  D = 0.020474
+  E = -0.000033831
+  Tmin = 168.3
+  Tmax = 448.3
+/
+&VaporThermalConductivity
+  name = Vapour thermal conductivity
+  units = W/m/K
+  eqno = 102
+  A = -0.0010112
+  B = 0.95292
+  C = -6813.9
+  D = 270410
+  Tmin = 174.3
+  Tmax = 1000
+/
+&SurfaceTension
+  name = Surface tension
+  units = N/m
+  eqno = 16
+  A = -0.01526
+  B = 26.196
+  C = -3.0206
+  D = 0.000089811
+  E = -0.0000040241
+  Tmin = 174.3
+  Tmax = 560.8
+/
+&RPPHeatCapacityCp
+  name = Ideal gas heat capacity (RPP)
+  units = J/kmol/K
+  eqno = 4
+  A = -4262.4
+  B = 646.34
+  C = -0.39482
+  D = 0.000090736
+  Tmin = 273
+  Tmax = 1400.15
+/
+&RelativeStaticPermittivity
+  name = Relative static permittivity
+  units = _
+  eqno = 120
+  A = -4.532079
+  B = -2800
+  C = -16.8
+  Tmin = 274.15
+  Tmax = 444.15
+/
+&AntoineVaporPressure
+  name = Antoine
+  units = Pa
+  eqno = 10
+  A = 21.759
+  B = 3497.1
+  C = -48.009
+  Tmin = 337.04
+  Tmax = 503.15
+/
+&LiquidViscosityRPS
+  name = Liquid viscosity (RPS)
+  units = Pa.s
+  eqno = 12
+  A = -3.9833
+  B = -0.011196
+  Tmin = 275
+  Tmax = 389.8
+/
+&COSTALDVolume
+  name = COSTLD characteristic volume (V*)
+  units = m3/kmol
+  value = 0.395333
+/
+&DiameterLJ
+  name = Lennard Jones diameter
+  units = m
+  value = 6.808274E-10
+/
+&EnergyLJ
+  name = Lennard Jones energy
+  units = K
+  value = 311.4942
+/
+&RacketParameter
+  name = Rackett parameter
+  units = _
+  value = 0.266
+/
+&FullerVolume
+  name = Fuller et al. diffusion volume
+  units = _
+  value = 135.34
+/
+&MatthiasCopemanC2
+  name = Mathias-Copeman C2
+  units = _
+  value = 0
+/
+&Parachor
+  name = Parachor
+  units = kg0.25.m3/s0.5/kmol
+  value = 0.0520369
+/
+&SpecificGravity
+  name = Specific gravity
+  units = _
+  value = 0.877796
+/
+&Charge
+  name = Charge
+  units = _
+  value = 0
+/
+&CostaldAcentricFactor
+  name = SRK acentric factor
+  units = _
+  value = 0.456
+/
+&WilsonVolume
+  name = Wilson volume
+  units = m3/kmol
+  value = 0.13387
+/
+&UniquacR
+  name = UNIQUAC r
+  units = _
+  value = 4.8266
+/
+&UniquacQ
+  name = UNIQUAC q
+  units = _
+  value = 4.192
+/
+&MatthiasCopemanC3
+  name = Mathias-Copeman C3
+  units = _
+  value = 0
+/
+&ChaoSeaderAcentricFactor
+  name = Chao-Seader acentric factor
+  units = _
+  value = 0.456
+/
+&ChaoSeaderSolubilityParameter
+  name = Chao-Seader solubility parameter
+  units = J0.5/m1.5
+  value = 17050
+/
+&ChaoSeaderLiquidVolume
+  name = Chao-Seader liquid volume
+  units = m3/kmol
+  value = 0.13387
+/
+&UnifacVLE
+  name = UNIFAC
+  group = 1
+  group = 2
+  group = 2
+  group = 1
+  group = 3
+  group = 1
+  group = 22
+  group = 1
+/
+&UnifacLLE
+  name = UNIFAC-LLE
+  group = 1
+  group = 2
+  group = 2
+  group = 1
+  group = 3
+  group = 1
+  group = 25
+  group = 1
+/
+&Asog
+  name = ASOG
+  group = 1
+  group = 3
+  group = 2
+  group = 1
+  group = 3
+  group = 1
+  group = 22
+  group = 1
+/
+&Umr
+  name = UMR
+  group = 1
+  group = 2
+  group = 2
+  group = 1
+  group = 3
+  group = 1
+  group = 22
+  group = 1
+/
+&ModifiedUnifac
+  name = Modified UNIFAC
+  group = 1
+  group = 2
+  group = 2
+  group = 1
+  group = 3
+  group = 1
+  group = 21
+  group = 1
+/
+&CAS
+  name = CAS number
+  value = 110-19-0
+/
+&Smiles
+  name = SMILES
+  value = CC(=O)OCC(C)C
+/
