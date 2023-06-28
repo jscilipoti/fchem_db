@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 5-methylnonane
+  value = "5-methylnonane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(CH2)3CH(CH3)(CH2)3CH3
+  value = "CH3(CH2)3CH(CH3)(CH2)3CH3"
 /
 &Family
   name = "Family"
@@ -437,5 +437,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCCC(C)CCCC
+  value = "CCCCC(C)CCCC"
 /

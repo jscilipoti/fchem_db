@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methyl iodide
+  value = "Methyl iodide"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3I
+  value = "CH3I"
 /
 &Family
   name = "Family"
@@ -425,5 +425,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CI
+  value = "CI"
 /

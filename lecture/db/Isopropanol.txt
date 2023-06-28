@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Isopropanol
+  value = "Isopropanol"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH(OH)CH3
+  value = "CH3CH(OH)CH3"
 /
 &Family
   name = "Family"
@@ -472,5 +472,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(O)C
+  value = "CC(O)C"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Tetrahydrofuran
+  value = "Tetrahydrofuran"
 /
 &StructureFormula
   name = "Structure"
-  value = -CH2CH2CH2CH2O-
+  value = "-CH2CH2CH2CH2O-"
 /
 &Family
   name = "Family"
@@ -435,5 +435,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1COCC1
+  value = "C1COCC1"
 /

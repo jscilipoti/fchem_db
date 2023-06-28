@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Salicylic acid
+  value = "Salicylic acid"
 /
 &StructureFormula
   name = "Structure"
-  value = HO(C6H4)COOH
+  value = "HO(C6H4)COOH"
 /
 &Family
   name = "Family"
@@ -426,5 +426,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(O)ccccc1(C(=O)O)
+  value = "c1(O)ccccc1(C(=O)O)"
 /

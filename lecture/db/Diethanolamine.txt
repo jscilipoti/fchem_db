@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Diethanolamine
+  value = "Diethanolamine"
 /
 &StructureFormula
   name = "Structure"
-  value = (HOCH2CH2)2NH
+  value = "(HOCH2CH2)2NH"
 /
 &Family
   name = "Family"
@@ -441,5 +441,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = OCCNCCO
+  value = "OCCNCCO"
 /

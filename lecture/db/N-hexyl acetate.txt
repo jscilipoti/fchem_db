@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-hexyl acetate
+  value = "N-hexyl acetate"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3COOCH2(CH2)4CH3
+  value = "CH3COOCH2(CH2)4CH3"
 /
 &Family
   name = "Family"
@@ -439,5 +439,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCCCCOC(=O)C
+  value = "CCCCCCOC(=O)C"
 /

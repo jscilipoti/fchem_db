@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Hydrogen sulfide
+  value = "Hydrogen sulfide"
 /
 &StructureFormula
   name = "Structure"
-  value = HSH
+  value = "HSH"
 /
 &Family
   name = "Family"
@@ -426,5 +426,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = S 
+  value = "S "
 /

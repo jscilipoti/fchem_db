@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = P-xylene
+  value = "P-xylene"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(C6H4)CH3
+  value = "CH3(C6H4)CH3"
 /
 &Family
   name = "Family"
@@ -463,5 +463,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(C)ccc(C)cc1
+  value = "c1(C)ccc(C)cc1"
 /

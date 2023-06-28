@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methyl t-pentyl sulfide
+  value = "Methyl t-pentyl sulfide"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3SC(CH3)(CH3)C2H5
+  value = "CH3SC(CH3)(CH3)C2H5"
 /
 &Family
   name = "Family"
@@ -405,5 +405,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CSC(C)(C)CC
+  value = "CSC(C)(C)CC"
 /

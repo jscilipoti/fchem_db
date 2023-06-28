@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Acenaphthene
+  value = "Acenaphthene"
 /
 &StructureFormula
   name = "Structure"
-  value = C12H10
+  value = "C12H10"
 /
 &Family
   name = "Family"
@@ -445,5 +445,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C12=CC=CC3=C1C(=CC=C3)CC2
+  value = "C12=CC=CC3=C1C(=CC=C3)CC2"
 /

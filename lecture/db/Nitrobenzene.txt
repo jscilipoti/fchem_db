@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Nitrobenzene
+  value = "Nitrobenzene"
 /
 &StructureFormula
   name = "Structure"
-  value = C6H5NO2
+  value = "C6H5NO2"
 /
 &Family
   name = "Family"
@@ -436,5 +436,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(N(=O)=O)ccccc1
+  value = "c1(N(=O)=O)ccccc1"
 /

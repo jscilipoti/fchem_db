@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methyl mercaptan
+  value = "Methyl mercaptan"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3SH
+  value = "CH3SH"
 /
 &Family
   name = "Family"
@@ -408,5 +408,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CS
+  value = "CS"
 /

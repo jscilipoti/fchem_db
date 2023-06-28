@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 1,1-dichloroethane
+  value = "1,1-dichloroethane"
 /
 &StructureFormula
   name = "Structure"
-  value = CHCl2CH3
+  value = "CHCl2CH3"
 /
 &Family
   name = "Family"
@@ -437,5 +437,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC([Cl])[Cl]
+  value = "CC([Cl])[Cl]"
 /

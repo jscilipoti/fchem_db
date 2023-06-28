@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Ethylene carbonate
+  value = "Ethylene carbonate"
 /
 &StructureFormula
   name = "Structure"
-  value = -CH2OCOOCH2-
+  value = "-CH2OCOOCH2-"
 /
 &Family
   name = "Family"
@@ -431,5 +431,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1OC(=O)OC1
+  value = "C1OC(=O)OC1"
 /

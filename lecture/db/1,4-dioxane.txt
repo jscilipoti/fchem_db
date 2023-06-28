@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 1,4-dioxane
+  value = "1,4-dioxane"
 /
 &StructureFormula
   name = "Structure"
-  value = -OCH2CH2OCH2CH2-
+  value = "-OCH2CH2OCH2CH2-"
 /
 &Family
   name = "Family"
@@ -442,5 +442,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1OCCOC1
+  value = "C1OCCOC1"
 /

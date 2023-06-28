@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Terephthalic acid
+  value = "Terephthalic acid"
 /
 &StructureFormula
   name = "Structure"
-  value = COOH(C6H4)COOH
+  value = "COOH(C6H4)COOH"
 /
 &Family
   name = "Family"
@@ -304,5 +304,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(C(=O)O)ccc(C(=O)O)cc1
+  value = "c1(C(=O)O)ccc(C(=O)O)cc1"
 /

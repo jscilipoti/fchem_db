@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Cis-2-hexene
+  value = "Cis-2-hexene"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CHCH(CH2)2CH3
+  value = "CH3CHCH(CH2)2CH3"
 /
 &Family
   name = "Family"
@@ -457,5 +457,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C/C=C\CCC
+  value = "C/C=C\CCC"
 /

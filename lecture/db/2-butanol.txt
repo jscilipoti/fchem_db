@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 2-butanol
+  value = "2-butanol"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2CH(OH)CH3
+  value = "CH3CH2CH(OH)CH3"
 /
 &Family
   name = "Family"
@@ -483,5 +483,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCC(O)C
+  value = "CCC(O)C"
 /

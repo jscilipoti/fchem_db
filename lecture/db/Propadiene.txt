@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Propadiene
+  value = "Propadiene"
 /
 &StructureFormula
   name = "Structure"
-  value = CH2CCH2
+  value = "CH2CCH2"
 /
 &Family
   name = "Family"
@@ -440,5 +440,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C=C=C
+  value = "C=C=C"
 /

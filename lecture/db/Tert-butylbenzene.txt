@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Tert-butylbenzene
+  value = "Tert-butylbenzene"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H5)C(CH3)2CH3
+  value = "(C6H5)C(CH3)2CH3"
 /
 &Family
   name = "Family"
@@ -469,5 +469,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(C(C)(C)C)ccccc1
+  value = "c1(C(C)(C)C)ccccc1"
 /

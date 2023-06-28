@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-propyl acetate
+  value = "N-propyl acetate"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3COO(CH2)2CH3
+  value = "CH3COO(CH2)2CH3"
 /
 &Family
   name = "Family"
@@ -442,5 +442,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(=O)OCCC
+  value = "CC(=O)OCCC"
 /

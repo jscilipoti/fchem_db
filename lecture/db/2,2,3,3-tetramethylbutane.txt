@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 2,2,3,3-tetramethylbutane
+  value = "2,2,3,3-tetramethylbutane"
 /
 &StructureFormula
   name = "Structure"
-  value = (CH3)3CC(CH3)3
+  value = "(CH3)3CC(CH3)3"
 /
 &Family
   name = "Family"
@@ -446,5 +446,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(C)(C)C(C)(C)C
+  value = "CC(C)(C)C(C)(C)C"
 /

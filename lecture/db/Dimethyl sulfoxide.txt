@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Dimethyl sulfoxide
+  value = "Dimethyl sulfoxide"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3SOCH3
+  value = "CH3SOCH3"
 /
 &Family
   name = "Family"
@@ -428,5 +428,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CS(=O)C
+  value = "CS(=O)C"
 /

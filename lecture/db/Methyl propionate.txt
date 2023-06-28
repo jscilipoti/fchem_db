@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methyl propionate
+  value = "Methyl propionate"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2COOCH3
+  value = "CH3CH2COOCH3"
 /
 &Family
   name = "Family"
@@ -434,5 +434,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCC(=O)OC
+  value = "CCC(=O)OC"
 /

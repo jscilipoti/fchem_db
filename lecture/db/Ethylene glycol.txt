@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Ethylene glycol
+  value = "Ethylene glycol"
 /
 &StructureFormula
   name = "Structure"
-  value = HOCH2CH2OH
+  value = "HOCH2CH2OH"
 /
 &Family
   name = "Family"
@@ -437,5 +437,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = OCCO
+  value = "OCCO"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = P-phenylenediamine
+  value = "P-phenylenediamine"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H4)(NH2)2
+  value = "(C6H4)(NH2)2"
 /
 &Family
   name = "Family"
@@ -415,5 +415,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(N)ccc(N)cc1
+  value = "c1(N)ccc(N)cc1"
 /

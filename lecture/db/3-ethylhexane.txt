@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 3-ethylhexane
+  value = "3-ethylhexane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2CH(C2H5)CH2CH2CH3
+  value = "CH3CH2CH(C2H5)CH2CH2CH3"
 /
 &Family
   name = "Family"
@@ -434,5 +434,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCC(CC)CCC
+  value = "CCC(CC)CCC"
 /

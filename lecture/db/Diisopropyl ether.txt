@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Diisopropyl ether
+  value = "Diisopropyl ether"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH(CH3)OCH(CH3)CH3
+  value = "CH3CH(CH3)OCH(CH3)CH3"
 /
 &Family
   name = "Family"
@@ -463,5 +463,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(C)OC(C)C
+  value = "CC(C)OC(C)C"
 /

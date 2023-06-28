@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methyl DiEthanolAmine
+  value = "Methyl DiEthanolAmine"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3N(CH2CH2OH)2
+  value = "CH3N(CH2CH2OH)2"
 /
 &Family
   name = "Family"
@@ -431,5 +431,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CN(CCO)CCO
+  value = "CN(CCO)CCO"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Acetic acid
+  value = "Acetic acid"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3COOH
+  value = "CH3COOH"
 /
 &Family
   name = "Family"
@@ -425,5 +425,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(=O)O
+  value = "CC(=O)O"
 /

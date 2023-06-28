@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 2,3-dimethylbutane
+  value = "2,3-dimethylbutane"
 /
 &StructureFormula
   name = "Structure"
-  value = (CH3)2CHCH(CH3)2
+  value = "(CH3)2CHCH(CH3)2"
 /
 &Family
   name = "Family"
@@ -444,5 +444,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(C)C(C)C
+  value = "CC(C)C(C)C"
 /

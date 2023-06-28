@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 1-phenylnaphthalene
+  value = "1-phenylnaphthalene"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H4)(C4H3)(C6H5)
+  value = "(C6H4)(C4H3)(C6H5)"
 /
 &Family
   name = "Family"
@@ -420,5 +420,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(c2ccccc2)cccc2ccccc21
+  value = "c1(c2ccccc2)cccc2ccccc21"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Ethyl propyl disulfide
+  value = "Ethyl propyl disulfide"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(CH2)2SSCH2CH3
+  value = "CH3(CH2)2SSCH2CH3"
 /
 &Family
   name = "Family"
@@ -410,5 +410,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCSSCC
+  value = "CCCSSCC"
 /

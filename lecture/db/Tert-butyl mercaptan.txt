@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Tert-butyl mercaptan
+  value = "Tert-butyl mercaptan"
 /
 &StructureFormula
   name = "Structure"
-  value = C(CH3)3SH
+  value = "C(CH3)3SH"
 /
 &Family
   name = "Family"
@@ -426,5 +426,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(C)(C)S
+  value = "CC(C)(C)S"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Nitric oxide
+  value = "Nitric oxide"
 /
 &StructureFormula
   name = "Structure"
-  value = NO
+  value = "NO"
 /
 &Family
   name = "Family"
@@ -385,5 +385,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = [N]=O
+  value = "[N]=O"
 /

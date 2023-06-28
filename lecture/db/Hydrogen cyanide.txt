@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Hydrogen cyanide
+  value = "Hydrogen cyanide"
 /
 &StructureFormula
   name = "Structure"
-  value = HCN
+  value = "HCN"
 /
 &Family
   name = "Family"
@@ -408,5 +408,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C#N
+  value = "C#N"
 /

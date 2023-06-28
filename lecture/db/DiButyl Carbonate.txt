@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = DiButyl Carbonate
+  value = "DiButyl Carbonate"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2CH2CH2(OCOO)CH2CH2CH2CH3
+  value = "CH3CH2CH2CH2(OCOO)CH2CH2CH2CH3"
 /
 &Family
   name = "Family"
@@ -183,5 +183,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCCOC(=O)OCCCC
+  value = "CCCCOC(=O)OCCCC"
 /

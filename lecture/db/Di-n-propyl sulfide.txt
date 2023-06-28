@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Di-n-propyl sulfide
+  value = "Di-n-propyl sulfide"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2CH2SCH2CH2CH3
+  value = "CH3CH2CH2SCH2CH2CH3"
 /
 &Family
   name = "Family"
@@ -410,5 +410,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCSCCC
+  value = "CCCSCCC"
 /

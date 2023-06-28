@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = O-cresol
+  value = "O-cresol"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(C6H4)OH
+  value = "CH3(C6H4)OH"
 /
 &Family
   name = "Family"
@@ -462,5 +462,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(O)c(C)cccc1
+  value = "c1(O)c(C)cccc1"
 /

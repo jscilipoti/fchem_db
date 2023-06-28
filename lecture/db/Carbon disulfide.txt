@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Carbon disulfide
+  value = "Carbon disulfide"
 /
 &StructureFormula
   name = "Structure"
-  value = SCS
+  value = "SCS"
 /
 &Family
   name = "Family"
@@ -421,5 +421,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = S=C=S
+  value = "S=C=S"
 /

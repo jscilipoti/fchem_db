@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 1,1-dimethylcyclohexane
+  value = "1,1-dimethylcyclohexane"
 /
 &StructureFormula
   name = "Structure"
-  value = -C(CH3)2(CH2)5-
+  value = "-C(CH3)2(CH2)5-"
 /
 &Family
   name = "Family"
@@ -457,5 +457,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1CCCCC1(C)(C)
+  value = "C1CCCCC1(C)(C)"
 /

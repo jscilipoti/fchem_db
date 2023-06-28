@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Ammonia
+  value = "Ammonia"
 /
 &StructureFormula
   name = "Structure"
-  value = NH3
+  value = "NH3"
 /
 &Family
   name = "Family"
@@ -427,5 +427,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = N
+  value = "N"
 /

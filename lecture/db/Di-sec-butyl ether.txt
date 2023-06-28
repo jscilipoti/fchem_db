@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Di-sec-butyl ether
+  value = "Di-sec-butyl ether"
 /
 &StructureFormula
   name = "Structure"
-  value = C2H5(CH3)CHOCH(CH3)C2H5
+  value = "C2H5(CH3)CHOCH(CH3)C2H5"
 /
 &Family
   name = "Family"
@@ -429,5 +429,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCC(C)OC(C)CC
+  value = "CCC(C)OC(C)CC"
 /

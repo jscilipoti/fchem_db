@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 3-heptanone
+  value = "3-heptanone"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(CH2)3COC2H5
+  value = "CH3(CH2)3COC2H5"
 /
 &Family
   name = "Family"
@@ -442,5 +442,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCC(=O)CCCC
+  value = "CCC(=O)CCCC"
 /

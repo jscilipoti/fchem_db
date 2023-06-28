@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-butylbenzene
+  value = "N-butylbenzene"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H5)(CH2)3CH3
+  value = "(C6H5)(CH2)3CH3"
 /
 &Family
   name = "Family"
@@ -463,5 +463,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(CCCC)ccccc1
+  value = "c1(CCCC)ccccc1"
 /

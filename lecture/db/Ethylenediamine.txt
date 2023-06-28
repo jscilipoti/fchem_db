@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Ethylenediamine
+  value = "Ethylenediamine"
 /
 &StructureFormula
   name = "Structure"
-  value = H2NCH2CH2NH2
+  value = "H2NCH2CH2NH2"
 /
 &Family
   name = "Family"
@@ -405,5 +405,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = NCCN
+  value = "NCCN"
 /

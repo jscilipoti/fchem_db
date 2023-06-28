@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Acetic anhydride
+  value = "Acetic anhydride"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3COOOCCH3
+  value = "CH3COOOCCH3"
 /
 &Family
   name = "Family"
@@ -397,5 +397,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(=O)OC(=O)C
+  value = "CC(=O)OC(=O)C"
 /

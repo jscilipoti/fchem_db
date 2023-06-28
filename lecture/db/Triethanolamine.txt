@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Triethanolamine
+  value = "Triethanolamine"
 /
 &StructureFormula
   name = "Structure"
-  value = (HOCH2CH2)3N
+  value = "(HOCH2CH2)3N"
 /
 &Family
   name = "Family"
@@ -444,5 +444,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = OCCN(CCO)CCO
+  value = "OCCN(CCO)CCO"
 /

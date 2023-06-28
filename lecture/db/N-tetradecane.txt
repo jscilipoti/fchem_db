@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-tetradecane
+  value = "N-tetradecane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(CH2)12CH3
+  value = "CH3(CH2)12CH3"
 /
 &Family
   name = "Family"
@@ -444,5 +444,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCCCCCCCCCCCC
+  value = "CCCCCCCCCCCCCC"
 /

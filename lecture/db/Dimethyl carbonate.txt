@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Dimethyl carbonate
+  value = "Dimethyl carbonate"
 /
 &StructureFormula
   name = "Structure"
-  value = (CH3O)2CO
+  value = "(CH3O)2CO"
 /
 &Family
   name = "Family"
@@ -430,5 +430,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = COC(=O)OC
+  value = "COC(=O)OC"
 /

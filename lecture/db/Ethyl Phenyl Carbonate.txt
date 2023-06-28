@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Ethyl Phenyl Carbonate
+  value = "Ethyl Phenyl Carbonate"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2(OCOO)C6H5
+  value = "CH3CH2(OCOO)C6H5"
 /
 &Family
   name = "Family"
@@ -288,5 +288,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCOC(=O)OC1=CC=CC=C1
+  value = "CCOC(=O)OC1=CC=CC=C1"
 /

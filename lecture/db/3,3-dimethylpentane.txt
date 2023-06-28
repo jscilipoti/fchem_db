@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 3,3-dimethylpentane
+  value = "3,3-dimethylpentane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2C(CH3)2CH2CH3
+  value = "CH3CH2C(CH3)2CH2CH3"
 /
 &Family
   name = "Family"
@@ -468,5 +468,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCC(C)(C)CC
+  value = "CCC(C)(C)CC"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Chloroform
+  value = "Chloroform"
 /
 &StructureFormula
   name = "Structure"
-  value = CHCl3
+  value = "CHCl3"
 /
 &Family
   name = "Family"
@@ -433,5 +433,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C([Cl])([Cl])[Cl]
+  value = "C([Cl])([Cl])[Cl]"
 /

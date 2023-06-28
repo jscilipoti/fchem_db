@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Oxygen
+  value = "Oxygen"
 /
 &StructureFormula
   name = "Structure"
-  value = O2
+  value = "O2"
 /
 &Family
   name = "Family"
@@ -415,5 +415,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = O=O
+  value = "O=O"
 /

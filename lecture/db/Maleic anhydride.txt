@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Maleic anhydride
+  value = "Maleic anhydride"
 /
 &StructureFormula
   name = "Structure"
-  value = -CHCOOCOCH-
+  value = "-CHCOOCOCH-"
 /
 &Family
   name = "Family"
@@ -419,5 +419,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = O1C(=O)C=CC1(=O)
+  value = "O1C(=O)C=CC1(=O)"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Di-tert-butyl disulfide
+  value = "Di-tert-butyl disulfide"
 /
 &StructureFormula
   name = "Structure"
-  value = (CH3)3CS2C(CH3)3
+  value = "(CH3)3CS2C(CH3)3"
 /
 &Family
   name = "Family"
@@ -382,5 +382,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(C)(C)SSC(C)(C)C
+  value = "CC(C)(C)SSC(C)(C)C"
 /

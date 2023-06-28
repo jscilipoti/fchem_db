@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Cis-1,2-dimethylcyclopentane
+  value = "Cis-1,2-dimethylcyclopentane"
 /
 &StructureFormula
   name = "Structure"
-  value = -CH(CH3)CH(CH3)(CH2)3-
+  value = "-CH(CH3)CH(CH3)(CH2)3-"
 /
 &Family
   name = "Family"
@@ -442,5 +442,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1[C@@](C)([H])([C@]([H])(C)(CC1))
+  value = "C1[C@@](C)([H])([C@]([H])(C)(CC1))"
 /

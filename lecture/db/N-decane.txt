@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-decane
+  value = "N-decane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(CH2)8CH3
+  value = "CH3(CH2)8CH3"
 /
 &Family
   name = "Family"
@@ -454,5 +454,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCCCCCCCC
+  value = "CCCCCCCCCC"
 /

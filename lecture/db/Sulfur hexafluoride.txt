@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Sulfur hexafluoride
+  value = "Sulfur hexafluoride"
 /
 &StructureFormula
   name = "Structure"
-  value = SF6
+  value = "SF6"
 /
 &Family
   name = "Family"
@@ -398,5 +398,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = FS(F)(F)(F)(F)F
+  value = "FS(F)(F)(F)(F)F"
 /

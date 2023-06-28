@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Hydrogen chloride
+  value = "Hydrogen chloride"
 /
 &StructureFormula
   name = "Structure"
-  value = HCl
+  value = "HCl"
 /
 &Family
   name = "Family"
@@ -406,5 +406,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = Cl
+  value = "Cl"
 /

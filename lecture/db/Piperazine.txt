@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Piperazine
+  value = "Piperazine"
 /
 &StructureFormula
   name = "Structure"
-  value = -NHCH2CH2NHCH2CH2-
+  value = "-NHCH2CH2NHCH2CH2-"
 /
 &Family
   name = "Family"
@@ -425,5 +425,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = N1CCNCC1
+  value = "N1CCNCC1"
 /

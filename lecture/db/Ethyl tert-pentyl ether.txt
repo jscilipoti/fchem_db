@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Ethyl tert-pentyl ether
+  value = "Ethyl tert-pentyl ether"
 /
 &StructureFormula
   name = "Structure"
-  value = C2H5C(CH3)2OC2H5
+  value = "C2H5C(CH3)2OC2H5"
 /
 &Family
   name = "Family"
@@ -434,5 +434,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCC(C)(C)OCC
+  value = "CCC(C)(C)OCC"
 /

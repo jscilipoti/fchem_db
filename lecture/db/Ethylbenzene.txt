@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Ethylbenzene
+  value = "Ethylbenzene"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H5)CH2CH3
+  value = "(C6H5)CH2CH3"
 /
 &Family
   name = "Family"
@@ -470,5 +470,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1ccccc1(CC)
+  value = "c1ccccc1(CC)"
 /

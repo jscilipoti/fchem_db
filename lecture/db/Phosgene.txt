@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Phosgene
+  value = "Phosgene"
 /
 &StructureFormula
   name = "Structure"
-  value = COCl2
+  value = "COCl2"
 /
 &Family
   name = "Family"
@@ -401,5 +401,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = ClC(=O)Cl
+  value = "ClC(=O)Cl"
 /

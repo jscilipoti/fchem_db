@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-propyl formate
+  value = "N-propyl formate"
 /
 &StructureFormula
   name = "Structure"
-  value = HCOOCH2CH2CH3
+  value = "HCOOCH2CH2CH3"
 /
 &Family
   name = "Family"
@@ -433,5 +433,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCOC(=O)
+  value = "CCCOC(=O)"
 /

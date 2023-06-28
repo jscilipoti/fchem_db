@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methacrylic acid
+  value = "Methacrylic acid"
 /
 &StructureFormula
   name = "Structure"
-  value = CH2C(CH3)COOH
+  value = "CH2C(CH3)COOH"
 /
 &Family
   name = "Family"
@@ -431,5 +431,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C=C(C)C(=O)O
+  value = "C=C(C)C(=O)O"
 /

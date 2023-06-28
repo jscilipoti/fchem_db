@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 5-methyl-2-hexanone
+  value = "5-methyl-2-hexanone"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CO(CH2)2CH(CH3)2
+  value = "CH3CO(CH2)2CH(CH3)2"
 /
 &Family
   name = "Family"
@@ -439,5 +439,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(=O)CCC(C)C
+  value = "CC(=O)CCC(C)C"
 /

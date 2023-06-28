@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methyl methacrylate
+  value = "Methyl methacrylate"
 /
 &StructureFormula
   name = "Structure"
-  value = CH2C(CH3)COOCH3
+  value = "CH2C(CH3)COOCH3"
 /
 &Family
   name = "Family"
@@ -443,5 +443,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C=C(C)C(=O)OC
+  value = "C=C(C)C(=O)OC"
 /

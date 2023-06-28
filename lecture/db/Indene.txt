@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Indene
+  value = "Indene"
 /
 &StructureFormula
   name = "Structure"
-  value = C6H4(CH2CHCH)
+  value = "C6H4(CH2CHCH)"
 /
 &Family
   name = "Family"
@@ -467,5 +467,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(CC=C2)c2cccc1
+  value = "c1(CC=C2)c2cccc1"
 /

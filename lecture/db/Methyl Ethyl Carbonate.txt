@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methyl Ethyl Carbonate
+  value = "Methyl Ethyl Carbonate"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(OCOO)CH2CH3
+  value = "CH3(OCOO)CH2CH3"
 /
 &Family
   name = "Family"
@@ -293,5 +293,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCOC(=O)OC
+  value = "CCOC(=O)OC"
 /

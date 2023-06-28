@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Diisopropylamine
+  value = "Diisopropylamine"
 /
 &StructureFormula
   name = "Structure"
-  value = ((CH3)2CH)2NH
+  value = "((CH3)2CH)2NH"
 /
 &Family
   name = "Family"
@@ -410,5 +410,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(C)NC(C)C
+  value = "CC(C)NC(C)C"
 /

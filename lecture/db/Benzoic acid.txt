@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Benzoic acid
+  value = "Benzoic acid"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H5)COOH
+  value = "(C6H5)COOH"
 /
 &Family
   name = "Family"
@@ -431,5 +431,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1ccccc1(C(=O)O)
+  value = "c1ccccc1(C(=O)O)"
 /

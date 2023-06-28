@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-butylcyclohexane
+  value = "N-butylcyclohexane"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H11)CH2CH2CH2CH3
+  value = "(C6H11)CH2CH2CH2CH3"
 /
 &Family
   name = "Family"
@@ -456,5 +456,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1CCCCC1CCCC
+  value = "C1CCCCC1CCCC"
 /

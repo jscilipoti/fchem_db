@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Glycerol
+  value = "Glycerol"
 /
 &StructureFormula
   name = "Structure"
-  value = HOCH2CH(OH)CH2OH
+  value = "HOCH2CH(OH)CH2OH"
 /
 &Family
   name = "Family"
@@ -402,5 +402,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C(C(CO)O)O
+  value = "C(C(CO)O)O"
 /

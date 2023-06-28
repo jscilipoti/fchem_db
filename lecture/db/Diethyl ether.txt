@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Diethyl ether
+  value = "Diethyl ether"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2OCH2CH3
+  value = "CH3CH2OCH2CH3"
 /
 &Family
   name = "Family"
@@ -447,5 +447,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCOCC
+  value = "CCOCC"
 /

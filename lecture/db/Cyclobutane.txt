@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Cyclobutane
+  value = "Cyclobutane"
 /
 &StructureFormula
   name = "Structure"
-  value = -(CH2)4-
+  value = "-(CH2)4-"
 /
 &Family
   name = "Family"
@@ -357,5 +357,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1CCC1
+  value = "C1CCC1"
 /

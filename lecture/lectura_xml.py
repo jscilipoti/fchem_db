@@ -20,7 +20,12 @@ for compund in comp:
         attributes = property.attrib #Guardo el diccionario en attributes
         #recorro el diccionario e imprimo el contenido de la namelist
         for attribute, value in attributes.items():
-            if attribute == "value":
+            number = True
+            for i in value: # averiguo si es un string  
+                if i not in "0123456789.+-E":
+                    number = False
+                    break
+            if number:
                 file.write(f"  {attribute} = {value}\n") 
             else:
                 file.write(f"  {attribute} = \"{value}\"\n")

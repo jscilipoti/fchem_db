@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Iodobenzene
+  value = "Iodobenzene"
 /
 &StructureFormula
   name = "Structure"
-  value = C6H5I
+  value = "C6H5I"
 /
 &Family
   name = "Family"
@@ -437,5 +437,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(I)ccccc1
+  value = "c1(I)ccccc1"
 /

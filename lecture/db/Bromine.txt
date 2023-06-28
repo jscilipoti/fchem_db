@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Bromine
+  value = "Bromine"
 /
 &StructureFormula
   name = "Structure"
-  value = BrBr
+  value = "BrBr"
 /
 &Family
   name = "Family"
@@ -409,5 +409,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = BrBr
+  value = "BrBr"
 /

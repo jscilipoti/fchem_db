@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 4-methyl-cis-2-pentene
+  value = "4-methyl-cis-2-pentene"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CHCHCH(CH3)2
+  value = "CH3CHCHCH(CH3)2"
 /
 &Family
   name = "Family"
@@ -440,5 +440,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C/C=C\C(C)C
+  value = "C/C=C\C(C)C"
 /

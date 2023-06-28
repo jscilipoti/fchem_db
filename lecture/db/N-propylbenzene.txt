@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-propylbenzene
+  value = "N-propylbenzene"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H5)CH2CH2CH3
+  value = "(C6H5)CH2CH2CH3"
 /
 &Family
   name = "Family"
@@ -478,5 +478,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(CCC)ccccc1
+  value = "c1(CCC)ccccc1"
 /

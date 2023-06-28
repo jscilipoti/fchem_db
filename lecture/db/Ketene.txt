@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Ketene
+  value = "Ketene"
 /
 &StructureFormula
   name = "Structure"
-  value = CH2CO
+  value = "CH2CO"
 /
 &Family
   name = "Family"
@@ -366,5 +366,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C=C=O
+  value = "C=C=O"
 /

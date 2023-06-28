@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Ethyl chloride
+  value = "Ethyl chloride"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2Cl
+  value = "CH3CH2Cl"
 /
 &Family
   name = "Family"
@@ -439,5 +439,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC[Cl]
+  value = "CC[Cl]"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-tetracosane
+  value = "N-tetracosane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(CH2)22CH3
+  value = "CH3(CH2)22CH3"
 /
 &Family
   name = "Family"
@@ -440,5 +440,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCCCCCCCCCCCCCCCCCCCCCC
+  value = "CCCCCCCCCCCCCCCCCCCCCCCC"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-aminoethyl piperazine
+  value = "N-aminoethyl piperazine"
 /
 &StructureFormula
   name = "Structure"
-  value = H2NC2H4(NCH2CH2NHCH2CH2)
+  value = "H2NC2H4(NCH2CH2NHCH2CH2)"
 /
 &Family
   name = "Family"
@@ -423,5 +423,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1CNCCN1CCN
+  value = "C1CNCCN1CCN"
 /

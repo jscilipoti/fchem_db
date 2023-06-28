@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methylacetylene
+  value = "Methylacetylene"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CCH
+  value = "CH3CCH"
 /
 &Family
   name = "Family"
@@ -443,5 +443,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC#C
+  value = "CC#C"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Cis-decahydronaphthalene
+  value = "Cis-decahydronaphthalene"
 /
 &StructureFormula
   name = "Structure"
-  value = (CH2)4CHCH(CH2)4
+  value = "(CH2)4CHCH(CH2)4"
 /
 &Family
   name = "Family"
@@ -448,5 +448,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1C[C@]2(CCCC[C@]2(CC1)([H]))([H])
+  value = "C1C[C@]2(CCCC[C@]2(CC1)([H]))([H])"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Monoethanolamine
+  value = "Monoethanolamine"
 /
 &StructureFormula
   name = "Structure"
-  value = HOCH2CH2NH2
+  value = "HOCH2CH2NH2"
 /
 &Family
   name = "Family"
@@ -442,5 +442,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = NCCO
+  value = "NCCO"
 /

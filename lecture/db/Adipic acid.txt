@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Adipic acid
+  value = "Adipic acid"
 /
 &StructureFormula
   name = "Structure"
-  value = HOOC(CH2)4COOH
+  value = "HOOC(CH2)4COOH"
 /
 &Family
   name = "Family"
@@ -406,5 +406,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = OC(=O)CCCCC(=O)O
+  value = "OC(=O)CCCCC(=O)O"
 /

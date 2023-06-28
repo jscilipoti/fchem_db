@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Aniline
+  value = "Aniline"
 /
 &StructureFormula
   name = "Structure"
-  value = C6H5NH2
+  value = "C6H5NH2"
 /
 &Family
   name = "Family"
@@ -439,5 +439,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(N)ccccc1
+  value = "c1(N)ccccc1"
 /

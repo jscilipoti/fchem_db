@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Furfural
+  value = "Furfural"
 /
 &StructureFormula
   name = "Structure"
-  value = (OC4H3)CHO
+  value = "(OC4H3)CHO"
 /
 &Family
   name = "Family"
@@ -441,5 +441,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = O1C=CC=C1(C=O)
+  value = "O1C=CC=C1(C=O)"
 /

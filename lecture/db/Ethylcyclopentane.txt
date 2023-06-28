@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Ethylcyclopentane
+  value = "Ethylcyclopentane"
 /
 &StructureFormula
   name = "Structure"
-  value = (C5H9)CH2CH3
+  value = "(C5H9)CH2CH3"
 /
 &Family
   name = "Family"
@@ -453,5 +453,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1(CC)CCCC1
+  value = "C1(CC)CCCC1"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Vinyl acetate
+  value = "Vinyl acetate"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3COOCHCH2
+  value = "CH3COOCHCH2"
 /
 &Family
   name = "Family"
@@ -431,5 +431,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(=O)OC=C
+  value = "CC(=O)OC=C"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Isopropyl butyl ether
+  value = "Isopropyl butyl ether"
 /
 &StructureFormula
   name = "Structure"
-  value = C4H9OCH(CH3)2
+  value = "C4H9OCH(CH3)2"
 /
 &Family
   name = "Family"
@@ -434,5 +434,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCCOC(C)C
+  value = "CCCCOC(C)C"
 /

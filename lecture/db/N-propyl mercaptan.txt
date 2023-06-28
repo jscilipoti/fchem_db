@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-propyl mercaptan
+  value = "N-propyl mercaptan"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2CH2SH
+  value = "CH3CH2CH2SH"
 /
 &Family
   name = "Family"
@@ -453,5 +453,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCS
+  value = "CCCS"
 /

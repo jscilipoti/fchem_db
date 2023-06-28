@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Ethylene oxide
+  value = "Ethylene oxide"
 /
 &StructureFormula
   name = "Structure"
-  value = CH2OCH2
+  value = "CH2OCH2"
 /
 &Family
   name = "Family"
@@ -434,5 +434,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1OC1
+  value = "C1OC1"
 /

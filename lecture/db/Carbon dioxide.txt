@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Carbon dioxide
+  value = "Carbon dioxide"
 /
 &StructureFormula
   name = "Structure"
-  value = OCO
+  value = "OCO"
 /
 &Family
   name = "Family"
@@ -417,5 +417,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = O=C=O
+  value = "O=C=O"
 /

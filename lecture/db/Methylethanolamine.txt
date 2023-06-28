@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methylethanolamine
+  value = "Methylethanolamine"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3NHCH2CH2OH
+  value = "CH3NHCH2CH2OH"
 /
 &Family
   name = "Family"
@@ -435,5 +435,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CNCCO
+  value = "CNCCO"
 /

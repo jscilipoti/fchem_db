@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Squalane
+  value = "Squalane"
 /
 &StructureFormula
   name = "Structure"
-  value = ((CH3)2CH(C3H6CH(CH3))2C2H4)2
+  value = "((CH3)2CH(C3H6CH(CH3))2C2H4)2"
 /
 &Family
   name = "Family"
@@ -451,5 +451,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(C)CCCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)C
+  value = "CC(C)CCCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)C"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 2-Methoxy-2-Methyl-Heptane
+  value = "2-Methoxy-2-Methyl-Heptane"
 /
 &StructureFormula
   name = "Structure"
-  value = (CH3O)(CH3)2 C(CH2)4 CH3
+  value = "(CH3O)(CH3)2 C(CH2)4 CH3"
 /
 &Family
   name = "Family"
@@ -299,5 +299,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCCCC(C)COC
+  value = "CCCCCC(C)COC"
 /

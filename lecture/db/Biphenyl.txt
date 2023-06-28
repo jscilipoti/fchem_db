@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Biphenyl
+  value = "Biphenyl"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H5)2
+  value = "(C6H5)2"
 /
 &Family
   name = "Family"
@@ -444,5 +444,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1ccccc1(c2ccccc2)
+  value = "c1ccccc1(c2ccccc2)"
 /

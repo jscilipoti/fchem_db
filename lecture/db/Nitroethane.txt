@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Nitroethane
+  value = "Nitroethane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2NO2
+  value = "CH3CH2NO2"
 /
 &Family
   name = "Family"
@@ -445,5 +445,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCN(=O)=O
+  value = "CCN(=O)=O"
 /

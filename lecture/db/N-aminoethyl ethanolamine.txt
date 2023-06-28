@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-aminoethyl ethanolamine
+  value = "N-aminoethyl ethanolamine"
 /
 &StructureFormula
   name = "Structure"
-  value = H2NCH2CH2NHCH2CH2OH
+  value = "H2NCH2CH2NHCH2CH2OH"
 /
 &Family
   name = "Family"
@@ -420,5 +420,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = NCCNCCO
+  value = "NCCNCCO"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 1,2-propylene oxide
+  value = "1,2-propylene oxide"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3-CHCH2O-
+  value = "CH3-CHCH2O-"
 /
 &Family
   name = "Family"
@@ -443,5 +443,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC1OC1
+  value = "CC1OC1"
 /

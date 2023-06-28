@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Fluorine
+  value = "Fluorine"
 /
 &StructureFormula
   name = "Structure"
-  value = F2
+  value = "F2"
 /
 &Family
   name = "Family"
@@ -404,5 +404,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = FF
+  value = "FF"
 /

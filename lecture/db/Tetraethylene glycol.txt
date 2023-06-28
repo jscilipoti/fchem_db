@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Tetraethylene glycol
+  value = "Tetraethylene glycol"
 /
 &StructureFormula
   name = "Structure"
-  value = HOCH2(CH2OCH2)3CH2OH
+  value = "HOCH2(CH2OCH2)3CH2OH"
 /
 &Family
   name = "Family"
@@ -445,5 +445,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = OCCOCCOCCOCCO
+  value = "OCCOCCOCCOCCO"
 /

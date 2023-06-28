@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N,n-dimethylformamide
+  value = "N,n-dimethylformamide"
 /
 &StructureFormula
   name = "Structure"
-  value = HCON(CH3)2
+  value = "HCON(CH3)2"
 /
 &Family
   name = "Family"
@@ -421,5 +421,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CN(C)C=O
+  value = "CN(C)C=O"
 /

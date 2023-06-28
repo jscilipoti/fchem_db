@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Hydrogen iodide
+  value = "Hydrogen iodide"
 /
 &StructureFormula
   name = "Structure"
-  value = HI
+  value = "HI"
 /
 &Family
   name = "Family"
@@ -394,5 +394,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = I
+  value = "I"
 /

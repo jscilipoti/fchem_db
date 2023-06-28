@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 1,2,4-trichlorobenzene
+  value = "1,2,4-trichlorobenzene"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H3)Cl3
+  value = "(C6H3)Cl3"
 /
 &Family
   name = "Family"
@@ -418,5 +418,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(Cl)c(Cl)cc(Cl)cc1
+  value = "c1(Cl)c(Cl)cc(Cl)cc1"
 /

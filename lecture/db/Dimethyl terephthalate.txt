@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Dimethyl terephthalate
+  value = "Dimethyl terephthalate"
 /
 &StructureFormula
   name = "Structure"
-  value = C6H4(COOCH3)2
+  value = "C6H4(COOCH3)2"
 /
 &Family
   name = "Family"
@@ -442,5 +442,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1c(C(=O)OC)ccc(C(=O)OC)c1
+  value = "c1c(C(=O)OC)ccc(C(=O)OC)c1"
 /

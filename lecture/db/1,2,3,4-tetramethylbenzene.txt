@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 1,2,3,4-tetramethylbenzene
+  value = "1,2,3,4-tetramethylbenzene"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H2)(CH3)4
+  value = "(C6H2)(CH3)4"
 /
 &Family
   name = "Family"
@@ -449,5 +449,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(C)c(C)c(C)c(C)cc1
+  value = "c1(C)c(C)c(C)c(C)cc1"
 /

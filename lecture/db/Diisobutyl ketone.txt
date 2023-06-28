@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Diisobutyl ketone
+  value = "Diisobutyl ketone"
 /
 &StructureFormula
   name = "Structure"
-  value = (CH3)2CHCH2COCH2CH(CH3)2
+  value = "(CH3)2CHCH2COCH2CH(CH3)2"
 /
 &Family
   name = "Family"
@@ -438,5 +438,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(C)CC(=O)CC(C)C
+  value = "CC(C)CC(=O)CC(C)C"
 /

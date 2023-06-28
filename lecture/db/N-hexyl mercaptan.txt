@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-hexyl mercaptan
+  value = "N-hexyl mercaptan"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(CH2)5SH
+  value = "CH3(CH2)5SH"
 /
 &Family
   name = "Family"
@@ -443,5 +443,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCCCCS
+  value = "CCCCCCS"
 /

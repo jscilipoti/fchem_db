@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Diphenyl disulfide
+  value = "Diphenyl disulfide"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H5)SS(C6H5)
+  value = "(C6H5)SS(C6H5)"
 /
 &Family
   name = "Family"
@@ -392,5 +392,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1=CC=C(C=C1)SSC2=CC=CC=C2
+  value = "C1=CC=C(C=C1)SSC2=CC=CC=C2"
 /

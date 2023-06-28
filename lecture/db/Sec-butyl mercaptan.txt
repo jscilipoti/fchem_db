@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Sec-butyl mercaptan
+  value = "Sec-butyl mercaptan"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2CH(SH)CH3
+  value = "CH3CH2CH(SH)CH3"
 /
 &Family
   name = "Family"
@@ -430,5 +430,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(S)CC
+  value = "CC(S)CC"
 /

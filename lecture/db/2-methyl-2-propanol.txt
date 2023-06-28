@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 2-methyl-2-propanol
+  value = "2-methyl-2-propanol"
 /
 &StructureFormula
   name = "Structure"
-  value = C(CH3)3OH
+  value = "C(CH3)3OH"
 /
 &Family
   name = "Family"
@@ -461,5 +461,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(C)(O)C
+  value = "CC(C)(O)C"
 /

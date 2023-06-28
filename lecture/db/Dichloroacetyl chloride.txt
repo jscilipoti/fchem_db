@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Dichloroacetyl chloride
+  value = "Dichloroacetyl chloride"
 /
 &StructureFormula
   name = "Structure"
-  value = CHCl2COCl
+  value = "CHCl2COCl"
 /
 &Family
   name = "Family"
@@ -364,5 +364,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = ClC(Cl)C(=O)Cl
+  value = "ClC(Cl)C(=O)Cl"
 /

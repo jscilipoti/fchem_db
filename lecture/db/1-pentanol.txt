@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 1-pentanol
+  value = "1-pentanol"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(CH2)4OH
+  value = "CH3(CH2)4OH"
 /
 &Family
   name = "Family"
@@ -463,5 +463,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCCCO
+  value = "CCCCCO"
 /

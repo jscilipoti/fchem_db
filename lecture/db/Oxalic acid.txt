@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Oxalic acid
+  value = "Oxalic acid"
 /
 &StructureFormula
   name = "Structure"
-  value = HOOCCOOH
+  value = "HOOCCOOH"
 /
 &Family
   name = "Family"
@@ -375,5 +375,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C(=O)(O)C(=O)O
+  value = "C(=O)(O)C(=O)O"
 /

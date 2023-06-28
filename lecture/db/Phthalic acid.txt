@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Phthalic acid
+  value = "Phthalic acid"
 /
 &StructureFormula
   name = "Structure"
-  value = COOH(C6H4)COOH
+  value = "COOH(C6H4)COOH"
 /
 &Family
   name = "Family"
@@ -352,5 +352,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(C(=O)O)c(C(=O)O)cccc1
+  value = "c1(C(=O)O)c(C(=O)O)cccc1"
 /

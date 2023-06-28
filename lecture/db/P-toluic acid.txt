@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = P-toluic acid
+  value = "P-toluic acid"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(C6H4)COOH
+  value = "CH3(C6H4)COOH"
 /
 &Family
   name = "Family"
@@ -421,5 +421,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1cc(C)ccc1(C(=O)O)
+  value = "c1cc(C)ccc1(C(=O)O)"
 /

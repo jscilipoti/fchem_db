@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methyl isopropyl ketone
+  value = "Methyl isopropyl ketone"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH(CH3)COCH3
+  value = "CH3CH(CH3)COCH3"
 /
 &Family
   name = "Family"
@@ -441,5 +441,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(=O)C(C)C
+  value = "CC(=O)C(C)C"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 1-propanol
+  value = "1-propanol"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(CH2)2OH
+  value = "CH3(CH2)2OH"
 /
 &Family
   name = "Family"
@@ -472,5 +472,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCO
+  value = "CCCO"
 /

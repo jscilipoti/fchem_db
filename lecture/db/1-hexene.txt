@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 1-hexene
+  value = "1-hexene"
 /
 &StructureFormula
   name = "Structure"
-  value = CH2CH(CH2)3CH3
+  value = "CH2CH(CH2)3CH3"
 /
 &Family
   name = "Family"
@@ -451,5 +451,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C=CCCCC
+  value = "C=CCCCC"
 /

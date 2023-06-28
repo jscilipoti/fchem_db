@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Maleic acid
+  value = "Maleic acid"
 /
 &StructureFormula
   name = "Structure"
-  value = HOOCCHCHCOOH
+  value = "HOOCCHCHCOOH"
 /
 &Family
   name = "Family"
@@ -406,5 +406,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C(=O)(O)/C=C\C(=O)O
+  value = "C(=O)(O)/C=C\C(=O)O"
 /

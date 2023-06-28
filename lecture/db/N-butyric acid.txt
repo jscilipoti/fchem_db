@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-butyric acid
+  value = "N-butyric acid"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2CH2COOH
+  value = "CH3CH2CH2COOH"
 /
 &Family
   name = "Family"
@@ -424,5 +424,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCC(=O)O
+  value = "CCCC(=O)O"
 /

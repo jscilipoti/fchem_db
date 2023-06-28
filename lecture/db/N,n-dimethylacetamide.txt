@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N,n-dimethylacetamide
+  value = "N,n-dimethylacetamide"
 /
 &StructureFormula
   name = "Structure"
-  value = (CH3)2NCOCH3
+  value = "(CH3)2NCOCH3"
 /
 &Family
   name = "Family"
@@ -402,5 +402,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(=O)N(C)C
+  value = "CC(=O)N(C)C"
 /

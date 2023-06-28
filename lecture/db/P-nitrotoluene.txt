@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = P-nitrotoluene
+  value = "P-nitrotoluene"
 /
 &StructureFormula
   name = "Structure"
-  value = C6H4(NO2)(CH3)
+  value = "C6H4(NO2)(CH3)"
 /
 &Family
   name = "Family"
@@ -455,5 +455,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(C)ccc(N(=O)=O)cc1
+  value = "c1(C)ccc(N(=O)=O)cc1"
 /

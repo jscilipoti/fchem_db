@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Isobutyl acetate
+  value = "Isobutyl acetate"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3COOCH2CH(CH3)2
+  value = "CH3COOCH2CH(CH3)2"
 /
 &Family
   name = "Family"
@@ -459,5 +459,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(=O)OCC(C)C
+  value = "CC(=O)OCC(C)C"
 /

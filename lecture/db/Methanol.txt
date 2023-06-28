@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methanol
+  value = "Methanol"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3OH
+  value = "CH3OH"
 /
 &Family
   name = "Family"
@@ -455,5 +455,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CO
+  value = "CO"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Cyclohexanol
+  value = "Cyclohexanol"
 /
 &StructureFormula
   name = "Structure"
-  value = -CH(OH)(CH2)4CH2-
+  value = "-CH(OH)(CH2)4CH2-"
 /
 &Family
   name = "Family"
@@ -450,5 +450,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = OC1CCCCC1
+  value = "OC1CCCCC1"
 /

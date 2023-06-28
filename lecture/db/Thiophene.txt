@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Thiophene
+  value = "Thiophene"
 /
 &StructureFormula
   name = "Structure"
-  value = -S(CH)4-
+  value = "-S(CH)4-"
 /
 &Family
   name = "Family"
@@ -422,5 +422,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = S1C=CC=C1
+  value = "S1C=CC=C1"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Nitromethane
+  value = "Nitromethane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3NO2
+  value = "CH3NO2"
 /
 &Family
   name = "Family"
@@ -431,5 +431,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CN(=O)=O
+  value = "CN(=O)=O"
 /

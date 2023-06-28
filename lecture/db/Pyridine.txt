@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Pyridine
+  value = "Pyridine"
 /
 &StructureFormula
   name = "Structure"
-  value = -CHCHCHCHCHN-
+  value = "-CHCHCHCHCHN-"
 /
 &Family
   name = "Family"
@@ -432,5 +432,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = n1ccccc1
+  value = "n1ccccc1"
 /

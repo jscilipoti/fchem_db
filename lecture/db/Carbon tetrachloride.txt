@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Carbon tetrachloride
+  value = "Carbon tetrachloride"
 /
 &StructureFormula
   name = "Structure"
-  value = CCl4
+  value = "CCl4"
 /
 &Family
   name = "Family"
@@ -433,5 +433,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C([Cl])([Cl])([Cl])[Cl]
+  value = "C([Cl])([Cl])([Cl])[Cl]"
 /

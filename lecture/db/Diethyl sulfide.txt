@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Diethyl sulfide
+  value = "Diethyl sulfide"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2SCH2CH3
+  value = "CH3CH2SCH2CH3"
 /
 &Family
   name = "Family"
@@ -436,5 +436,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCSCC
+  value = "CCSCC"
 /

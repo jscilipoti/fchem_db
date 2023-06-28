@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Neon
+  value = "Neon"
 /
 &StructureFormula
   name = "Structure"
-  value = Ne
+  value = "Ne"
 /
 &Family
   name = "Family"
@@ -392,5 +392,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = [Ne]
+  value = "[Ne]"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Isobutylbenzene
+  value = "Isobutylbenzene"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H5)CH2CH(CH3)2
+  value = "(C6H5)CH2CH(CH3)2"
 /
 &Family
   name = "Family"
@@ -483,5 +483,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(CC(C)C)ccccc1
+  value = "c1(CC(C)C)ccccc1"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 2-methyl-1-butene
+  value = "2-methyl-1-butene"
 /
 &StructureFormula
   name = "Structure"
-  value = CH2C(CH3)CH2CH3
+  value = "CH2C(CH3)CH2CH3"
 /
 &Family
   name = "Family"
@@ -455,5 +455,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C=C(C)CC
+  value = "C=C(C)CC"
 /

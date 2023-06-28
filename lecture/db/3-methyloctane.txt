@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 3-methyloctane
+  value = "3-methyloctane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2CH(CH3)(CH2)4CH3
+  value = "CH3CH2CH(CH3)(CH2)4CH3"
 /
 &Family
   name = "Family"
@@ -433,5 +433,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCC(C)CCCCC
+  value = "CCC(C)CCCCC"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 2,3,4-trimethylpentane
+  value = "2,3,4-trimethylpentane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH(CH3)CH(CH3)CH(CH3)CH3
+  value = "CH3CH(CH3)CH(CH3)CH(CH3)CH3"
 /
 &Family
   name = "Family"
@@ -452,5 +452,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(C)C(C)C(C)C
+  value = "CC(C)C(C)C(C)C"
 /

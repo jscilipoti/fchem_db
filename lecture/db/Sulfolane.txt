@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Sulfolane
+  value = "Sulfolane"
 /
 &StructureFormula
   name = "Structure"
-  value = -(CH2)2SO2(CH2)2-
+  value = "-(CH2)2SO2(CH2)2-"
 /
 &Family
   name = "Family"
@@ -442,5 +442,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = S1(=O)(=O)CCCC1
+  value = "S1(=O)(=O)CCCC1"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Trichloroacetaldehyde
+  value = "Trichloroacetaldehyde"
 /
 &StructureFormula
   name = "Structure"
-  value = CCl3CHO
+  value = "CCl3CHO"
 /
 &Family
   name = "Family"
@@ -383,5 +383,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C([Cl])([Cl])([Cl])C=O
+  value = "C([Cl])([Cl])([Cl])C=O"
 /

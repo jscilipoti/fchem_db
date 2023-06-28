@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methyl Phenyl Carbonate
+  value = "Methyl Phenyl Carbonate"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(OCOO)C6H5
+  value = "CH3(OCOO)C6H5"
 /
 &Family
   name = "Family"
@@ -284,5 +284,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = COC(=O)OC1=CC=CC=C1
+  value = "COC(=O)OC1=CC=CC=C1"
 /

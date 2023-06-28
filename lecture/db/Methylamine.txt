@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methylamine
+  value = "Methylamine"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3NH2
+  value = "CH3NH2"
 /
 &Family
   name = "Family"
@@ -424,5 +424,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CN
+  value = "CN"
 /

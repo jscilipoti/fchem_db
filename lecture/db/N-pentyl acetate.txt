@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-pentyl acetate
+  value = "N-pentyl acetate"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3COOCH2(CH2)3CH3
+  value = "CH3COOCH2(CH2)3CH3"
 /
 &Family
   name = "Family"
@@ -449,5 +449,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(=O)OCCCCC
+  value = "CC(=O)OCCCCC"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Isopropyl mercaptan
+  value = "Isopropyl mercaptan"
 /
 &StructureFormula
   name = "Structure"
-  value = (CH3)2CHSH
+  value = "(CH3)2CHSH"
 /
 &Family
   name = "Family"
@@ -346,5 +346,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(C)S
+  value = "CC(C)S"
 /

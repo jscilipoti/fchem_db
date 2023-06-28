@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 2-ethyl-m-xylene
+  value = "2-ethyl-m-xylene"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2(C6H3)(CH3)2
+  value = "CH3CH2(C6H3)(CH3)2"
 /
 &Family
   name = "Family"
@@ -459,5 +459,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(C)c(CC)c(C)ccc1
+  value = "c1(C)c(CC)c(C)ccc1"
 /

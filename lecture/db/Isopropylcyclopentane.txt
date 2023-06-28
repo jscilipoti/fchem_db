@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Isopropylcyclopentane
+  value = "Isopropylcyclopentane"
 /
 &StructureFormula
   name = "Structure"
-  value = (C5H9)CH(CH3)2
+  value = "(C5H9)CH(CH3)2"
 /
 &Family
   name = "Family"
@@ -457,5 +457,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1CCCC1(C(C)C)
+  value = "C1CCCC1(C(C)C)"
 /

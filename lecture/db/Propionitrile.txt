@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Propionitrile
+  value = "Propionitrile"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2CN
+  value = "CH3CH2CN"
 /
 &Family
   name = "Family"
@@ -431,5 +431,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCC#N
+  value = "CCC#N"
 /

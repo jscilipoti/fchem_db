@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 2-methylindene
+  value = "2-methylindene"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(C9H7)
+  value = "CH3(C9H7)"
 /
 &Family
   name = "Family"
@@ -439,5 +439,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1=CC=C2C(=C1)C=C(C2)C
+  value = "C1=CC=C2C(=C1)C=C(C2)C"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methyl isobutyl ether
+  value = "Methyl isobutyl ether"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3OCH2CH(CH3)CH3
+  value = "CH3OCH2CH(CH3)CH3"
 /
 &Family
   name = "Family"
@@ -419,5 +419,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = COCC(C)C
+  value = "COCC(C)C"
 /

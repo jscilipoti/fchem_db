@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Di-n-butyl ether
+  value = "Di-n-butyl ether"
 /
 &StructureFormula
   name = "Structure"
-  value = (C4H9)2O
+  value = "(C4H9)2O"
 /
 &Family
   name = "Family"
@@ -439,5 +439,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCCOCCCC
+  value = "CCCCOCCCC"
 /

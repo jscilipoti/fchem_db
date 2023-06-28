@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 2,2-dimethylheptane
+  value = "2,2-dimethylheptane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3C(CH3)2(CH2)4CH3
+  value = "CH3C(CH3)2(CH2)4CH3"
 /
 &Family
   name = "Family"
@@ -443,5 +443,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(C)(C)CCCCC
+  value = "CC(C)(C)CCCCC"
 /

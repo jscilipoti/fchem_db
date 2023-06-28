@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-butylcyclopentane
+  value = "N-butylcyclopentane"
 /
 &StructureFormula
   name = "Structure"
-  value = (C5H9)CH2CH2CH2CH3
+  value = "(C5H9)CH2CH2CH2CH3"
 /
 &Family
   name = "Family"
@@ -441,5 +441,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1CCCC1(CCCC)
+  value = "C1CCCC1(CCCC)"
 /

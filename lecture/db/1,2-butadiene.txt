@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 1,2-butadiene
+  value = "1,2-butadiene"
 /
 &StructureFormula
   name = "Structure"
-  value = CH2CCHCH3
+  value = "CH2CCHCH3"
 /
 &Family
   name = "Family"
@@ -447,5 +447,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C=C=CC
+  value = "C=C=CC"
 /

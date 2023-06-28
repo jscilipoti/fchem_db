@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methyl ethyl ketone
+  value = "Methyl ethyl ketone"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3COCH2CH3
+  value = "CH3COCH2CH3"
 /
 &Family
   name = "Family"
@@ -447,5 +447,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(=O)CC
+  value = "CC(=O)CC"
 /

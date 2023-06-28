@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Chrysene
+  value = "Chrysene"
 /
 &StructureFormula
   name = "Structure"
-  value = C18H12
+  value = "C18H12"
 /
 &Family
   name = "Family"
@@ -423,5 +423,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1=CC2=C(C=C1)C=CC1=C2C=CC2=C1C=CC=C2
+  value = "C1=CC2=C(C=C1)C=CC1=C2C=CC2=C1C=CC=C2"
 /

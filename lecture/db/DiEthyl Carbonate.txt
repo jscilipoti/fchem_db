@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = DiEthyl Carbonate
+  value = "DiEthyl Carbonate"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2(OCOO)CH2CH3
+  value = "CH3CH2(OCOO)CH2CH3"
 /
 &Family
   name = "Family"
@@ -343,5 +343,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCOC(=O)OCC
+  value = "CCOC(=O)OCC"
 /

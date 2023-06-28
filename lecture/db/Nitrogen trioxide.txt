@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Nitrogen trioxide
+  value = "Nitrogen trioxide"
 /
 &StructureFormula
   name = "Structure"
-  value = O2NNO
+  value = "O2NNO"
 /
 &Family
   name = "Family"
@@ -280,5 +280,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = O=N(=O)N=O
+  value = "O=N(=O)N=O"
 /

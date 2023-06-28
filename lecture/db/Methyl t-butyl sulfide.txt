@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methyl t-butyl sulfide
+  value = "Methyl t-butyl sulfide"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3SC(CH3)3
+  value = "CH3SC(CH3)3"
 /
 &Family
   name = "Family"
@@ -425,5 +425,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CSC(C)(C)C
+  value = "CSC(C)(C)C"
 /

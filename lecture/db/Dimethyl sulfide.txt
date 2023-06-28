@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Dimethyl sulfide
+  value = "Dimethyl sulfide"
 /
 &StructureFormula
   name = "Structure"
-  value = (CH3)2S
+  value = "(CH3)2S"
 /
 &Family
   name = "Family"
@@ -428,5 +428,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CSC
+  value = "CSC"
 /

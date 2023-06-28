@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 2,5-dinitrotoluene
+  value = "2,5-dinitrotoluene"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(C6H3)(NO2)2
+  value = "CH3(C6H3)(NO2)2"
 /
 &Family
   name = "Family"
@@ -430,5 +430,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1(N(=O)=O)c(C)cc(N(=O)=O)cc1
+  value = "c1(N(=O)=O)c(C)cc(N(=O)=O)cc1"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-hexane
+  value = "N-hexane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(CH2)4CH3
+  value = "CH3(CH2)4CH3"
 /
 &Family
   name = "Family"
@@ -449,5 +449,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCCCC
+  value = "CCCCCC"
 /

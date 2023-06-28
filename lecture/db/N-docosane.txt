@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-docosane
+  value = "N-docosane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(CH2)20CH3
+  value = "CH3(CH2)20CH3"
 /
 &Family
   name = "Family"
@@ -450,5 +450,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCCCCCCCCCCCCCCCCCCCC
+  value = "CCCCCCCCCCCCCCCCCCCCCC"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methyl n-propyl sulfide
+  value = "Methyl n-propyl sulfide"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3SCH2CH2CH3
+  value = "CH3SCH2CH2CH3"
 /
 &Family
   name = "Family"
@@ -425,5 +425,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CSCCC
+  value = "CSCCC"
 /

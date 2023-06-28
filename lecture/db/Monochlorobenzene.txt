@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Monochlorobenzene
+  value = "Monochlorobenzene"
 /
 &StructureFormula
   name = "Structure"
-  value = C6H5Cl
+  value = "C6H5Cl"
 /
 &Family
   name = "Family"
@@ -439,5 +439,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1ccccc1([Cl])
+  value = "c1ccccc1([Cl])"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Styrene
+  value = "Styrene"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H5)CHCH2
+  value = "(C6H5)CHCH2"
 /
 &Family
   name = "Family"
@@ -457,5 +457,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C=Cc1ccccc1
+  value = "C=Cc1ccccc1"
 /

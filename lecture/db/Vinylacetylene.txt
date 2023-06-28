@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Vinylacetylene
+  value = "Vinylacetylene"
 /
 &StructureFormula
   name = "Structure"
-  value = CH2CHCCH
+  value = "CH2CHCCH"
 /
 &Family
   name = "Family"
@@ -407,5 +407,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C=CC#C
+  value = "C=CC#C"
 /

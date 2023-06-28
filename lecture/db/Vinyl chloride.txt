@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Vinyl chloride
+  value = "Vinyl chloride"
 /
 &StructureFormula
   name = "Structure"
-  value = CH2CHCl
+  value = "CH2CHCl"
 /
 &Family
   name = "Family"
@@ -429,5 +429,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C=C[Cl]
+  value = "C=C[Cl]"
 /

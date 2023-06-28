@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Butanal
+  value = "Butanal"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2CH2CHO
+  value = "CH3CH2CH2CHO"
 /
 &Family
   name = "Family"
@@ -443,5 +443,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCC=O
+  value = "CCCC=O"
 /

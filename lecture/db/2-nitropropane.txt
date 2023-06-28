@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 2-nitropropane
+  value = "2-nitropropane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH(NO2)CH3
+  value = "CH3CH(NO2)CH3"
 /
 &Family
   name = "Family"
@@ -418,5 +418,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(N(=O)=O)C
+  value = "CC(N(=O)=O)C"
 /

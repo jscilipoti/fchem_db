@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Phenol
+  value = "Phenol"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H5)OH
+  value = "(C6H5)OH"
 /
 &Family
   name = "Family"
@@ -453,5 +453,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1ccccc1(O)
+  value = "c1ccccc1(O)"
 /

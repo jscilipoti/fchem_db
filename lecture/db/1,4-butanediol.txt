@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 1,4-butanediol
+  value = "1,4-butanediol"
 /
 &StructureFormula
   name = "Structure"
-  value = HO(CH2)4OH
+  value = "HO(CH2)4OH"
 /
 &Family
   name = "Family"
@@ -450,5 +450,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = OCCCCO
+  value = "OCCCCO"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Toluene
+  value = "Toluene"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H5)CH3
+  value = "(C6H5)CH3"
 /
 &Family
   name = "Family"
@@ -462,5 +462,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1ccccc1(C)
+  value = "c1ccccc1(C)"
 /

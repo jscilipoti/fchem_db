@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Anisole
+  value = "Anisole"
 /
 &StructureFormula
   name = "Structure"
-  value = C6H5OCH3
+  value = "C6H5OCH3"
 /
 &Family
   name = "Family"
@@ -455,5 +455,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1ccccc1(OC)
+  value = "c1ccccc1(OC)"
 /

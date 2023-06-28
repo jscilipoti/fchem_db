@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Diisopropanolamine
+  value = "Diisopropanolamine"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH(OH)CH2NHCH2CH(OH)CH3
+  value = "CH3CH(OH)CH2NHCH2CH(OH)CH3"
 /
 &Family
   name = "Family"
@@ -450,5 +450,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(O)CNCC(O)C
+  value = "CC(O)CNCC(O)C"
 /

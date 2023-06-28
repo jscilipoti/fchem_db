@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Cyclohexane
+  value = "Cyclohexane"
 /
 &StructureFormula
   name = "Structure"
-  value = -(CH2)6-
+  value = "-(CH2)6-"
 /
 &Family
   name = "Family"
@@ -437,5 +437,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1CCCCC1
+  value = "C1CCCCC1"
 /

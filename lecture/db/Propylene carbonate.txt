@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Propylene carbonate
+  value = "Propylene carbonate"
 /
 &StructureFormula
   name = "Structure"
-  value = -OCH(CH3)CH2OCO-
+  value = "-OCH(CH3)CH2OCO-"
 /
 &Family
   name = "Family"
@@ -441,5 +441,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C1C(C)OC(=O)O1
+  value = "C1C(C)OC(=O)O1"
 /

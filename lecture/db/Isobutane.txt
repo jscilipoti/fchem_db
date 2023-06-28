@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Isobutane
+  value = "Isobutane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH(CH3)CH3
+  value = "CH3CH(CH3)CH3"
 /
 &Family
   name = "Family"
@@ -449,5 +449,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(C)C
+  value = "CC(C)C"
 /

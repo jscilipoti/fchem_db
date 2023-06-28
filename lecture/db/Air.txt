@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Air
+  value = "Air"
 /
 &StructureFormula
   name = "Structure"
-  value = (N2)0.781 (O2)0.209 (Ar)0.01
+  value = "(N2)0.781 (O2)0.209 (Ar)0.01"
 /
 &Family
   name = "Family"

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Propionic acid
+  value = "Propionic acid"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3CH2COOH
+  value = "CH3CH2COOH"
 /
 &Family
   name = "Family"
@@ -428,5 +428,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCC(=O)O
+  value = "CCC(=O)O"
 /

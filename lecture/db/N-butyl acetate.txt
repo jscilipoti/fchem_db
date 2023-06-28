@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = N-butyl acetate
+  value = "N-butyl acetate"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3COO(CH2)3CH3
+  value = "CH3COO(CH2)3CH3"
 /
 &Family
   name = "Family"
@@ -449,5 +449,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(=O)OCCCC
+  value = "CC(=O)OCCCC"
 /

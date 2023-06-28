@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Sulfur dioxide
+  value = "Sulfur dioxide"
 /
 &StructureFormula
   name = "Structure"
-  value = OSO
+  value = "OSO"
 /
 &Family
   name = "Family"
@@ -411,5 +411,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = O=[S]=O
+  value = "O=[S]=O"
 /

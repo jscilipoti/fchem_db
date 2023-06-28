@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Cumene hydroperoxide
+  value = "Cumene hydroperoxide"
 /
 &StructureFormula
   name = "Structure"
-  value = (C6H5)C(CH3)2OOH
+  value = "(C6H5)C(CH3)2OOH"
 /
 &Family
   name = "Family"
@@ -358,5 +358,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = c1ccccc1(C(C)(C)OO)
+  value = "c1ccccc1(C(C)(C)OO)"
 /

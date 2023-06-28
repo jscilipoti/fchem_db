@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Tert-butyl ethyl ether
+  value = "Tert-butyl ethyl ether"
 /
 &StructureFormula
   name = "Structure"
-  value = (CH3)3COCH2CH3
+  value = "(CH3)3COCH2CH3"
 /
 &Family
   name = "Family"
@@ -451,5 +451,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCOC(C)(C)C
+  value = "CCOC(C)(C)C"
 /

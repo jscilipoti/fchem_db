@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Formaldehyde
+  value = "Formaldehyde"
 /
 &StructureFormula
   name = "Structure"
-  value = HCHO
+  value = "HCHO"
 /
 &Family
   name = "Family"
@@ -419,5 +419,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C=O
+  value = "C=O"
 /

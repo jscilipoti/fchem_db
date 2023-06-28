@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = 1-nitrobutane
+  value = "1-nitrobutane"
 /
 &StructureFormula
   name = "Structure"
-  value = CH3(CH2)3NO2
+  value = "CH3(CH2)3NO2"
 /
 &Family
   name = "Family"
@@ -442,5 +442,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CCCCN(=O)=O
+  value = "CCCCN(=O)=O"
 /

@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Methacrylonitrile
+  value = "Methacrylonitrile"
 /
 &StructureFormula
   name = "Structure"
-  value = CH2C(CH3)CN
+  value = "CH2C(CH3)CN"
 /
 &Family
   name = "Family"
@@ -391,5 +391,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = C=C(C)C#N
+  value = "C=C(C)C#N"
 /

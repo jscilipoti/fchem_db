@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Neopentane
+  value = "Neopentane"
 /
 &StructureFormula
   name = "Structure"
-  value = C(CH3)4
+  value = "C(CH3)4"
 /
 &Family
   name = "Family"
@@ -454,5 +454,5 @@
 /
 &Smiles
   name = "SMILES"
-  value = CC(C)(C)C
+  value = "CC(C)(C)C"
 /

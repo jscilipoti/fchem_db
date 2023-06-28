@@ -4,11 +4,11 @@
 /
 &CompoundID
   name = "Name"
-  value = Tert-butylcyclohexane
+  value = "Tert-butylcyclohexane"
 /
 &StructureFormula
   name = "Structure"
-  value = C6H11C(CH3)3
+  value = "C6H11C(CH3)3"
 /
 &Family
   name = "Family"
