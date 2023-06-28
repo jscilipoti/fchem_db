@@ -1,127 +1,127 @@
 &LibraryIndex
-  name = Index
+  name = "Index"
   value = 3819
 /
 &CompoundID
-  name = Name
+  name = "Name"
   value = Diphenyl disulfide
 /
 &StructureFormula
-  name = Structure
+  name = "Structure"
   value = (C6H5)SS(C6H5)
 /
 &Family
-  name = Family
+  name = "Family"
   value = 42
 /
 &CriticalTemperature
-  name = Critical temperature
-  units = K
+  name = "Critical temperature"
+  units = "K"
   value = 829.8
 /
 &CriticalPressure
-  name = Critical pressure
-  units = Pa
+  name = "Critical pressure"
+  units = "Pa"
   value = 3569000
 /
 &CriticalVolume
-  name = Critical volume
-  units = m3/kmol
+  name = "Critical volume"
+  units = "m3/kmol"
   value = 0.584
 /
 &CriticalCompressibility
-  name = Critical compressibility factor
-  units = _
+  name = "Critical compressibility factor"
+  units = "_"
   value = 0.302
 /
 &NormalBoilingPointTemperature
-  name = Normal boiling point
-  units = K
+  name = "Normal boiling point"
+  units = "K"
   value = 583.15
 /
 &NormalMeltingPointTemperature
-  name = Melting point
-  units = K
+  name = "Melting point"
+  units = "K"
   value = 333.5
 /
 &TriplePointTemperature
-  name = Triple point temperature
-  units = K
+  name = "Triple point temperature"
+  units = "K"
   value = 333.5
 /
 &TriplePointPressure
-  name = Triple point pressure
-  units = Pa
+  name = "Triple point pressure"
+  units = "Pa"
   value = 0.49
 /
 &MolecularWeight
-  name = Molecular weight
-  units = kg/kmol
+  name = "Molecular weight"
+  units = "kg/kmol"
   value = 218.3378
 /
 &LiquidVolumeAtNormalBoilingPoint
-  name = Liquid molar volume at normal boiling point
-  units = m3/kmol
+  name = "Liquid molar volume at normal boiling point"
+  units = "m3/kmol"
   value = 0.2076
 /
 &AcentricityFactor
-  name = Acentric factor
-  units = _
+  name = "Acentric factor"
+  units = "_"
   value = 0.569717
 /
 &RadiusOfGyration
-  name = Radius of gyration
-  units = m
+  name = "Radius of gyration"
+  units = "m"
   value = 5.685E-10
 /
 &SolubilityParameter
-  name = Solubility parameter
-  units = J0.5/m1.5
+  name = "Solubility parameter"
+  units = "J0.5/m1.5"
   value = 20480
 /
 &DipoleMoment
-  name = Dipole moment
-  units = Coulomb.m
+  name = "Dipole moment"
+  units = "Coulomb.m"
   value = 5.97E-30
 /
 &VanDerWaalsVolume
-  name = Van der Waals volume
-  units = m3/kmol
+  name = "Van der Waals volume"
+  units = "m3/kmol"
   value = 0.1193
 /
 &VanDerWaalsArea
-  name = Van der Waals area
-  units = m2/kmol
+  name = "Van der Waals area"
+  units = "m2/kmol"
   value = 1.447E+09
 /
 &HeatOfFormation
-  name = IG heat of formation
-  units = J/kmol
+  name = "IG heat of formation"
+  units = "J/kmol"
   value = 2.628E+08
 /
 &GibbsEnergyOfFormation
-  name = IG Gibbs energy of formation
-  units = J/kmol
+  name = "IG Gibbs energy of formation"
+  units = "J/kmol"
   value = 3.518E+08
 /
 &AbsEntropy
-  name = IG absolute entropy
-  units = J/kmol/K
+  name = "IG absolute entropy"
+  units = "J/kmol/K"
   value = 489300
 /
 &HeatOfFusionAtMeltingPoint
-  name = Heat of fusion at melting point
-  units = J/kmol
+  name = "Heat of fusion at melting point"
+  units = "J/kmol"
   value = 1.93E+07
 /
 &HeatOfCombustion
-  name = Standard net heat of combustion LHV
-  units = J/kmol
+  name = "Standard net heat of combustion LHV"
+  units = "J/kmol"
   value = -6.676E+09
 /
 &SolidDensity
-  name = Solid density
-  units = kmol/m3
+  name = "Solid density"
+  units = "kmol/m3"
   eqno = 2
   A = 6.3025
   B = -0.00053803
@@ -132,8 +132,8 @@
   Tmax = 333.5
 /
 &LiquidDensity
-  name = Liquid density
-  units = kmol/m3
+  name = "Liquid density"
+  units = "kmol/m3"
   eqno = 105
   A = 0.5173
   B = 0.302
@@ -143,8 +143,8 @@
   Tmax = 829.8
 /
 &VaporPressure
-  name = Vapour pressure
-  units = Pa
+  name = "Vapour pressure"
+  units = "Pa"
   eqno = 101
   A = 927.5541
   B = -59320.23
@@ -155,8 +155,8 @@
   Tmax = 829.8
 /
 &HeatOfVaporization
-  name = Heat of vaporization
-  units = J/kmol
+  name = "Heat of vaporization"
+  units = "J/kmol"
   eqno = 106
   A = 1.1805E+08
   B = 0.46278
@@ -167,8 +167,8 @@
   Tmax = 829.8
 /
 &SolidHeatCapacityCp
-  name = Solid heat capacity
-  units = J/kmol/K
+  name = "Solid heat capacity"
+  units = "J/kmol/K"
   eqno = 100
   A = 13316
   B = 948.21
@@ -179,8 +179,8 @@
   Tmax = 333.5
 /
 &LiquidHeatCapacityCp
-  name = Liquid heat capacity
-  units = J/kmol/K
+  name = "Liquid heat capacity"
+  units = "J/kmol/K"
   eqno = 100
   A = 267470
   B = 28.884
@@ -191,8 +191,8 @@
   Tmax = 583.15
 /
 &IdealGasHeatCapacityCp
-  name = Ideal gas heat capacity
-  units = J/kmol/K
+  name = "Ideal gas heat capacity"
+  units = "J/kmol/K"
   eqno = 16
   A = 50433
   B = -472.23
@@ -203,8 +203,8 @@
   Tmax = 1500
 /
 &SecondVirialCoefficient
-  name = Second virial coefficient
-  units = m3/kmol
+  name = "Second virial coefficient"
+  units = "m3/kmol"
   eqno = 104
   A = 0.32906
   B = -464.91
@@ -215,8 +215,8 @@
   Tmax = 1500
 /
 &LiquidViscosity
-  name = Liquid viscosity
-  units = Pa.s
+  name = "Liquid viscosity"
+  units = "Pa.s"
   eqno = 101
   A = -10.832
   B = 1659.3
@@ -227,8 +227,8 @@
   Tmax = 729
 /
 &VaporViscosity
-  name = Vapour viscosity
-  units = Pa.s
+  name = "Vapour viscosity"
+  units = "Pa.s"
   eqno = 102
   A = 5.542E-08
   B = 0.87669
@@ -238,8 +238,8 @@
   Tmax = 1000
 /
 &LiquidThermalConductivity
-  name = Liquid thermal conductivity
-  units = W/m/K
+  name = "Liquid thermal conductivity"
+  units = "W/m/K"
   eqno = 16
   A = -0.040762
   B = -52.269
@@ -250,8 +250,8 @@
   Tmax = 583.15
 /
 &VaporThermalConductivity
-  name = Vapour thermal conductivity
-  units = W/m/K
+  name = "Vapour thermal conductivity"
+  units = "W/m/K"
   eqno = 102
   A = 0.0000021936
   B = 1.4453
@@ -261,8 +261,8 @@
   Tmax = 1000
 /
 &SurfaceTension
-  name = Surface tension
-  units = N/m
+  name = "Surface tension"
+  units = "N/m"
   eqno = 106
   A = 0.086
   B = 1.222
@@ -273,8 +273,8 @@
   Tmax = 829.8
 /
 &RPPHeatCapacityCp
-  name = Ideal gas heat capacity (RPP)
-  units = J/kmol/K
+  name = "Ideal gas heat capacity (RPP)"
+  units = "J/kmol/K"
   eqno = 4
   A = -72351
   B = 1102.3
@@ -284,8 +284,8 @@
   Tmax = 1500
 /
 &AntoineVaporPressure
-  name = Antoine
-  units = Pa
+  name = "Antoine"
+  units = "Pa"
   eqno = 10
   A = 21.007
   B = 3922.8
@@ -294,8 +294,8 @@
   Tmax = 725.32
 /
 &LiquidViscosityRPS
-  name = Liquid viscosity (RPS)
-  units = Pa.s
+  name = "Liquid viscosity (RPS)"
+  units = "Pa.s"
   eqno = 12
   A = -3.4659
   B = -0.0085149
@@ -303,82 +303,82 @@
   Tmax = 583.15
 /
 &COSTALDVolume
-  name = COSTLD characteristic volume (V*)
-  units = m3/kmol
+  name = "COSTLD characteristic volume (V*)"
+  units = "m3/kmol"
   value = 0.683837
 /
 &DiameterLJ
-  name = Lennard Jones diameter
-  units = m
+  name = "Lennard Jones diameter"
+  units = "m"
   value = 6.562071E-10
 /
 &EnergyLJ
-  name = Lennard Jones energy
-  units = K
+  name = "Lennard Jones energy"
+  units = "K"
   value = 727.6315
 /
 &RacketParameter
-  name = Rackett parameter
-  units = _
+  name = "Rackett parameter"
+  units = "_"
   value = 0.302
 /
 &FullerVolume
-  name = Fuller et al. diffusion volume
-  units = _
+  name = "Fuller et al. diffusion volume"
+  units = "_"
   value = 143.191
 /
 &Parachor
-  name = Parachor
-  units = kg0.25.m3/s0.5/kmol
+  name = "Parachor"
+  units = "kg0.25.m3/s0.5/kmol"
   value = 0.0940873
 /
 &Charge
-  name = Charge
-  units = _
+  name = "Charge"
+  units = "_"
   value = 0
 /
 &CostaldAcentricFactor
-  name = SRK acentric factor
-  units = _
+  name = "SRK acentric factor"
+  units = "_"
   value = 0.569717
 /
 &WilsonVolume
-  name = Wilson volume
-  units = m3/kmol
+  name = "Wilson volume"
+  units = "m3/kmol"
   value = 0.2076
 /
 &UniquacR
-  name = UNIQUAC r
-  units = _
+  name = "UNIQUAC r"
+  units = "_"
   value = 7.6308
 /
 &UniquacQ
-  name = UNIQUAC q
-  units = _
+  name = "UNIQUAC q"
+  units = "_"
   value = 5.496
 /
 &ChaoSeaderAcentricFactor
-  name = Chao-Seader acentric factor
-  units = _
+  name = "Chao-Seader acentric factor"
+  units = "_"
   value = 0.569717
 /
 &ChaoSeaderSolubilityParameter
-  name = Chao-Seader solubility parameter
-  units = J0.5/m1.5
+  name = "Chao-Seader solubility parameter"
+  units = "J0.5/m1.5"
   value = 20480
 /
 &ChaoSeaderLiquidVolume
-  name = Chao-Seader liquid volume
-  units = m3/kmol
+  name = "Chao-Seader liquid volume"
+  units = "m3/kmol"
   value = 0.2076
 /
 &UnifacLLE
-  name = UNIFAC-LLE
+  name = "UNIFAC-LLE"
   group = 10
   group = 0
 /
 &ModifiedUnifac
-  name = Modified UNIFAC
+  name = "Modified UNIFAC"
   group = 9
   group = 10
   group = 10
@@ -387,10 +387,10 @@
   group = 1
 /
 &CAS
-  name = CAS number
+  name = "CAS number"
   value = 882-33-7
 /
 &Smiles
-  name = SMILES
+  name = "SMILES"
   value = C1=CC=C(C=C1)SSC2=CC=CC=C2
 /

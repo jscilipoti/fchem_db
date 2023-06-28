@@ -20,7 +20,10 @@ for compund in comp:
         attributes = property.attrib #Guardo el diccionario en attributes
         #recorro el diccionario e imprimo el contenido de la namelist
         for attribute, value in attributes.items():
-            file.write(f"  {attribute} = {value}\n") 
+            if attribute == "value":
+                file.write(f"  {attribute} = {value}\n") 
+            else:
+                file.write(f"  {attribute} = \"{value}\"\n")
   
         for parameters in property:
             attributes = parameters.attrib
