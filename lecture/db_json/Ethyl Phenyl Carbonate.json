@@ -1,0 +1,114 @@
+{
+    "LibraryIndex": "22587",
+    "CompoundID": "Ethyl Phenyl Carbonate",
+    "StructureFormula": "CH3CH2(OCOO)C6H5",
+    "Family": "45",
+    "CriticalTemperature": "717.3434",
+    "CriticalPressure": "3073857",
+    "CriticalVolume": "0.55209",
+    "CriticalCompressibility": "0.230336",
+    "NormalBoilingPointTemperature": "522.67",
+    "MolecularWeight": "166.1739",
+    "LiquidVolumeAtNormalBoilingPoint": "0.18105",
+    "AcentricityFactor": "0.515822",
+    "SolubilityParameter": "18670.52",
+    "VanDerWaalsVolume": "0.0937081",
+    "VanDerWaalsArea": "1.2245E+09",
+    "HeatOfFormation": "-4.6892E+08",
+    "GibbsEnergyOfFormation": "-3.0311E+08",
+    "AbsEntropy": "553086.3",
+    "HeatOfCombustion": "-4.44418E+09",
+    "VaporPressure": {
+        "eqno": "10",
+        "A": "22.88975",
+        "B": "5939.5",
+        "C": "0",
+        "Tmin": "273",
+        "Tmax": "717.343"
+    },
+    "HeatOfVaporization": {
+        "eqno": "106",
+        "A": "7.782127E+07",
+        "B": "0.38",
+        "C": "0",
+        "D": "0",
+        "E": "0",
+        "Tmin": "365.869",
+        "Tmax": "717.343"
+    },
+    "SolidHeatCapacityCp": {
+        "eqno": "1",
+        "A": "213870",
+        "Tmin": "0",
+        "Tmax": "661.14"
+    },
+    "IdealGasHeatCapacityCp": {
+        "eqno": "16",
+        "A": "82400.01",
+        "B": "-500",
+        "C": "13.1427",
+        "D": "0",
+        "E": "0",
+        "Tmin": "255",
+        "Tmax": "1500"
+    },
+    "VaporViscosity": {
+        "eqno": "2",
+        "A": "-0.0000003703",
+        "B": "1.3217E-08",
+        "Tmin": "427.89",
+        "Tmax": "1000"
+    },
+    "SurfaceTension": {
+        "eqno": "116",
+        "A": "0",
+        "B": "0",
+        "C": "0",
+        "D": "0.0276342",
+        "E": "0.0276342",
+        "Tmin": "273",
+        "Tmax": "717.3434"
+    },
+    "RPPHeatCapacityCp": {
+        "eqno": "4",
+        "A": "-32096",
+        "B": "643.04",
+        "C": "-0.37254",
+        "D": "0.000089182",
+        "Tmin": "198.34",
+        "Tmax": "1500"
+    },
+    "AntoineVaporPressure": {
+        "eqno": "10",
+        "A": "21.03089",
+        "B": "3977.417",
+        "C": "-104.2059",
+        "Tmin": "418.136",
+        "Tmax": "717.343"
+    },
+    "COSTALDVolume": "0.517543",
+    "DiameterLJ": "7.279963E-10",
+    "EnergyLJ": "274.1277",
+    "RacketParameter": "0.230336",
+    "FullerVolume": "166.23",
+    "Parachor": "0.0624532",
+    "SpecificGravity": "1.108",
+    "Charge": "0",
+    "CostaldAcentricFactor": "0.54406",
+    "WilsonVolume": "0.18105",
+    "UniquacR": "6.1772",
+    "UniquacQ": "4.898",
+    "ChaoSeaderAcentricFactor": "0.54406",
+    "ChaoSeaderLiquidVolume": "0.18105",
+    "UnifacVLE": {
+        "group": "1"
+    },
+    "Asog": {
+        "group": "1"
+    },
+    "Umr": {
+        "group": "1"
+    },
+    "CAS": "3878-46-4",
+    "Smiles": "CCOC(=O)OC1=CC=CC=C1"
+}

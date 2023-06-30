@@ -1,0 +1,122 @@
+{
+    "LibraryIndex": "20101",
+    "CompoundID": "2-Methyl-2-Heptanol",
+    "StructureFormula": "(CH3)2(OH)C(CH2)4CH3",
+    "Family": "46",
+    "CriticalTemperature": "636.6534",
+    "CriticalPressure": "2716180",
+    "CriticalVolume": "0.48244",
+    "CriticalCompressibility": "0.247551",
+    "NormalBoilingPointTemperature": "467.6976",
+    "MolecularWeight": "130.2279",
+    "LiquidVolumeAtNormalBoilingPoint": "0.15788",
+    "AcentricityFactor": "0.723562",
+    "SolubilityParameter": "17397.3",
+    "VanDerWaalsVolume": "0.100431",
+    "VanDerWaalsArea": "1.476E+09",
+    "HeatOfFormation": "-1.238045",
+    "GibbsEnergyOfFormation": "-1.233886",
+    "AbsEntropy": "1322185",
+    "HeatOfFusionAtMeltingPoint": "0",
+    "HeatOfCombustion": "-5.204435",
+    "VaporPressure": {
+        "eqno": "200",
+        "A": "-10.016",
+        "B": "3.415",
+        "C": "-6.8543",
+        "D": "-4.7824",
+        "E": "2716200",
+        "Tmin": "327.39",
+        "Tmax": "636.65"
+    },
+    "HeatOfVaporization": {
+        "eqno": "106",
+        "A": "7.9114E+07",
+        "B": "0.38",
+        "C": "0",
+        "D": "0",
+        "E": "0",
+        "Tmin": "327.39",
+        "Tmax": "636.65"
+    },
+    "SolidHeatCapacityCp": {
+        "eqno": "1",
+        "A": "236620",
+        "Tmin": "0",
+        "Tmax": "636.65"
+    },
+    "IdealGasHeatCapacityCp": {
+        "eqno": "16",
+        "A": "102178.9",
+        "B": "-500",
+        "C": "13.22948",
+        "D": "0",
+        "E": "0",
+        "Tmin": "255",
+        "Tmax": "1500"
+    },
+    "VaporViscosity": {
+        "eqno": "2",
+        "A": "3.6537E-07",
+        "B": "1.4972E-08",
+        "Tmin": "467.7",
+        "Tmax": "1000"
+    },
+    "RPPHeatCapacityCp": {
+        "eqno": "4",
+        "A": "17097",
+        "B": "807.28",
+        "C": "-0.46601",
+        "D": "0.00010374",
+        "Tmin": "191",
+        "Tmax": "1500"
+    },
+    "RelativeStaticPermittivity": {
+        "eqno": "120",
+        "A": "-4.258161",
+        "B": "-2650",
+        "C": "-15.9",
+        "Tmin": "274.15",
+        "Tmax": "444.15"
+    },
+    "AntoineVaporPressure": {
+        "eqno": "10",
+        "A": "20.944",
+        "B": "3604",
+        "C": "-85.025",
+        "Tmin": "327.39",
+        "Tmax": "636.65"
+    },
+    "COSTALDVolume": "0.559662",
+    "DiameterLJ": "7.816203E-10",
+    "EnergyLJ": "272.9022",
+    "RacketParameter": "0.247551",
+    "FullerVolume": "174.89",
+    "Parachor": "0.0547474",
+    "SpecificGravity": "0.82",
+    "Charge": "0",
+    "CostaldAcentricFactor": "0.723562",
+    "WilsonVolume": "0.15788",
+    "UniquacR": "6.6204",
+    "UniquacQ": "5.904",
+    "ChaoSeaderAcentricFactor": "0.723562",
+    "ChaoSeaderSolubilityParameter": "17397.3",
+    "ChaoSeaderLiquidVolume": "0.15788",
+    "UnifacVLE": {
+        "group": "4"
+    },
+    "UnifacLLE": {
+        "group": "4"
+    },
+    "Asog": {
+        "group": "1"
+    },
+    "Umr": {
+        "group": "4"
+    },
+    "ModifiedUnifac": {
+        "group": "1"
+    },
+    "CAS": "625-25-2",
+    "Smiles": "CCCCCC(C)(C)O"
+}

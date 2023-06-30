@@ -1,0 +1,69 @@
+{
+    "LibraryIndex": "22908",
+    "CompoundID": "DiButyl Carbonate",
+    "StructureFormula": "CH3CH2CH2CH2(OCOO)CH2CH2CH2CH3",
+    "Family": "45",
+    "CriticalTemperature": "669.0997",
+    "CriticalPressure": "2253348",
+    "CriticalVolume": "0.58029",
+    "CriticalCompressibility": "0.235043",
+    "NormalBoilingPointTemperature": "480.6",
+    "MolecularWeight": "174.2374",
+    "LiquidVolumeAtNormalBoilingPoint": "0.19285",
+    "AcentricityFactor": "0.528755",
+    "RadiusOfGyration": "5.049444E-10",
+    "SolubilityParameter": "15923.43",
+    "VanDerWaalsVolume": "0.112724",
+    "VanDerWaalsArea": "1.5825E+09",
+    "HeatOfFormation": "-7.0545E+08",
+    "GibbsEnergyOfFormation": "-4.1552E+08",
+    "AbsEntropy": "658860.1",
+    "HeatOfCombustion": "-5.17565E+09",
+    "VaporPressure": {
+        "eqno": "10",
+        "A": "22.02883",
+        "B": "4492.482",
+        "C": "-50.81",
+        "Tmin": "383",
+        "Tmax": "577"
+    },
+    "HeatOfVaporization": {
+        "eqno": "106",
+        "A": "6.866156E+07",
+        "B": "0.38",
+        "C": "0",
+        "D": "0",
+        "E": "0",
+        "Tmin": "336.42",
+        "Tmax": "669.0997"
+    },
+    "IdealGasHeatCapacityCp": {
+        "eqno": "16",
+        "A": "111593.8",
+        "B": "-500",
+        "C": "13.37327",
+        "D": "0",
+        "E": "0",
+        "Tmin": "255",
+        "Tmax": "1500"
+    },
+    "AntoineVaporPressure": {
+        "eqno": "10",
+        "A": "21.00609",
+        "B": "3745.612",
+        "C": "-83.77373",
+        "Tmin": "383",
+        "Tmax": "577.9457"
+    },
+    "COSTALDVolume": "0.639528",
+    "FullerVolume": "203.01",
+    "Parachor": "0.0699584",
+    "Charge": "0",
+    "UniquacR": "7.4307",
+    "UniquacQ": "6.33",
+    "UnifacVLE": {
+        "group": "1"
+    },
+    "CAS": "542-52-9",
+    "Smiles": "CCCCOC(=O)OCCCC"
+}

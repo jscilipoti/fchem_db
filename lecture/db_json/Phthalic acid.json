@@ -1,0 +1,182 @@
+{
+    "LibraryIndex": "1287",
+    "CompoundID": "Phthalic acid",
+    "StructureFormula": "COOH(C6H4)COOH",
+    "Family": "53",
+    "CriticalTemperature": "943.0648",
+    "CriticalPressure": "4492234",
+    "CriticalVolume": "0.4235",
+    "CriticalCompressibility": "0.242627",
+    "NormalBoilingPointTemperature": "651.424",
+    "NormalMeltingPointTemperature": "483.15",
+    "MolecularWeight": "166.1308",
+    "LiquidVolumeAtNormalBoilingPoint": "0.115821",
+    "AcentricityFactor": "1.16031",
+    "RadiusOfGyration": "4.162787E-10",
+    "SolubilityParameter": "29038.44",
+    "DipoleMoment": "8.67E-30",
+    "VanDerWaalsVolume": "0.0828",
+    "VanDerWaalsArea": "1.072E+09",
+    "HeatOfFormation": "-6.63E+08",
+    "GibbsEnergyOfFormation": "-5.42E+08",
+    "AbsEntropy": "442000",
+    "HeatOfCombustion": "-3.0915E+09",
+    "SolidDensity": {
+        "eqno": "2",
+        "A": "8.5506",
+        "B": "0.0031229",
+        "C": "0",
+        "D": "0",
+        "E": "0",
+        "Tmin": "293.15",
+        "Tmax": "302.65"
+    },
+    "LiquidDensity": {
+        "eqno": "105",
+        "A": "0.59385",
+        "B": "0.252",
+        "C": "800",
+        "D": "0.28571",
+        "Tmin": "464.15",
+        "Tmax": "800"
+    },
+    "VaporPressure": {
+        "eqno": "101",
+        "A": "214.6186",
+        "B": "-21678.73",
+        "C": "-26.54136",
+        "D": "7.94063E-06",
+        "E": "2",
+        "Tmin": "464.15",
+        "Tmax": "800"
+    },
+    "HeatOfVaporization": {
+        "eqno": "106",
+        "A": "1.16446E+08",
+        "B": "0.325842",
+        "C": "-0.000233021",
+        "D": "0.00216992",
+        "E": "0.484323",
+        "Tmin": "464.15",
+        "Tmax": "800"
+    },
+    "SolidHeatCapacityCp": {
+        "eqno": "100",
+        "A": "22693",
+        "B": "550.36",
+        "C": "-0.074278",
+        "D": "0.00058694",
+        "E": "-9.7751E-07",
+        "Tmin": "90",
+        "Tmax": "350"
+    },
+    "LiquidHeatCapacityCp": {
+        "eqno": "16",
+        "A": "126080",
+        "B": "73.955",
+        "C": "9.4222",
+        "D": "0.0070682",
+        "E": "-0.0000039598",
+        "Tmin": "464.15",
+        "Tmax": "600"
+    },
+    "IdealGasHeatCapacityCp": {
+        "eqno": "16",
+        "A": "78972",
+        "B": "-814.12",
+        "C": "13.621",
+        "D": "-0.00057909",
+        "E": "1.2469E-07",
+        "Tmin": "273",
+        "Tmax": "1500"
+    },
+    "LiquidViscosity": {
+        "eqno": "101",
+        "A": "-20.315",
+        "B": "4089.4",
+        "C": "0.87699",
+        "D": "-5.3713E-07",
+        "E": "2",
+        "Tmin": "464.15",
+        "Tmax": "651"
+    },
+    "VaporViscosity": {
+        "eqno": "102",
+        "A": "5.1978E-08",
+        "B": "0.86126",
+        "C": "68.544",
+        "D": "-136.86",
+        "Tmin": "464.15",
+        "Tmax": "1000"
+    },
+    "LiquidThermalConductivity": {
+        "eqno": "16",
+        "A": "-0.13007",
+        "B": "40.261",
+        "C": "-1.3314",
+        "D": "0.00027982",
+        "E": "-9.4309E-07",
+        "Tmin": "240",
+        "Tmax": "640"
+    },
+    "VaporThermalConductivity": {
+        "eqno": "102",
+        "A": "0.00011576",
+        "B": "0.91053",
+        "C": "351.24",
+        "D": "130660",
+        "Tmin": "274",
+        "Tmax": "1000"
+    },
+    "SurfaceTension": {
+        "eqno": "16",
+        "A": "-0.035541",
+        "B": "-4.5485",
+        "C": "-2.2151",
+        "D": "-0.00053178",
+        "E": "-1.9436E-07",
+        "Tmin": "464.15",
+        "Tmax": "800"
+    },
+    "RPPHeatCapacityCp": {
+        "eqno": "4",
+        "A": "-52622.52",
+        "B": "719.7759",
+        "C": "-0.465185",
+        "D": "0.000108418",
+        "Tmin": "273",
+        "Tmax": "1500"
+    },
+    "RelativeStaticPermittivity": {
+        "eqno": "120",
+        "A": "-4.903144",
+        "B": "-3000",
+        "C": "-18",
+        "Tmin": "274.15",
+        "Tmax": "444.15"
+    },
+    "RacketParameter": "0.251142",
+    "FullerVolume": "147.2",
+    "Parachor": "0.05874",
+    "SpecificGravity": "1.451",
+    "Charge": "0",
+    "UniquacR": "5.456",
+    "UniquacQ": "4.288",
+    "UnifacVLE": {
+        "group": "2"
+    },
+    "UnifacLLE": {
+        "group": "2"
+    },
+    "Asog": {
+        "group": "2"
+    },
+    "Umr": {
+        "group": "2"
+    },
+    "ModifiedUnifac": {
+        "group": "2"
+    },
+    "CAS": "88-99-3",
+    "Smiles": "c1(C(=O)O)c(C(=O)O)cccc1"
+}

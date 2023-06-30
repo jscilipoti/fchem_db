@@ -1,0 +1,206 @@
+{
+    "LibraryIndex": "62",
+    "CompoundID": "Tert-butylcyclohexane",
+    "StructureFormula": "C6H11C(CH3)3",
+    "Family": "7",
+    "CriticalTemperature": "652",
+    "CriticalPressure": "2660000",
+    "CriticalVolume": "0.51",
+    "CriticalCompressibility": "0.25",
+    "NormalBoilingPointTemperature": "444.65",
+    "NormalMeltingPointTemperature": "231.98",
+    "TriplePointTemperature": "231.98",
+    "TriplePointPressure": "1.2",
+    "MolecularWeight": "140.2658",
+    "LiquidVolumeAtNormalBoilingPoint": "0.1734",
+    "AcentricityFactor": "0.299134",
+    "RadiusOfGyration": "4.413E-10",
+    "SolubilityParameter": "16040",
+    "DipoleMoment": "0",
+    "VanDerWaalsVolume": "0.1023",
+    "VanDerWaalsArea": "1.368E+09",
+    "HeatOfFormation": "-2.169E+08",
+    "GibbsEnergyOfFormation": "5.695E+07",
+    "AbsEntropy": "445700",
+    "HeatOfFusionAtMeltingPoint": "1.12E+07",
+    "HeatOfCombustion": "-6.091E+09",
+    "SolidDensity": {
+        "eqno": "100",
+        "A": "7.857",
+        "B": "-0.004234",
+        "C": "0",
+        "D": "0",
+        "E": "0",
+        "Tmin": "92.79",
+        "Tmax": "231.98"
+    },
+    "LiquidDensity": {
+        "eqno": "105",
+        "A": "0.52388",
+        "B": "0.26705",
+        "C": "652",
+        "D": "0.32913",
+        "Tmin": "231.98",
+        "Tmax": "629.89"
+    },
+    "VaporPressure": {
+        "eqno": "101",
+        "A": "123.1664",
+        "B": "-9675.557",
+        "C": "-15.08186",
+        "D": "0.0000105041",
+        "E": "2",
+        "Tmin": "231.98",
+        "Tmax": "652"
+    },
+    "HeatOfVaporization": {
+        "eqno": "106",
+        "A": "6.9454E+07",
+        "B": "0.40915",
+        "C": "1.6494",
+        "D": "-3.4494",
+        "E": "1.9573",
+        "Tmin": "231.98",
+        "Tmax": "629.89"
+    },
+    "SolidHeatCapacityCp": {
+        "eqno": "100",
+        "A": "7696.3",
+        "B": "1009",
+        "C": "-1.0555",
+        "D": "0.0022168",
+        "E": "-0.0000028006",
+        "Tmin": "50",
+        "Tmax": "231.98"
+    },
+    "LiquidHeatCapacityCp": {
+        "eqno": "16",
+        "A": "40996",
+        "B": "-122.74",
+        "C": "11.846",
+        "D": "0.0032488",
+        "E": "-0.0000015611",
+        "Tmin": "231.98",
+        "Tmax": "444.65"
+    },
+    "IdealGasHeatCapacityCp": {
+        "eqno": "16",
+        "A": "95339",
+        "B": "-601.24",
+        "C": "13.623",
+        "D": "-0.000018521",
+        "E": "-1.574E-08",
+        "Tmin": "273",
+        "Tmax": "1500"
+    },
+    "SecondVirialCoefficient": {
+        "eqno": "104",
+        "A": "0.29828",
+        "B": "-390.95",
+        "C": "-86.65",
+        "D": "-19290",
+        "E": "30745",
+        "Tmin": "326",
+        "Tmax": "1500"
+    },
+    "LiquidViscosity": {
+        "eqno": "101",
+        "A": "-11.549",
+        "B": "1445.9",
+        "C": "0",
+        "D": "0",
+        "E": "0",
+        "Tmin": "231.98",
+        "Tmax": "444.65"
+    },
+    "VaporViscosity": {
+        "eqno": "102",
+        "A": "4.6046E-08",
+        "B": "0.87493",
+        "C": "72.873",
+        "D": "-5600.2",
+        "Tmin": "231.98",
+        "Tmax": "1000"
+    },
+    "LiquidThermalConductivity": {
+        "eqno": "16",
+        "A": "0.054405",
+        "B": "-203.55",
+        "C": "-0.50495",
+        "D": "-0.0065818",
+        "E": "0.0000029095",
+        "Tmin": "231.98",
+        "Tmax": "444.65"
+    },
+    "VaporThermalConductivity": {
+        "eqno": "102",
+        "A": "0.077607",
+        "B": "0.14004",
+        "C": "-91.94",
+        "D": "1372500",
+        "Tmin": "231.98",
+        "Tmax": "1000"
+    },
+    "SurfaceTension": {
+        "eqno": "16",
+        "A": "-0.089059",
+        "B": "-24.697",
+        "C": "-1.6764",
+        "D": "-0.0015612",
+        "E": "7.2073E-07",
+        "Tmin": "231.98",
+        "Tmax": "629.89"
+    },
+    "RPPHeatCapacityCp": {
+        "eqno": "4",
+        "A": "-78018",
+        "B": "1134.2",
+        "C": "-0.67392",
+        "D": "0.00015048",
+        "Tmin": "298.15",
+        "Tmax": "1500"
+    },
+    "AntoineVaporPressure": {
+        "eqno": "10",
+        "A": "20.565",
+        "B": "3373.6",
+        "C": "-71.505",
+        "Tmin": "392.72",
+        "Tmax": "585.68"
+    },
+    "COSTALDVolume": "0.57156",
+    "DiameterLJ": "7.868773E-10",
+    "EnergyLJ": "289.5641",
+    "RacketParameter": "0.261746",
+    "FullerVolume": "205.2",
+    "Parachor": "0.069791",
+    "SpecificGravity": "0.81854",
+    "Charge": "0",
+    "CostaldAcentricFactor": "0.299134",
+    "WilsonVolume": "0.1734",
+    "UniquacR": "6.7417",
+    "UniquacQ": "5.472",
+    "ApiSrkS2": "-0.000764",
+    "ChaoSeaderAcentricFactor": "0.299134",
+    "ChaoSeaderSolubilityParameter": "16040",
+    "ChaoSeaderLiquidVolume": "0.1734",
+    "UnifacVLE": {
+        "group": "1"
+    },
+    "UnifacLLE": {
+        "group": "1"
+    },
+    "Asog": {
+        "group": "1"
+    },
+    "GCmethod": {
+        "group": "1"
+    },
+    "Umr": {
+        "group": "1"
+    },
+    "ModifiedUnifac": {
+        "group": "1"
+    },
+    "CAS": "3178-22-1"
+}

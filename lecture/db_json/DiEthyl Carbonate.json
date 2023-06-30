@@ -1,0 +1,149 @@
+{
+    "LibraryIndex": "1392",
+    "CompoundID": "DiEthyl Carbonate",
+    "StructureFormula": "CH3CH2(OCOO)CH2CH3",
+    "Family": "45",
+    "CriticalTemperature": "577",
+    "CriticalPressure": "3420000",
+    "CriticalVolume": "0.35725",
+    "CriticalCompressibility": "0.254676",
+    "NormalBoilingPointTemperature": "399.95",
+    "NormalMeltingPointTemperature": "230.15",
+    "MolecularWeight": "118.1311",
+    "LiquidVolumeAtNormalBoilingPoint": "0.12721",
+    "AcentricityFactor": "0.3544",
+    "SolubilityParameter": "18727.86",
+    "VanDerWaalsVolume": "0.0717693",
+    "VanDerWaalsArea": "1.0415E+09",
+    "HeatOfFormation": "-6.391E+08",
+    "GibbsEnergyOfFormation": "-4.64651E+08",
+    "AbsEntropy": "404000",
+    "HeatOfFusionAtMeltingPoint": "9510000",
+    "MatthiasCopemanC1": "1.16122",
+    "HeatOfCombustion": "-2.4954E+09",
+    "LiquidDensity": {
+        "eqno": "105",
+        "A": "0.668",
+        "B": "0.25",
+        "C": "577",
+        "D": "0.29",
+        "Tmin": "263.15",
+        "Tmax": "577"
+    },
+    "VaporPressure": {
+        "eqno": "10",
+        "A": "20.45386",
+        "B": "2817.834",
+        "C": "-84.304",
+        "Tmin": "273",
+        "Tmax": "577"
+    },
+    "HeatOfVaporization": {
+        "eqno": "106",
+        "A": "5.939572E+07",
+        "B": "0.38",
+        "C": "0",
+        "D": "0",
+        "E": "0",
+        "Tmin": "279.965",
+        "Tmax": "577"
+    },
+    "SolidHeatCapacityCp": {
+        "eqno": "1",
+        "A": "170310",
+        "Tmin": "0",
+        "Tmax": "423.12"
+    },
+    "IdealGasHeatCapacityCp": {
+        "eqno": "16",
+        "A": "61921.97",
+        "B": "-495.7152",
+        "C": "12.91823",
+        "D": "0",
+        "E": "0",
+        "Tmin": "126.9366",
+        "Tmax": "1500"
+    },
+    "LiquidViscosity": {
+        "eqno": "101",
+        "A": "-52.2135",
+        "B": "2618.11",
+        "C": "6.516931",
+        "D": "-0.0000100719",
+        "E": "2",
+        "Tmin": "263.15",
+        "Tmax": "577"
+    },
+    "VaporViscosity": {
+        "eqno": "2",
+        "A": "-0.0000012839",
+        "B": "1.9951E-08",
+        "Tmin": "263.12",
+        "Tmax": "1000"
+    },
+    "SurfaceTension": {
+        "eqno": "116",
+        "A": "0",
+        "B": "0",
+        "C": "0",
+        "D": "0.0229831",
+        "E": "0.0229831",
+        "Tmin": "230.15",
+        "Tmax": "577"
+    },
+    "RPPHeatCapacityCp": {
+        "eqno": "4",
+        "A": "8394.8",
+        "B": "358.12",
+        "C": "-0.17146",
+        "D": "0.000031221",
+        "Tmin": "126.94",
+        "Tmax": "1500"
+    },
+    "RelativeStaticPermittivity": {
+        "eqno": "120",
+        "A": "-2.064",
+        "B": "-1410",
+        "C": "-8.46",
+        "Tmin": "280",
+        "Tmax": "450"
+    },
+    "AntoineVaporPressure": {
+        "eqno": "10",
+        "A": "21.72793",
+        "B": "3499.52",
+        "C": "-55.48797",
+        "Tmin": "263",
+        "Tmax": "577"
+    },
+    "COSTALDVolume": "0.386994",
+    "DiameterLJ": "5.206992E-10",
+    "EnergyLJ": "327.1211",
+    "RacketParameter": "0.254676",
+    "FullerVolume": "120.93",
+    "MatthiasCopemanC2": "0.3544",
+    "Parachor": "0.0457018",
+    "SpecificGravity": "0.975",
+    "Charge": "0",
+    "CostaldAcentricFactor": "0.3544",
+    "WilsonVolume": "0.09721",
+    "UniquacR": "4.731",
+    "UniquacQ": "4.166",
+    "MatthiasCopemanC3": "0",
+    "ChaoSeaderAcentricFactor": "0.3544",
+    "ChaoSeaderLiquidVolume": "0.12721",
+    "UnifacVLE": {
+        "group": "1"
+    },
+    "Asog": {
+        "group": "1"
+    },
+    "Umr": {
+        "group": "1"
+    },
+    "ModifiedUnifac": {
+        "group": "1"
+    },
+    "CAS": "105-58-8",
+    "Smiles": "CCOC(=O)OCC"
+}

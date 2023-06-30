@@ -1,0 +1,142 @@
+{
+    "LibraryIndex": "1289",
+    "CompoundID": "Terephthalic acid",
+    "StructureFormula": "COOH(C6H4)COOH",
+    "Family": "53",
+    "CriticalTemperature": "943.0648",
+    "CriticalPressure": "4492234",
+    "CriticalVolume": "0.4235",
+    "CriticalCompressibility": "0.242627",
+    "NormalBoilingPointTemperature": "665.55",
+    "NormalMeltingPointTemperature": "573.15",
+    "MolecularWeight": "166.1308",
+    "LiquidVolumeAtNormalBoilingPoint": "0.115821",
+    "AcentricityFactor": "1.16031",
+    "RadiusOfGyration": "4.162787E-10",
+    "SolubilityParameter": "29038.44",
+    "VanDerWaalsVolume": "0.0828",
+    "VanDerWaalsArea": "1.062E+09",
+    "HeatOfFormation": "-7.179E+08",
+    "GibbsEnergyOfFormation": "-5.99E+08",
+    "AbsEntropy": "448000",
+    "HeatOfFusionAtMeltingPoint": "0",
+    "HeatOfCombustion": "-3.0576E+09",
+    "SolidDensity": {
+        "eqno": "2",
+        "A": "9.0891",
+        "B": "-4.8319E-09",
+        "C": "0",
+        "D": "0",
+        "E": "0",
+        "Tmin": "298.15",
+        "Tmax": "307.65"
+    },
+    "LiquidDensity": {
+        "eqno": "105",
+        "A": "0.42685",
+        "B": "0.181",
+        "C": "1113",
+        "D": "0.28571",
+        "Tmin": "700.15",
+        "Tmax": "1113"
+    },
+    "VaporPressure": {
+        "eqno": "101",
+        "A": "215.8574",
+        "B": "-29586.64",
+        "C": "-25.50026",
+        "D": "3.863371E-06",
+        "E": "2",
+        "Tmin": "700.15",
+        "Tmax": "1113"
+    },
+    "HeatOfVaporization": {
+        "eqno": "106",
+        "A": "8.9802E+07",
+        "B": "0.189",
+        "C": "-0.50305",
+        "D": "-1.1074",
+        "E": "4.311",
+        "Tmin": "298.15",
+        "Tmax": "307.65"
+    },
+    "SolidHeatCapacityCp": {
+        "eqno": "100",
+        "A": "-6542500",
+        "B": "74970",
+        "C": "-317.47",
+        "D": "0.6016",
+        "E": "-0.0004268",
+        "Tmin": "318",
+        "Tmax": "398"
+    },
+    "IdealGasHeatCapacityCp": {
+        "eqno": "16",
+        "A": "83070",
+        "B": "-852.74",
+        "C": "13.689",
+        "D": "-0.000643",
+        "E": "1.4167E-07",
+        "Tmin": "273",
+        "Tmax": "1500"
+    },
+    "VaporViscosity": {
+        "eqno": "102",
+        "A": "2.4248E-08",
+        "B": "0.96894",
+        "C": "40.456",
+        "D": "-14256",
+        "Tmin": "700.15",
+        "Tmax": "1000"
+    },
+    "VaporThermalConductivity": {
+        "eqno": "102",
+        "A": "0.00016184",
+        "B": "0.88608",
+        "C": "624.29",
+        "D": "90960",
+        "Tmin": "274",
+        "Tmax": "1000"
+    },
+    "RPPHeatCapacityCp": {
+        "eqno": "4",
+        "A": "-47902",
+        "B": "696.58",
+        "C": "-0.43325",
+        "D": "0.000095385",
+        "Tmin": "273",
+        "Tmax": "1500"
+    },
+    "AntoineVaporPressure": {
+        "eqno": "10",
+        "A": "24.733",
+        "B": "9708.2",
+        "C": "-96.745",
+        "Tmin": "844.65",
+        "Tmax": "1113"
+    },
+    "RacketParameter": "0.208079",
+    "FullerVolume": "147.2",
+    "Parachor": "0.049",
+    "SpecificGravity": "1.51",
+    "Charge": "0",
+    "UniquacR": "5.456",
+    "UniquacQ": "4.288",
+    "UnifacVLE": {
+        "group": "2"
+    },
+    "UnifacLLE": {
+        "group": "2"
+    },
+    "Asog": {
+        "group": "2"
+    },
+    "Umr": {
+        "group": "2"
+    },
+    "ModifiedUnifac": {
+        "group": "2"
+    },
+    "CAS": "100-21-0",
+    "Smiles": "c1(C(=O)O)ccc(C(=O)O)cc1"
+}
