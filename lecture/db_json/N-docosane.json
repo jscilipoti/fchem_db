@@ -1,224 +1,740 @@
 {
-    "LibraryIndex": "75",
-    "CompoundID": "N-docosane",
-    "StructureFormula": "CH3(CH2)20CH3",
-    "Family": "1",
-    "CriticalTemperature": "787",
-    "CriticalPressure": "1060000",
-    "CriticalVolume": "1.29",
-    "CriticalCompressibility": "0.208971",
-    "NormalBoilingPointTemperature": "641.75",
-    "NormalMeltingPointTemperature": "318.25",
-    "TriplePointTemperature": "317.15",
-    "TriplePointPressure": "0.00359575",
-    "MolecularWeight": "310.6006",
-    "LiquidVolumeAtNormalBoilingPoint": "0.393226",
-    "AcentricityFactor": "0.973",
-    "RadiusOfGyration": "8.799E-10",
-    "SolubilityParameter": "15800",
-    "DipoleMoment": "0",
-    "VanDerWaalsVolume": "0.2319",
-    "VanDerWaalsArea": "3.124E+09",
-    "HeatOfFormation": "-4.985E+08",
-    "GibbsEnergyOfFormation": "1.307E+08",
-    "AbsEntropy": "1019000",
-    "HeatOfFusionAtMeltingPoint": "4.8953E+07",
-    "MatthiasCopemanC1": "1.744627",
-    "HeatOfCombustion": "-1.357E+10",
+    "LibraryIndex": {
+        "name": "Index",
+        "value": "75"
+    },
+    "CompoundID": {
+        "name": "Name",
+        "value": "N-docosane"
+    },
+    "StructureFormula": {
+        "name": "Structure",
+        "value": "CH3(CH2)20CH3"
+    },
+    "Family": {
+        "name": "Family",
+        "value": "1"
+    },
+    "CriticalTemperature": {
+        "name": "Critical temperature",
+        "units": "K",
+        "value": "787"
+    },
+    "CriticalPressure": {
+        "name": "Critical pressure",
+        "units": "Pa",
+        "value": "1060000"
+    },
+    "CriticalVolume": {
+        "name": "Critical volume",
+        "units": "m3/kmol",
+        "value": "1.29"
+    },
+    "CriticalCompressibility": {
+        "name": "Critical compressibility factor",
+        "units": "_",
+        "value": "0.208971"
+    },
+    "NormalBoilingPointTemperature": {
+        "name": "Normal boiling point",
+        "units": "K",
+        "value": "641.75"
+    },
+    "NormalMeltingPointTemperature": {
+        "name": "Melting point",
+        "units": "K",
+        "value": "318.25"
+    },
+    "TriplePointTemperature": {
+        "name": "Triple point temperature",
+        "units": "K",
+        "value": "317.15"
+    },
+    "TriplePointPressure": {
+        "name": "Triple point pressure",
+        "units": "Pa",
+        "value": "0.00359575"
+    },
+    "MolecularWeight": {
+        "name": "Molecular weight",
+        "units": "kg/kmol",
+        "value": "310.6006"
+    },
+    "LiquidVolumeAtNormalBoilingPoint": {
+        "name": "Liquid molar volume at normal boiling point",
+        "units": "m3/kmol",
+        "value": "0.393226"
+    },
+    "AcentricityFactor": {
+        "name": "Acentric factor",
+        "units": "_",
+        "value": "0.973"
+    },
+    "RadiusOfGyration": {
+        "name": "Radius of gyration",
+        "units": "m",
+        "value": "8.799E-10"
+    },
+    "SolubilityParameter": {
+        "name": "Solubility parameter",
+        "units": "J0.5/m1.5",
+        "value": "15800"
+    },
+    "DipoleMoment": {
+        "name": "Dipole moment",
+        "units": "Coulomb.m",
+        "value": "0"
+    },
+    "VanDerWaalsVolume": {
+        "name": "Van der Waals volume",
+        "units": "m3/kmol",
+        "value": "0.2319"
+    },
+    "VanDerWaalsArea": {
+        "name": "Van der Waals area",
+        "units": "m2/kmol",
+        "value": "3.124E+09"
+    },
+    "HeatOfFormation": {
+        "name": "IG heat of formation",
+        "units": "J/kmol",
+        "value": "-4.985E+08"
+    },
+    "GibbsEnergyOfFormation": {
+        "name": "IG Gibbs energy of formation",
+        "units": "J/kmol",
+        "value": "1.307E+08"
+    },
+    "AbsEntropy": {
+        "name": "IG absolute entropy",
+        "units": "J/kmol/K",
+        "value": "1019000"
+    },
+    "HeatOfFusionAtMeltingPoint": {
+        "name": "Heat of fusion at melting point",
+        "units": "J/kmol",
+        "value": "4.8953E+07"
+    },
+    "MatthiasCopemanC1": {
+        "name": "Mathias-Copeman C1",
+        "units": "_",
+        "value": "1.744627"
+    },
+    "HeatOfCombustion": {
+        "name": "Standard net heat of combustion LHV",
+        "units": "J/kmol",
+        "value": "-1.357E+10"
+    },
     "SolidDensity": {
-        "eqno": "100",
-        "A": "3.2062",
-        "B": "-0.0012637",
-        "C": "0",
-        "D": "0",
-        "E": "0",
-        "Tmin": "126.86",
-        "Tmax": "317.15"
+        "name": "Solid density",
+        "units": "kmol/m3",
+        "eqno": {
+            "value": "100"
+        },
+        "A": {
+            "value": "3.2062"
+        },
+        "B": {
+            "value": "-0.0012637"
+        },
+        "C": {
+            "value": "0"
+        },
+        "D": {
+            "value": "0"
+        },
+        "E": {
+            "value": "0"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "126.86"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "317.15"
+        }
     },
     "LiquidDensity": {
-        "eqno": "105",
-        "A": "0.00088994",
-        "B": "0.017172",
-        "C": "808.83",
-        "D": "0.094179",
-        "Tmin": "293.15",
-        "Tmax": "787"
+        "name": "Liquid density",
+        "units": "kmol/m3",
+        "eqno": {
+            "value": "105"
+        },
+        "A": {
+            "value": "0.00088994"
+        },
+        "B": {
+            "value": "0.017172"
+        },
+        "C": {
+            "value": "808.83"
+        },
+        "D": {
+            "value": "0.094179"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "293.15"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "787"
+        }
     },
     "VaporPressure": {
-        "eqno": "101",
-        "A": "270.663",
-        "B": "-22731.61",
-        "C": "-35.81794",
-        "D": "0.0000193308",
-        "E": "2",
-        "Tmin": "317.15",
-        "Tmax": "787"
+        "name": "Vapour pressure",
+        "units": "Pa",
+        "eqno": {
+            "value": "101"
+        },
+        "A": {
+            "value": "270.663"
+        },
+        "B": {
+            "value": "-22731.61"
+        },
+        "C": {
+            "value": "-35.81794"
+        },
+        "D": {
+            "value": "0.0000193308"
+        },
+        "E": {
+            "value": "2"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "317.15"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "787"
+        }
     },
     "HeatOfVaporization": {
-        "eqno": "106",
-        "A": "1.5383E+08",
-        "B": "1.0955",
-        "C": "-1.2067",
-        "D": "1.3977",
-        "E": "-0.85529",
-        "Tmin": "317.15",
-        "Tmax": "787"
+        "name": "Heat of vaporization",
+        "units": "J/kmol",
+        "eqno": {
+            "value": "106"
+        },
+        "A": {
+            "value": "1.5383E+08"
+        },
+        "B": {
+            "value": "1.0955"
+        },
+        "C": {
+            "value": "-1.2067"
+        },
+        "D": {
+            "value": "1.3977"
+        },
+        "E": {
+            "value": "-0.85529"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "317.15"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "787"
+        }
     },
     "SolidHeatCapacityCp": {
-        "eqno": "100",
-        "A": "22469",
-        "B": "2585.1",
-        "C": "-4.4911",
-        "D": "0.010078",
-        "E": "-0.000009896",
-        "Tmin": "50",
-        "Tmax": "317.15"
+        "name": "Solid heat capacity",
+        "units": "J/kmol/K",
+        "eqno": {
+            "value": "100"
+        },
+        "A": {
+            "value": "22469"
+        },
+        "B": {
+            "value": "2585.1"
+        },
+        "C": {
+            "value": "-4.4911"
+        },
+        "D": {
+            "value": "0.010078"
+        },
+        "E": {
+            "value": "-0.000009896"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "50"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "317.15"
+        }
     },
     "LiquidHeatCapacityCp": {
-        "eqno": "16",
-        "A": "94846",
-        "B": "-114.81",
-        "C": "13.466",
-        "D": "0.000531",
-        "E": "3.3532E-07",
-        "Tmin": "317.15",
-        "Tmax": "740"
+        "name": "Liquid heat capacity",
+        "units": "J/kmol/K",
+        "eqno": {
+            "value": "16"
+        },
+        "A": {
+            "value": "94846"
+        },
+        "B": {
+            "value": "-114.81"
+        },
+        "C": {
+            "value": "13.466"
+        },
+        "D": {
+            "value": "0.000531"
+        },
+        "E": {
+            "value": "3.3532E-07"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "317.15"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "740"
+        }
     },
     "IdealGasHeatCapacityCp": {
-        "eqno": "16",
-        "A": "291820",
-        "B": "-567.43",
-        "C": "14.157",
-        "D": "0.00012912",
-        "E": "-4.9166E-08",
-        "Tmin": "273",
-        "Tmax": "1500"
+        "name": "Ideal gas heat capacity",
+        "units": "J/kmol/K",
+        "eqno": {
+            "value": "16"
+        },
+        "A": {
+            "value": "291820"
+        },
+        "B": {
+            "value": "-567.43"
+        },
+        "C": {
+            "value": "14.157"
+        },
+        "D": {
+            "value": "0.00012912"
+        },
+        "E": {
+            "value": "-4.9166E-08"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "273"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "1500"
+        }
     },
     "SecondVirialCoefficient": {
-        "eqno": "104",
-        "A": "0.76617",
-        "B": "-496.25",
-        "C": "-894.79",
-        "D": "-1799300",
-        "E": "3495100",
-        "Tmin": "393.5",
-        "Tmax": "1500"
+        "name": "Second virial coefficient",
+        "units": "m3/kmol",
+        "eqno": {
+            "value": "104"
+        },
+        "A": {
+            "value": "0.76617"
+        },
+        "B": {
+            "value": "-496.25"
+        },
+        "C": {
+            "value": "-894.79"
+        },
+        "D": {
+            "value": "-1799300"
+        },
+        "E": {
+            "value": "3495100"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "393.5"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "1500"
+        }
     },
     "LiquidViscosity": {
-        "eqno": "101",
-        "A": "-27.314",
-        "B": "2728.1",
-        "C": "2.3358",
-        "D": "-0.0000013135",
-        "E": "2",
-        "Tmin": "317.15",
-        "Tmax": "787"
+        "name": "Liquid viscosity",
+        "units": "Pa.s",
+        "eqno": {
+            "value": "101"
+        },
+        "A": {
+            "value": "-27.314"
+        },
+        "B": {
+            "value": "2728.1"
+        },
+        "C": {
+            "value": "2.3358"
+        },
+        "D": {
+            "value": "-0.0000013135"
+        },
+        "E": {
+            "value": "2"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "317.15"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "787"
+        }
     },
     "VaporViscosity": {
-        "eqno": "102",
-        "A": "2.8858E-07",
-        "B": "0.62154",
-        "C": "714.54",
-        "D": "4582.3",
-        "Tmin": "317.15",
-        "Tmax": "1000"
+        "name": "Vapour viscosity",
+        "units": "Pa.s",
+        "eqno": {
+            "value": "102"
+        },
+        "A": {
+            "value": "2.8858E-07"
+        },
+        "B": {
+            "value": "0.62154"
+        },
+        "C": {
+            "value": "714.54"
+        },
+        "D": {
+            "value": "4582.3"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "317.15"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "1000"
+        }
     },
     "LiquidThermalConductivity": {
-        "eqno": "16",
-        "A": "-0.148",
-        "B": "-22.716",
-        "C": "-0.91136",
-        "D": "-0.00059496",
-        "E": "-3.4759E-07",
-        "Tmin": "317.15",
-        "Tmax": "641.75"
+        "name": "Liquid thermal conductivity",
+        "units": "W/m/K",
+        "eqno": {
+            "value": "16"
+        },
+        "A": {
+            "value": "-0.148"
+        },
+        "B": {
+            "value": "-22.716"
+        },
+        "C": {
+            "value": "-0.91136"
+        },
+        "D": {
+            "value": "-0.00059496"
+        },
+        "E": {
+            "value": "-3.4759E-07"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "317.15"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "641.75"
+        }
     },
     "VaporThermalConductivity": {
-        "eqno": "102",
-        "A": "-270.77",
-        "B": "1.0546",
-        "C": "-5.8977E+09",
-        "D": "-1.0935E+11",
-        "Tmin": "317.15",
-        "Tmax": "1000"
+        "name": "Vapour thermal conductivity",
+        "units": "W/m/K",
+        "eqno": {
+            "value": "102"
+        },
+        "A": {
+            "value": "-270.77"
+        },
+        "B": {
+            "value": "1.0546"
+        },
+        "C": {
+            "value": "-5.8977E+09"
+        },
+        "D": {
+            "value": "-1.0935E+11"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "317.15"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "1000"
+        }
     },
     "SurfaceTension": {
-        "eqno": "16",
-        "A": "-0.03075",
-        "B": "-73.068",
-        "C": "-1.9074",
-        "D": "-0.002422",
-        "E": "7.0531E-07",
-        "Tmin": "317.15",
-        "Tmax": "787"
+        "name": "Surface tension",
+        "units": "N/m",
+        "eqno": {
+            "value": "16"
+        },
+        "A": {
+            "value": "-0.03075"
+        },
+        "B": {
+            "value": "-73.068"
+        },
+        "C": {
+            "value": "-1.9074"
+        },
+        "D": {
+            "value": "-0.002422"
+        },
+        "E": {
+            "value": "7.0531E-07"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "317.15"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "787"
+        }
     },
     "RPPHeatCapacityCp": {
-        "eqno": "4",
-        "A": "-16805",
-        "B": "2089.4",
-        "C": "-1.1669",
-        "D": "0.00025179",
-        "Tmin": "300",
-        "Tmax": "1500"
+        "name": "Ideal gas heat capacity (RPP)",
+        "units": "J/kmol/K",
+        "eqno": {
+            "value": "4"
+        },
+        "A": {
+            "value": "-16805"
+        },
+        "B": {
+            "value": "2089.4"
+        },
+        "C": {
+            "value": "-1.1669"
+        },
+        "D": {
+            "value": "0.00025179"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "300"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "1500"
+        }
     },
     "RelativeStaticPermittivity": {
-        "eqno": "120",
-        "A": "-1.153082",
-        "B": "-1000",
-        "C": "-6",
-        "Tmin": "304.15",
-        "Tmax": "474.15"
+        "name": "Relative static permittivity",
+        "units": "_",
+        "eqno": {
+            "value": "120"
+        },
+        "A": {
+            "value": "-1.153082"
+        },
+        "B": {
+            "value": "-1000"
+        },
+        "C": {
+            "value": "-6"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "304.15"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "474.15"
+        }
     },
     "AntoineVaporPressure": {
-        "eqno": "10",
-        "A": "21.952",
-        "B": "5415.6",
-        "C": "-122.39",
-        "Tmin": "490.15",
-        "Tmax": "712.81"
+        "name": "Antoine",
+        "units": "Pa",
+        "eqno": {
+            "value": "10"
+        },
+        "A": {
+            "value": "21.952"
+        },
+        "B": {
+            "value": "5415.6"
+        },
+        "C": {
+            "value": "-122.39"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "490.15"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "712.81"
+        }
     },
     "LiquidViscosityRPS": {
-        "eqno": "12",
-        "A": "-2.7996",
-        "B": "-0.0093671",
-        "Tmin": "317.15",
-        "Tmax": "643.03"
+        "name": "Liquid viscosity (RPS)",
+        "units": "Pa.s",
+        "eqno": {
+            "value": "12"
+        },
+        "A": {
+            "value": "-2.7996"
+        },
+        "B": {
+            "value": "-0.0093671"
+        },
+        "Tmin": {
+            "units": "K",
+            "value": "317.15"
+        },
+        "Tmax": {
+            "units": "K",
+            "value": "643.03"
+        }
     },
-    "COSTALDVolume": "1.567299",
-    "DiameterLJ": "1.316045E-09",
-    "EnergyLJ": "188.4938",
-    "RacketParameter": "0.230005",
-    "FullerVolume": "456.06",
-    "MatthiasCopemanC2": "0",
-    "Parachor": "0.167898",
-    "SpecificGravity": "0.795185",
-    "Charge": "0",
-    "CostaldAcentricFactor": "0.973",
-    "WilsonVolume": "0.393226",
-    "UniquacR": "15.2902",
-    "UniquacQ": "12.496",
-    "MatthiasCopemanC3": "0",
-    "ChaoSeaderAcentricFactor": "0.973",
-    "ChaoSeaderSolubilityParameter": "15800",
-    "ChaoSeaderLiquidVolume": "0.393226",
+    "COSTALDVolume": {
+        "name": "COSTLD characteristic volume (V*)",
+        "units": "m3/kmol",
+        "value": "1.567299"
+    },
+    "DiameterLJ": {
+        "name": "Lennard Jones diameter",
+        "units": "m",
+        "value": "1.316045E-09"
+    },
+    "EnergyLJ": {
+        "name": "Lennard Jones energy",
+        "units": "K",
+        "value": "188.4938"
+    },
+    "RacketParameter": {
+        "name": "Rackett parameter",
+        "units": "_",
+        "value": "0.230005"
+    },
+    "FullerVolume": {
+        "name": "Fuller et al. diffusion volume",
+        "units": "_",
+        "value": "456.06"
+    },
+    "MatthiasCopemanC2": {
+        "name": "Mathias-Copeman C2",
+        "units": "_",
+        "value": "0"
+    },
+    "Parachor": {
+        "name": "Parachor",
+        "units": "kg0.25.m3/s0.5/kmol",
+        "value": "0.167898"
+    },
+    "SpecificGravity": {
+        "name": "Specific gravity",
+        "units": "_",
+        "value": "0.795185"
+    },
+    "Charge": {
+        "name": "Charge",
+        "units": "_",
+        "value": "0"
+    },
+    "CostaldAcentricFactor": {
+        "name": "SRK acentric factor",
+        "units": "_",
+        "value": "0.973"
+    },
+    "WilsonVolume": {
+        "name": "Wilson volume",
+        "units": "m3/kmol",
+        "value": "0.393226"
+    },
+    "UniquacR": {
+        "name": "UNIQUAC r",
+        "units": "_",
+        "value": "15.2902"
+    },
+    "UniquacQ": {
+        "name": "UNIQUAC q",
+        "units": "_",
+        "value": "12.496"
+    },
+    "MatthiasCopemanC3": {
+        "name": "Mathias-Copeman C3",
+        "units": "_",
+        "value": "0"
+    },
+    "ChaoSeaderAcentricFactor": {
+        "name": "Chao-Seader acentric factor",
+        "units": "_",
+        "value": "0.973"
+    },
+    "ChaoSeaderSolubilityParameter": {
+        "name": "Chao-Seader solubility parameter",
+        "units": "J0.5/m1.5",
+        "value": "15800"
+    },
+    "ChaoSeaderLiquidVolume": {
+        "name": "Chao-Seader liquid volume",
+        "units": "m3/kmol",
+        "value": "0.393226"
+    },
     "UnifacVLE": {
-        "group": "20"
+        "name": "UNIFAC",
+        "group": {
+            "id": "2",
+            "value": "20"
+        }
     },
     "UnifacLLE": {
-        "group": "20"
+        "name": "UNIFAC-LLE",
+        "group": {
+            "id": "2",
+            "value": "20"
+        }
     },
     "Asog": {
-        "group": "20"
+        "name": "ASOG",
+        "group": {
+            "id": "2",
+            "value": "20"
+        }
     },
     "GCmethod": {
-        "group": "20"
+        "name": "PPR78",
+        "group": {
+            "id": "2",
+            "value": "20"
+        }
     },
     "Umr": {
-        "group": "20"
+        "name": "UMR",
+        "group": {
+            "id": "2",
+            "value": "20"
+        }
     },
     "ModifiedUnifac": {
-        "group": "20"
+        "name": "Modified UNIFAC",
+        "group": {
+            "id": "2",
+            "value": "20"
+        }
     },
-    "CAS": "629-97-0",
-    "Smiles": "CCCCCCCCCCCCCCCCCCCCCC"
+    "CAS": {
+        "name": "CAS number",
+        "value": "629-97-0"
+    },
+    "Smiles": {
+        "name": "SMILES",
+        "value": "CCCCCCCCCCCCCCCCCCCCCC"
+    }
 }
