@@ -26,8 +26,28 @@ for i, compound in enumerate(root.findall('compound')):
         properties[property.tag] = property.attrib
         for parameters in property:
             properties[property.tag][parameters.tag] = parameters.attrib
-            print({parameters.tag:parameters.attrib})
-    #print(properties)
+            #print({parameters.tag:parameters.attrib})
+    
+    #recorro el diccionario y cambio los string por float
+    for key1,subdict1 in properties.items():
+        for key2,subdict2 in subdict1.items():
+            try:
+                valor = float(subdict2)
+                subdict1[key2] = valor
+            except (ValueError,TypeError):
+                pass
+            try:           
+                for key3,subdict3 in subdict2.items():
+                    try:
+                        valor = float(subdict3)
+                        subdict2[key3] = valor
+                    except (ValueError,TypeError):
+                        pass                      
+            except AttributeError:
+                pass
+
+        
+
     # Guardar el diccionario como JSON en un archivo
     compound_object = Reader(i)
 
@@ -35,5 +55,4 @@ for i, compound in enumerate(root.findall('compound')):
     file_name = "lecture/db_json/"+file_name+".json"   
     with open(file_name, 'w') as file:
         json.dump(properties, file, indent=4)
-   # exit()    
 print("FIN")

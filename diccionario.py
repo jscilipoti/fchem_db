@@ -7,4 +7,4 @@ info_fruta = {"vitaminas": ["A", "C"], "calorias": 52}
 # Agregar el subdiccionario al diccionario existente "frutas"
 frutas["naranja"] = info_fruta
 
-print(frutas["alejandro"]["edad"])
+print (frutas.items())
