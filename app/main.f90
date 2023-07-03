@@ -1,5 +1,6 @@
 program main
   use json_module
+  use substance
 
   implicit none
   type(json_file) :: json
