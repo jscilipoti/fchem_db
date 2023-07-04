@@ -7,6 +7,7 @@ module substance
     real(pr) :: molecular_weight
   contains 
     procedure :: read => read_db
+    procedure :: search => search_compound
   end type substances
 
 contains
@@ -19,7 +20,7 @@ contains
     logical :: found
     real(pr) :: MW
 
-    if (search_compound(name)) then
+    if (self%search(name)) then
       ! initialize the class
       call json%initialize()  
   
@@ -32,11 +33,13 @@ contains
     end if
   end subroutine read_db
 
-  logical function search_compound(name)
+  logical function search_compound(self, name) result(found)
+    class(substances), intent(in) :: self
     character(len=*), intent(in) :: name
     real :: r
     integer :: i,reason,NstationFiles,iStation
     character(100) :: stationFileNames, nameint
+    !logical :: found
 
     nameint = name//".json"
     ! get the files
@@ -53,11 +56,11 @@ contains
     NstationFiles = i
 
     rewind(31)
-    search_compound = .false.
+    found = .false.
     do i = 1,NstationFiles
       read(31,'(a)') stationFileNames
       if (stationFileNames == nameint) then
-        search_compound = .true.
+        found = .true.
         return
       end if
     enddo

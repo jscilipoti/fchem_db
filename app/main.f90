@@ -5,7 +5,7 @@ program main
   implicit none
   type(substances) :: compound
 
-  call compound%read("Water")
+  compound%search("water")
   write(*,*)compound%molecular_weight
 
 end program main
