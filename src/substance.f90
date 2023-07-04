@@ -27,12 +27,6 @@ contains
       call json%load(filename = 'lecture/db_json/'//name//'.json')
     
       call json%get('MolecularWeight.value', self%molecular_weight, found)
-    ! self%molecular_weight = MW
-    ! write(*,*) self%molecular_weight
-
-    ! if ( .not. found ) stop 1    
-      ! print the file to the console
-      !call json%print()
     else 
       write(*,*) "Compound not found"
     end if
@@ -57,7 +51,6 @@ contains
     end do
     
     NstationFiles = i
-   ! write(*,'(a,I0)') "Number of station files: " , NstationFiles
 
     rewind(31)
     search_compound = .false.
