@@ -6,7 +6,7 @@ module substance
   type :: substances
     real(pr) :: molecular_weight
   contains 
-    procedure :: read1 => read_db
+    procedure :: read => read_db
   end type substances
 
 contains
@@ -19,19 +19,55 @@ contains
     logical :: found
     real(pr) :: MW
 
-
-    ! initialize the class
-    call json%initialize()  
+    if (search_compound(name)) then
+      ! initialize the class
+      call json%initialize()  
   
-    ! read the file
-    call json%load(filename = 'lecture/db_json/'//name//'.json')
+      ! read the file
+      call json%load(filename = 'lecture/db_json/'//name//'.json')
     
-    call json%get('MolecularWeight.value', self%molecular_weight, found)
-   ! self%molecular_weight = MW
-   ! write(*,*) self%molecular_weight
+      call json%get('MolecularWeight.value', self%molecular_weight, found)
+    ! self%molecular_weight = MW
+    ! write(*,*) self%molecular_weight
 
-   ! if ( .not. found ) stop 1    
-    ! print the file to the console
-    !call json%print()
+    ! if ( .not. found ) stop 1    
+      ! print the file to the console
+      !call json%print()
+    else 
+      write(*,*) "Compound not found"
+    end if
   end subroutine read_db
+
+  logical function search_compound(name)
+    character(len=*), intent(in) :: name
+    real :: r
+    integer :: i,reason,NstationFiles,iStation
+    character(100) :: stationFileNames, nameint
+
+    nameint = name//".json"
+    ! get the files
+    call system('ls ./lecture/db_json > fileContents.txt')
+    open(31,FILE='fileContents.txt',action="read")
+    !how many
+    i = 0
+    do
+      read(31,FMT='(a)',iostat=reason) r
+      if (reason/=0) EXIT
+      i = i+1
+    end do
+    
+    NstationFiles = i
+   ! write(*,'(a,I0)') "Number of station files: " , NstationFiles
+
+    rewind(31)
+    search_compound = .false.
+    do i = 1,NstationFiles
+      read(31,'(a)') stationFileNames
+      if (stationFileNames == nameint) then
+        search_compound = .true.
+        return
+      end if
+    enddo
+    
+  end function search_compound  
 end module substance
