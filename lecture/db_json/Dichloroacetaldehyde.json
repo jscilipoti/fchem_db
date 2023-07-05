@@ -644,17 +644,29 @@
     },
     "UnifacVLE": {
         "name": "UNIFAC",
-        "group": {
-            "id": 49.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "27",
+                "value": "1"
+            },
+            {
+                "id": "49",
+                "value": "1"
+            }
+        ]
     },
     "Umr": {
         "name": "UMR",
-        "group": {
-            "id": 49.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "27",
+                "value": "1"
+            },
+            {
+                "id": "49",
+                "value": "1"
+            }
+        ]
     },
     "CAS": {
         "name": "CAS number",

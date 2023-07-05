@@ -575,45 +575,153 @@
     },
     "UnifacVLE": {
         "name": "UNIFAC",
-        "group": {
-            "id": 14.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "1"
+            },
+            {
+                "id": "6",
+                "value": "1"
+            },
+            {
+                "id": "10",
+                "value": "4"
+            },
+            {
+                "id": "11",
+                "value": "1"
+            },
+            {
+                "id": "14",
+                "value": "1"
+            }
+        ]
     },
     "UnifacLLE": {
         "name": "UNIFAC-LLE",
-        "group": {
-            "id": 10.0,
-            "value": 2.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "1"
+            },
+            {
+                "id": "3",
+                "value": "1"
+            },
+            {
+                "id": "6",
+                "value": "1"
+            },
+            {
+                "id": "9",
+                "value": "4"
+            },
+            {
+                "id": "10",
+                "value": "2"
+            }
+        ]
     },
     "Asog": {
         "name": "ASOG",
-        "group": {
-            "id": 11.0,
-            "value": 2.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "1"
+            },
+            {
+                "id": "3",
+                "value": "1"
+            },
+            {
+                "id": "6",
+                "value": "1"
+            },
+            {
+                "id": "10",
+                "value": "4"
+            },
+            {
+                "id": "11",
+                "value": "2"
+            }
+        ]
     },
     "GCmethod": {
         "name": "PPR78",
-        "group": {
-            "id": 20.0,
-            "value": 2.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "1"
+            },
+            {
+                "id": "7",
+                "value": "4"
+            },
+            {
+                "id": "9",
+                "value": "2"
+            },
+            {
+                "id": "11",
+                "value": "1"
+            },
+            {
+                "id": "20",
+                "value": "2"
+            }
+        ]
     },
     "Umr": {
         "name": "UMR",
-        "group": {
-            "id": 14.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "1"
+            },
+            {
+                "id": "6",
+                "value": "1"
+            },
+            {
+                "id": "10",
+                "value": "4"
+            },
+            {
+                "id": "11",
+                "value": "1"
+            },
+            {
+                "id": "14",
+                "value": "1"
+            }
+        ]
     },
     "ModifiedUnifac": {
         "name": "Modified UNIFAC",
-        "group": {
-            "id": 13.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "1"
+            },
+            {
+                "id": "6",
+                "value": "1"
+            },
+            {
+                "id": "9",
+                "value": "4"
+            },
+            {
+                "id": "10",
+                "value": "1"
+            },
+            {
+                "id": "13",
+                "value": "1"
+            }
+        ]
     },
     "CAS": {
         "name": "CAS number",

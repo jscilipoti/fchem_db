@@ -695,10 +695,16 @@
     },
     "Asog": {
         "name": "ASOG",
-        "group": {
-            "id": 35.0,
-            "value": 2.0
-        }
+        "group": [
+            {
+                "id": "2",
+                "value": "2"
+            },
+            {
+                "id": "35",
+                "value": "2"
+            }
+        ]
     },
     "GCmethod": {
         "name": "PPR78",

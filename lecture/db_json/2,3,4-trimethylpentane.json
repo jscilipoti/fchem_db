@@ -683,45 +683,89 @@
     },
     "UnifacVLE": {
         "name": "UNIFAC",
-        "group": {
-            "id": 3.0,
-            "value": 3.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "5"
+            },
+            {
+                "id": "3",
+                "value": "3"
+            }
+        ]
     },
     "UnifacLLE": {
         "name": "UNIFAC-LLE",
-        "group": {
-            "id": 3.0,
-            "value": 3.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "5"
+            },
+            {
+                "id": "3",
+                "value": "3"
+            }
+        ]
     },
     "Asog": {
         "name": "ASOG",
-        "group": {
-            "id": 3.0,
-            "value": 3.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "5"
+            },
+            {
+                "id": "3",
+                "value": "3"
+            }
+        ]
     },
     "GCmethod": {
         "name": "PPR78",
-        "group": {
-            "id": 4.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "5"
+            },
+            {
+                "id": "2",
+                "value": "1"
+            },
+            {
+                "id": "3",
+                "value": "1"
+            },
+            {
+                "id": "4",
+                "value": "1"
+            }
+        ]
     },
     "Umr": {
         "name": "UMR",
-        "group": {
-            "id": 3.0,
-            "value": 3.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "5"
+            },
+            {
+                "id": "3",
+                "value": "3"
+            }
+        ]
     },
     "ModifiedUnifac": {
         "name": "Modified UNIFAC",
-        "group": {
-            "id": 3.0,
-            "value": 3.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "5"
+            },
+            {
+                "id": "3",
+                "value": "3"
+            }
+        ]
     },
     "CAS": {
         "name": "CAS number",

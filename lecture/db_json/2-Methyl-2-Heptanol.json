@@ -376,38 +376,108 @@
     },
     "UnifacVLE": {
         "name": "UNIFAC",
-        "group": {
-            "id": 2.0,
-            "value": 4.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "3"
+            },
+            {
+                "id": "15",
+                "value": "1"
+            },
+            {
+                "id": "4",
+                "value": "1"
+            },
+            {
+                "id": "2",
+                "value": "4"
+            }
+        ]
     },
     "UnifacLLE": {
         "name": "UNIFAC-LLE",
-        "group": {
-            "id": 2.0,
-            "value": 4.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "3"
+            },
+            {
+                "id": "14",
+                "value": "1"
+            },
+            {
+                "id": "4",
+                "value": "1"
+            },
+            {
+                "id": "2",
+                "value": "4"
+            }
+        ]
     },
     "Asog": {
         "name": "ASOG",
-        "group": {
-            "id": 15.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "3"
+            },
+            {
+                "id": "2",
+                "value": "4"
+            },
+            {
+                "id": "4",
+                "value": "1"
+            },
+            {
+                "id": "15",
+                "value": "1"
+            }
+        ]
     },
     "Umr": {
         "name": "UMR",
-        "group": {
-            "id": 2.0,
-            "value": 4.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "3"
+            },
+            {
+                "id": "15",
+                "value": "1"
+            },
+            {
+                "id": "4",
+                "value": "1"
+            },
+            {
+                "id": "2",
+                "value": "4"
+            }
+        ]
     },
     "ModifiedUnifac": {
         "name": "Modified UNIFAC",
-        "group": {
-            "id": 81.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "3"
+            },
+            {
+                "id": "2",
+                "value": "4"
+            },
+            {
+                "id": "4",
+                "value": "1"
+            },
+            {
+                "id": "81",
+                "value": "1"
+            }
+        ]
     },
     "CAS": {
         "name": "CAS number",

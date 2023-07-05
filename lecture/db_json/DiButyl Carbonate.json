@@ -235,10 +235,20 @@
     },
     "UnifacVLE": {
         "name": "UNIFAC",
-        "group": {
-            "id": 120.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "2"
+            },
+            {
+                "id": "2",
+                "value": "6"
+            },
+            {
+                "id": "120",
+                "value": "1"
+            }
+        ]
     },
     "CAS": {
         "name": "CAS number",

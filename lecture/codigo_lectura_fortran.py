@@ -25,7 +25,7 @@ for compound in root.findall('compound'):
         cadena = cadena.replace(")","")
         cadena = cadena.replace("*","")
         cadena = cadena.replace("-","_")
-        file.write(f"call json%get('{property.tag}.value', self%{cadena}, found)\n")
+        file.write(f"call json%get('{property.tag}.value', self%{cadena}%value, found)\n")
     break
 file.close()
 

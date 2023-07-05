@@ -681,10 +681,16 @@
     },
     "Asog": {
         "name": "ASOG",
-        "group": {
-            "id": 35.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "1"
+            },
+            {
+                "id": "35",
+                "value": "1"
+            }
+        ]
     },
     "CAS": {
         "name": "CAS number",

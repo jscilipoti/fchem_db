@@ -678,38 +678,72 @@
     },
     "UnifacVLE": {
         "name": "UNIFAC",
-        "group": {
-            "id": 54.0,
-            "value": 2.0
-        }
+        "group": [
+            {
+                "id": "10",
+                "value": "4"
+            },
+            {
+                "id": "54",
+                "value": "2"
+            }
+        ]
     },
     "UnifacLLE": {
         "name": "UNIFAC-LLE",
-        "group": {
-            "id": 40.0,
-            "value": 2.0
-        }
+        "group": [
+            {
+                "id": "9",
+                "value": "4"
+            },
+            {
+                "id": "40",
+                "value": "2"
+            }
+        ]
     },
     "Asog": {
         "name": "ASOG",
-        "group": {
-            "id": 42.0,
-            "value": 2.0
-        }
+        "group": [
+            {
+                "id": "10",
+                "value": "4"
+            },
+            {
+                "id": "11",
+                "value": "2"
+            },
+            {
+                "id": "42",
+                "value": "2"
+            }
+        ]
     },
     "Umr": {
         "name": "UMR",
-        "group": {
-            "id": 54.0,
-            "value": 2.0
-        }
+        "group": [
+            {
+                "id": "10",
+                "value": "4"
+            },
+            {
+                "id": "54",
+                "value": "2"
+            }
+        ]
     },
     "ModifiedUnifac": {
         "name": "Modified UNIFAC",
-        "group": {
-            "id": 53.0,
-            "value": 2.0
-        }
+        "group": [
+            {
+                "id": "9",
+                "value": "4"
+            },
+            {
+                "id": "53",
+                "value": "2"
+            }
+        ]
     },
     "CAS": {
         "name": "CAS number",

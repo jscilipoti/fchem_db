@@ -709,24 +709,42 @@
     },
     "UnifacLLE": {
         "name": "UNIFAC-LLE",
-        "group": {
-            "id": 14.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "1"
+            },
+            {
+                "id": "14",
+                "value": "1"
+            }
+        ]
     },
     "Asog": {
         "name": "ASOG",
-        "group": {
-            "id": 15.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "1"
+            },
+            {
+                "id": "15",
+                "value": "1"
+            }
+        ]
     },
     "GCmethod": {
         "name": "PPR78",
-        "group": {
-            "id": 41.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "1"
+            },
+            {
+                "id": "41",
+                "value": "1"
+            }
+        ]
     },
     "Umr": {
         "name": "UMR",

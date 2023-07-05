@@ -659,45 +659,81 @@
     },
     "UnifacVLE": {
         "name": "UNIFAC",
-        "group": {
-            "id": 11.0,
-            "value": 6.0
-        }
+        "group": [
+            {
+                "id": "10",
+                "value": "10"
+            },
+            {
+                "id": "11",
+                "value": "6"
+            }
+        ]
     },
     "UnifacLLE": {
         "name": "UNIFAC-LLE",
-        "group": {
-            "id": 10.0,
-            "value": 6.0
-        }
+        "group": [
+            {
+                "id": "9",
+                "value": "10"
+            },
+            {
+                "id": "10",
+                "value": "6"
+            }
+        ]
     },
     "Asog": {
         "name": "ASOG",
-        "group": {
-            "id": 11.0,
-            "value": 6.0
-        }
+        "group": [
+            {
+                "id": "10",
+                "value": "10"
+            },
+            {
+                "id": "11",
+                "value": "6"
+            }
+        ]
     },
     "GCmethod": {
         "name": "PPR78",
-        "group": {
-            "id": 9.0,
-            "value": 6.0
-        }
+        "group": [
+            {
+                "id": "7",
+                "value": "10"
+            },
+            {
+                "id": "9",
+                "value": "6"
+            }
+        ]
     },
     "Umr": {
         "name": "UMR",
-        "group": {
-            "id": 11.0,
-            "value": 6.0
-        }
+        "group": [
+            {
+                "id": "10",
+                "value": "10"
+            },
+            {
+                "id": "11",
+                "value": "6"
+            }
+        ]
     },
     "ModifiedUnifac": {
         "name": "Modified UNIFAC",
-        "group": {
-            "id": 10.0,
-            "value": 6.0
-        }
+        "group": [
+            {
+                "id": "9",
+                "value": "10"
+            },
+            {
+                "id": "10",
+                "value": "6"
+            }
+        ]
     },
     "CAS": {
         "name": "CAS number",

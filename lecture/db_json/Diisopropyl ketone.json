@@ -665,10 +665,20 @@
     },
     "Asog": {
         "name": "ASOG",
-        "group": {
-            "id": 18.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "4"
+            },
+            {
+                "id": "3",
+                "value": "2"
+            },
+            {
+                "id": "18",
+                "value": "1"
+            }
+        ]
     },
     "CAS": {
         "name": "CAS number",

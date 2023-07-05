@@ -663,10 +663,16 @@
     },
     "GCmethod": {
         "name": "PPR78",
-        "group": {
-            "id": 42.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "2",
+                "value": "1"
+            },
+            {
+                "id": "42",
+                "value": "1"
+            }
+        ]
     },
     "Umr": {
         "name": "UMR",

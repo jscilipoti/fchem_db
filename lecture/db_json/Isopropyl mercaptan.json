@@ -622,10 +622,20 @@
     },
     "GCmethod": {
         "name": "PPR78",
-        "group": {
-            "id": 15.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "2"
+            },
+            {
+                "id": "3",
+                "value": "1"
+            },
+            {
+                "id": "15",
+                "value": "1"
+            }
+        ]
     },
     "CAS": {
         "name": "CAS number",

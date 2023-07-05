@@ -701,10 +701,16 @@
     },
     "Asog": {
         "name": "ASOG",
-        "group": {
-            "id": 33.0,
-            "value": 1.0
-        }
+        "group": [
+            {
+                "id": "1",
+                "value": "1"
+            },
+            {
+                "id": "33",
+                "value": "1"
+            }
+        ]
     },
     "Umr": {
         "name": "UMR",
