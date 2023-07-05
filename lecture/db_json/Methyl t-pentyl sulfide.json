@@ -652,20 +652,20 @@
         "name": "UNIFAC",
         "group": [
             {
-                "id": "1",
-                "value": "3"
+                "id": 1,
+                "value": 3
             },
             {
-                "id": "2",
-                "value": "1"
+                "id": 2,
+                "value": 1
             },
             {
-                "id": "4",
-                "value": "1"
+                "id": 4,
+                "value": 1
             },
             {
-                "id": "102",
-                "value": "1"
+                "id": 102,
+                "value": 1
             }
         ]
     },
@@ -673,20 +673,20 @@
         "name": "UMR",
         "group": [
             {
-                "id": "1",
-                "value": "3"
+                "id": 1,
+                "value": 3
             },
             {
-                "id": "2",
-                "value": "1"
+                "id": 2,
+                "value": 1
             },
             {
-                "id": "4",
-                "value": "1"
+                "id": 4,
+                "value": 1
             },
             {
-                "id": "102",
-                "value": "1"
+                "id": 102,
+                "value": 1
             }
         ]
     },

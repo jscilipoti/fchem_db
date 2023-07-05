@@ -632,12 +632,12 @@
         "name": "UNIFAC",
         "group": [
             {
-                "id": "1",
-                "value": "2"
+                "id": 1,
+                "value": 2
             },
             {
-                "id": "127",
-                "value": "1"
+                "id": 127,
+                "value": 1
             }
         ]
     },
@@ -645,16 +645,16 @@
         "name": "ASOG",
         "group": [
             {
-                "id": "1",
-                "value": "2"
+                "id": 1,
+                "value": 2
             },
             {
-                "id": "18",
-                "value": "1"
+                "id": 18,
+                "value": 1
             },
             {
-                "id": "22",
-                "value": "1"
+                "id": 22,
+                "value": 1
             }
         ]
     },

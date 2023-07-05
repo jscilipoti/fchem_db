@@ -616,12 +616,12 @@
         "name": "UNIFAC",
         "group": [
             {
-                "id": "27",
-                "value": "1"
+                "id": 27,
+                "value": 1
             },
             {
-                "id": "52",
-                "value": "1"
+                "id": 52,
+                "value": 1
             }
         ]
     },
@@ -629,12 +629,12 @@
         "name": "UMR",
         "group": [
             {
-                "id": "27",
-                "value": "1"
+                "id": 27,
+                "value": 1
             },
             {
-                "id": "52",
-                "value": "1"
+                "id": 52,
+                "value": 1
             }
         ]
     },

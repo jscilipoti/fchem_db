@@ -676,16 +676,16 @@
         "name": "UNIFAC",
         "group": [
             {
-                "id": "10",
-                "value": "2"
+                "id": 10,
+                "value": 2
             },
             {
-                "id": "12",
-                "value": "1"
+                "id": 12,
+                "value": 1
             },
             {
-                "id": "58",
-                "value": "3"
+                "id": 58,
+                "value": 3
             }
         ]
     },
@@ -693,16 +693,16 @@
         "name": "UNIFAC-LLE",
         "group": [
             {
-                "id": "9",
-                "value": "2"
+                "id": 9,
+                "value": 2
             },
             {
-                "id": "11",
-                "value": "1"
+                "id": 11,
+                "value": 1
             },
             {
-                "id": "47",
-                "value": "3"
+                "id": 47,
+                "value": 3
             }
         ]
     },
@@ -710,20 +710,20 @@
         "name": "ASOG",
         "group": [
             {
-                "id": "1",
-                "value": "1"
+                "id": 1,
+                "value": 1
             },
             {
-                "id": "10",
-                "value": "2"
+                "id": 10,
+                "value": 2
             },
             {
-                "id": "11",
-                "value": "4"
+                "id": 11,
+                "value": 4
             },
             {
-                "id": "34",
-                "value": "3"
+                "id": 34,
+                "value": 3
             }
         ]
     },
@@ -731,16 +731,16 @@
         "name": "UMR",
         "group": [
             {
-                "id": "10",
-                "value": "2"
+                "id": 10,
+                "value": 2
             },
             {
-                "id": "12",
-                "value": "1"
+                "id": 12,
+                "value": 1
             },
             {
-                "id": "58",
-                "value": "3"
+                "id": 58,
+                "value": 3
             }
         ]
     },
@@ -748,16 +748,16 @@
         "name": "Modified UNIFAC",
         "group": [
             {
-                "id": "9",
-                "value": "2"
+                "id": 9,
+                "value": 2
             },
             {
-                "id": "11",
-                "value": "1"
+                "id": 11,
+                "value": 1
             },
             {
-                "id": "57",
-                "value": "3"
+                "id": 57,
+                "value": 3
             }
         ]
     },

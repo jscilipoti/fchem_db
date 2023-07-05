@@ -691,12 +691,12 @@
         "name": "UNIFAC",
         "group": [
             {
-                "id": "42",
-                "value": "1"
+                "id": 42,
+                "value": 1
             },
             {
-                "id": "1",
-                "value": "1"
+                "id": 1,
+                "value": 1
             }
         ]
     },
@@ -704,16 +704,16 @@
         "name": "ASOG",
         "group": [
             {
-                "id": "1",
-                "value": "1"
+                "id": 1,
+                "value": 1
             },
             {
-                "id": "2",
-                "value": "1"
+                "id": 2,
+                "value": 1
             },
             {
-                "id": "28",
-                "value": "1"
+                "id": 28,
+                "value": 1
             }
         ]
     },
@@ -721,12 +721,12 @@
         "name": "UMR",
         "group": [
             {
-                "id": "42",
-                "value": "1"
+                "id": 42,
+                "value": 1
             },
             {
-                "id": "1",
-                "value": "1"
+                "id": 1,
+                "value": 1
             }
         ]
     },

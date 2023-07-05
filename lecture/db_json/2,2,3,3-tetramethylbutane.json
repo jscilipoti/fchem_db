@@ -675,12 +675,12 @@
         "name": "UNIFAC",
         "group": [
             {
-                "id": "1",
-                "value": "6"
+                "id": 1,
+                "value": 6
             },
             {
-                "id": "4",
-                "value": "2"
+                "id": 4,
+                "value": 2
             }
         ]
     },
@@ -688,12 +688,12 @@
         "name": "UNIFAC-LLE",
         "group": [
             {
-                "id": "1",
-                "value": "6"
+                "id": 1,
+                "value": 6
             },
             {
-                "id": "4",
-                "value": "2"
+                "id": 4,
+                "value": 2
             }
         ]
     },
@@ -701,12 +701,12 @@
         "name": "ASOG",
         "group": [
             {
-                "id": "1",
-                "value": "6"
+                "id": 1,
+                "value": 6
             },
             {
-                "id": "4",
-                "value": "2"
+                "id": 4,
+                "value": 2
             }
         ]
     },
@@ -714,12 +714,12 @@
         "name": "PPR78",
         "group": [
             {
-                "id": "1",
-                "value": "6"
+                "id": 1,
+                "value": 6
             },
             {
-                "id": "4",
-                "value": "2"
+                "id": 4,
+                "value": 2
             }
         ]
     },
@@ -727,12 +727,12 @@
         "name": "UMR",
         "group": [
             {
-                "id": "1",
-                "value": "6"
+                "id": 1,
+                "value": 6
             },
             {
-                "id": "4",
-                "value": "2"
+                "id": 4,
+                "value": 2
             }
         ]
     },
@@ -740,12 +740,12 @@
         "name": "Modified UNIFAC",
         "group": [
             {
-                "id": "1",
-                "value": "6"
+                "id": 1,
+                "value": 6
             },
             {
-                "id": "4",
-                "value": "2"
+                "id": 4,
+                "value": 2
             }
         ]
     },

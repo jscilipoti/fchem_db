@@ -685,12 +685,12 @@
         "name": "UNIFAC",
         "group": [
             {
-                "id": "10",
-                "value": "4"
+                "id": 10,
+                "value": 4
             },
             {
-                "id": "54",
-                "value": "2"
+                "id": 54,
+                "value": 2
             }
         ]
     },
@@ -698,12 +698,12 @@
         "name": "UNIFAC-LLE",
         "group": [
             {
-                "id": "9",
-                "value": "4"
+                "id": 9,
+                "value": 4
             },
             {
-                "id": "40",
-                "value": "2"
+                "id": 40,
+                "value": 2
             }
         ]
     },
@@ -711,16 +711,16 @@
         "name": "ASOG",
         "group": [
             {
-                "id": "10",
-                "value": "4"
+                "id": 10,
+                "value": 4
             },
             {
-                "id": "11",
-                "value": "2"
+                "id": 11,
+                "value": 2
             },
             {
-                "id": "42",
-                "value": "2"
+                "id": 42,
+                "value": 2
             }
         ]
     },
@@ -728,12 +728,12 @@
         "name": "UMR",
         "group": [
             {
-                "id": "10",
-                "value": "4"
+                "id": 10,
+                "value": 4
             },
             {
-                "id": "54",
-                "value": "2"
+                "id": 54,
+                "value": 2
             }
         ]
     },
@@ -741,12 +741,12 @@
         "name": "Modified UNIFAC",
         "group": [
             {
-                "id": "9",
-                "value": "4"
+                "id": 9,
+                "value": 4
             },
             {
-                "id": "53",
-                "value": "2"
+                "id": 53,
+                "value": 2
             }
         ]
     },

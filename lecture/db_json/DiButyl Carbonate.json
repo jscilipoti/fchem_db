@@ -237,16 +237,16 @@
         "name": "UNIFAC",
         "group": [
             {
-                "id": "1",
-                "value": "2"
+                "id": 1,
+                "value": 2
             },
             {
-                "id": "2",
-                "value": "6"
+                "id": 2,
+                "value": 6
             },
             {
-                "id": "120",
-                "value": "1"
+                "id": 120,
+                "value": 1
             }
         ]
     },

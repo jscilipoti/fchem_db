@@ -657,12 +657,12 @@
         "name": "ASOG",
         "group": [
             {
-                "id": "1",
-                "value": "1"
+                "id": 1,
+                "value": 1
             },
             {
-                "id": "55",
-                "value": "1"
+                "id": 55,
+                "value": 1
             }
         ]
     },
@@ -670,12 +670,12 @@
         "name": "PPR78",
         "group": [
             {
-                "id": "1",
-                "value": "1"
+                "id": 1,
+                "value": 1
             },
             {
-                "id": "15",
-                "value": "1"
+                "id": 15,
+                "value": 1
             }
         ]
     },

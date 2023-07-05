@@ -683,12 +683,12 @@
         "name": "ASOG",
         "group": [
             {
-                "id": "1",
-                "value": "1"
+                "id": 1,
+                "value": 1
             },
             {
-                "id": "35",
-                "value": "1"
+                "id": 35,
+                "value": 1
             }
         ]
     },

@@ -59,7 +59,7 @@ for i, compound in enumerate(root.findall('compound')):
     properties = parse_element(compound)
 
     #recorro el diccionario y cambio los string por float
-    for key1,subdict1 in properties.items():
+    for key1,subdict1 in properties.items(): 
         for key2,subdict2 in subdict1.items():
             try:
                 valor = float(subdict2)
@@ -72,9 +72,15 @@ for i, compound in enumerate(root.findall('compound')):
                         valor = float(subdict3)
                         subdict2[key3] = valor
                     except (ValueError,TypeError):
-                        pass                      
+                        pass                                                       
             except AttributeError:
-                pass
+                for element in subdict2:
+                    try:
+                        for key3,subdict3 in element.items():    
+                            valor = int(subdict3)
+                            element[key3] = valor
+                    except:
+                        pass
 
 
 
@@ -86,28 +92,11 @@ for i, compound in enumerate(root.findall('compound')):
 # Escribir el diccionario en un archivo JSON
     with open(file_name, 'w') as archivo_json:
         json.dump(properties, archivo_json, indent=4)
+
       
 
 
-"""
-    #recorro el diccionario y cambio los string por float
-    for key1,subdict1 in properties.items():
-        for key2,subdict2 in subdict1.items():
-            try:
-                valor = float(subdict2)
-                subdict1[key2] = valor
-            except (ValueError,TypeError):
-                pass
-            try:           
-                for key3,subdict3 in subdict2.items():
-                    try:
-                        valor = float(subdict3)
-                        subdict2[key3] = valor
-                    except (ValueError,TypeError):
-                        pass                      
-            except AttributeError:
-                pass
-"""
+
         
 
     # Guardar el diccionario como JSON en un archivo

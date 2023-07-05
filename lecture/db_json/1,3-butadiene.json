@@ -690,12 +690,12 @@
         "name": "PPR78",
         "group": [
             {
-                "id": "2",
-                "value": "2"
+                "id": 2,
+                "value": 2
             },
             {
-                "id": "18",
-                "value": "2"
+                "id": 18,
+                "value": 2
             }
         ]
     },

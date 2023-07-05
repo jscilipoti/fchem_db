@@ -691,16 +691,16 @@
         "name": "UNIFAC",
         "group": [
             {
-                "id": "2",
-                "value": "5"
+                "id": 2,
+                "value": 5
             },
             {
-                "id": "15",
-                "value": "3"
+                "id": 15,
+                "value": 3
             },
             {
-                "id": "36",
-                "value": "1"
+                "id": 36,
+                "value": 1
             }
         ]
     },
@@ -708,16 +708,16 @@
         "name": "ASOG",
         "group": [
             {
-                "id": "2",
-                "value": "6"
+                "id": 2,
+                "value": 6
             },
             {
-                "id": "15",
-                "value": "3"
+                "id": 15,
+                "value": 3
             },
             {
-                "id": "31",
-                "value": "1"
+                "id": 31,
+                "value": 1
             }
         ]
     },
@@ -725,16 +725,16 @@
         "name": "UMR",
         "group": [
             {
-                "id": "2",
-                "value": "5"
+                "id": 2,
+                "value": 5
             },
             {
-                "id": "15",
-                "value": "3"
+                "id": 15,
+                "value": 3
             },
             {
-                "id": "36",
-                "value": "1"
+                "id": 36,
+                "value": 1
             }
         ]
     },
@@ -742,16 +742,16 @@
         "name": "Modified UNIFAC",
         "group": [
             {
-                "id": "2",
-                "value": "5"
+                "id": 2,
+                "value": 5
             },
             {
-                "id": "14",
-                "value": "3"
+                "id": 14,
+                "value": 3
             },
             {
-                "id": "35",
-                "value": "1"
+                "id": 35,
+                "value": 1
             }
         ]
     },
