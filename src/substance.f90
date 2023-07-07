@@ -92,7 +92,7 @@ contains
       names = arrays_of_properties_names_ChemSep()
       print *, names(1)%s
 
-      ! initialize the class
+      ! initialize the class 
       call json%initialize()  
 
   
