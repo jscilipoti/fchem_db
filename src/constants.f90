@@ -3,5 +3,6 @@ module constants
     implicit none
     
     integer, parameter :: pr = real32
+    integer, parameter :: properties_number = 60
 
 end module constants

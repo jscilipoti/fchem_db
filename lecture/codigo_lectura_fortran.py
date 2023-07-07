@@ -19,13 +19,13 @@ root = tree.getroot()
 file = open("properties_lecture.txt", "w")
 
 for compound in root.findall('compound'):
-    for property in compound:
+    for i,property in enumerate(compound):
         cadena = property.attrib['name'].replace(' ', '_')
         cadena = cadena.replace("(","_")
         cadena = cadena.replace(")","")
         cadena = cadena.replace("*","")
         cadena = cadena.replace("-","_")
-        file.write(f"call json%get('{property.tag}.value', self%{cadena}%value, found)\n")
+        file.write(f"names({i+1})%s = '{property.tag}'\n")
     break
 file.close()
 
@@ -38,7 +38,7 @@ for compound in root.findall('compound'):
         cadena = cadena.replace(")","")       
         cadena = cadena.replace("*","")
         cadena = cadena.replace("-","_")         
-        file.write(f"real(pr) :: {cadena}\n")
+        file.write(f"type(property) :: {cadena}\n")
     break
 file.close()
 
