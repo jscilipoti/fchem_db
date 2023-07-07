@@ -25,7 +25,7 @@ for compound in root.findall('compound'):
         cadena = cadena.replace(")","")
         cadena = cadena.replace("*","")
         cadena = cadena.replace("-","_")
-        file.write(f"names({i+1})%s = '{property.tag}'\n")
+        file.write(f"names({i+1})%s = '{cadena}'\n")
     break
 file.close()
 

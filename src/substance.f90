@@ -86,22 +86,26 @@ contains
     logical :: found
     real(pr) :: MW
     type (PropertiesNames) :: names(properties_number)
+    type (PropertiesNames) :: names_ChemSep(properties_number)
+    integer :: i
+    character(len=*), allocatable :: cadena
 
     if (self%search(name)) then
       ! initializate arrays of properties names
-      names = arrays_of_properties_names_ChemSep()
-      print *, names(1)%s
-
+      names = arrays_of_properties_names()
+      names_ChemSep = arrays_of_properties_names_ChemSep()
+      
       ! initialize the class 
       call json%initialize()  
 
-  
       ! read the file
       call json%load(filename = 'lecture/db_json/'//name//'.json')
       
       ! read properties
-      call json%get('LibraryIndex.value', self%Index%value, found)
-                  
+      do i = 1, size(names)
+        cadena = name(i)%s
+        call json%get(names_ChemSep(i)%s//'.value', self%cadena%value, found)
+      end do            
     else 
       write(*,*) "Compound not found"
     end if
