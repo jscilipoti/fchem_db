@@ -91,6 +91,7 @@ contains
     character(len=*), allocatable :: cadena
 
     if (self%search(name)) then
+      
       ! initializate arrays of properties names
       names = arrays_of_properties_names()
       names_ChemSep = arrays_of_properties_names_ChemSep()
@@ -105,9 +106,12 @@ contains
       do i = 1, size(names)
         cadena = name(i)%s
         call json%get(names_ChemSep(i)%s//'.value', self%cadena%value, found)
-      end do            
+      end do          
+
     else 
+
       write(*,*) "Compound not found"
+
     end if
   end subroutine read_db
 
