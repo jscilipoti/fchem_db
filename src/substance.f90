@@ -100,7 +100,7 @@ contains
       call json%initialize()  
 
       ! read the file
-      call json%load(filename = 'lecture/db_json/'//name//'.json')
+      call json%load(filename = 'files/db_json/'//name//'.json')
       
       ! read properties
       do i = 1, size(names)
@@ -125,7 +125,7 @@ contains
 
     nameint = name//".json"
     ! get the files
-    call system('ls ./lecture/db_json > fileContents.txt')
+    call system('ls ./files/db_json > fileContents.txt')
     open(31,FILE='fileContents.txt',action="read")
     !how many
     i = 0
