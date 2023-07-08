@@ -13,7 +13,7 @@ def element_to_dict(element):
     return data
 
 # Leer el archivo XML
-tree = ET.parse("lecture/ChemSep8.32.xml")
+tree = ET.parse("tools/ChemSep8.32.xml")
 root = tree.getroot()
 
 file = open("properties_lecture.txt", "w")
@@ -25,20 +25,20 @@ for compound in root.findall('compound'):
         cadena = cadena.replace(")","")
         cadena = cadena.replace("*","")
         cadena = cadena.replace("-","_")
-        file.write(f"names({i+1})%s = '{cadena}'\n")
+        file.write(f"call json%get(names_ChemSep({i+1})%s//'.value', self%{cadena}%value, found)\n")
     break
 file.close()
 
 file = open("properties_declaration.txt", "w")
 
 for compound in root.findall('compound'):
-    for property in compound:
+    for i,property in enumerate(compound):
         cadena = property.attrib['name'].replace(' ', '_')
         cadena = cadena.replace("(","_")
         cadena = cadena.replace(")","")       
         cadena = cadena.replace("*","")
         cadena = cadena.replace("-","_")         
-        file.write(f"type(property) :: {cadena}\n")
+        file.write(f"names({i+1})%s = '{cadena}'\n")
     break
 file.close()
 

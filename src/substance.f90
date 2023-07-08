@@ -87,8 +87,6 @@ contains
     real(pr) :: MW
     type (PropertiesNames) :: names(properties_number)
     type (PropertiesNames) :: names_ChemSep(properties_number)
-    integer :: i
-    character(len=*), allocatable :: cadena
 
     if (self%search(name)) then
       
@@ -103,10 +101,67 @@ contains
       call json%load(filename = 'files/db_json/'//name//'.json')
       
       ! read properties
-      do i = 1, size(names)
-        cadena = name(i)%s
-        call json%get(names_ChemSep(i)%s//'.value', self%cadena%value, found)
-      end do          
+
+      call json%get(names_ChemSep(1)%s//'.value', self%Index%value, found)
+      call json%get(names_ChemSep(2)%s//'.value', self%Name%value, found)
+      call json%get(names_ChemSep(3)%s//'.value', self%Structure%value, found)
+      call json%get(names_ChemSep(4)%s//'.value', self%Family%value, found)
+      call json%get(names_ChemSep(5)%s//'.value', self%Critical_temperature%value, found)
+      call json%get(names_ChemSep(6)%s//'.value', self%Critical_pressure%value, found)
+      call json%get(names_ChemSep(7)%s//'.value', self%Critical_volume%value, found)
+      call json%get(names_ChemSep(8)%s//'.value', self%Critical_compressibility_factor%value, found)
+      call json%get(names_ChemSep(9)%s//'.value', self%Normal_boiling_point%value, found)
+      call json%get(names_ChemSep(10)%s//'.value', self%Melting_point%value, found)
+      call json%get(names_ChemSep(11)%s//'.value', self%Triple_point_temperature%value, found)
+      call json%get(names_ChemSep(12)%s//'.value', self%Triple_point_pressure%value, found)
+      call json%get(names_ChemSep(13)%s//'.value', self%Molecular_weight%value, found)
+      call json%get(names_ChemSep(14)%s//'.value', self%Liquid_molar_volume_at_normal_boiling_point%value, found)
+      call json%get(names_ChemSep(15)%s//'.value', self%Acentric_factor%value, found)
+      call json%get(names_ChemSep(16)%s//'.value', self%Radius_of_gyration%value, found)
+      call json%get(names_ChemSep(17)%s//'.value', self%Solubility_parameter%value, found)
+      call json%get(names_ChemSep(18)%s//'.value', self%Dipole_moment%value, found)
+      call json%get(names_ChemSep(19)%s//'.value', self%Van_der_Waals_volume%value, found)
+      call json%get(names_ChemSep(20)%s//'.value', self%Van_der_Waals_area%value, found)
+      call json%get(names_ChemSep(21)%s//'.value', self%IG_heat_of_formation%value, found)
+      call json%get(names_ChemSep(22)%s//'.value', self%IG_Gibbs_energy_of_formation%value, found)
+      call json%get(names_ChemSep(23)%s//'.value', self%IG_absolute_entropy%value, found)
+      call json%get(names_ChemSep(24)%s//'.value', self%Heat_of_fusion_at_melting_point%value, found)
+      call json%get(names_ChemSep(25)%s//'.value', self%Standard_net_heat_of_combustion_LHV%value, found)
+      call json%get(names_ChemSep(26)%s//'.value', self%Solid_density%value, found)
+      call json%get(names_ChemSep(27)%s//'.value', self%Liquid_density%value, found)
+      call json%get(names_ChemSep(28)%s//'.value', self%Vapour_pressure%value, found)
+      call json%get(names_ChemSep(29)%s//'.value', self%Heat_of_vaporization%value, found)
+      call json%get(names_ChemSep(30)%s//'.value', self%Solid_heat_capacity%value, found)
+      call json%get(names_ChemSep(31)%s//'.value', self%Liquid_heat_capacity%value, found)
+      call json%get(names_ChemSep(32)%s//'.value', self%Ideal_gas_heat_capacity%value, found)
+      call json%get(names_ChemSep(33)%s//'.value', self%Second_virial_coefficient%value, found)
+      call json%get(names_ChemSep(34)%s//'.value', self%Liquid_viscosity%value, found)
+      call json%get(names_ChemSep(35)%s//'.value', self%Vapour_viscosity%value, found)
+      call json%get(names_ChemSep(36)%s//'.value', self%Liquid_thermal_conductivity%value, found)
+      call json%get(names_ChemSep(37)%s//'.value', self%Vapour_thermal_conductivity%value, found)
+      call json%get(names_ChemSep(38)%s//'.value', self%Surface_tension%value, found)
+      call json%get(names_ChemSep(39)%s//'.value', self%Ideal_gas_heat_capacity__RPP%value, found)
+      call json%get(names_ChemSep(40)%s//'.value', self%Antoine%value, found)
+      call json%get(names_ChemSep(41)%s//'.value', self%Liquid_viscosity__RPS%value, found)
+      call json%get(names_ChemSep(42)%s//'.value', self%COSTLD_characteristic_volume__V%value, found)
+      call json%get(names_ChemSep(43)%s//'.value', self%Lennard_Jones_diameter%value, found)
+      call json%get(names_ChemSep(44)%s//'.value', self%Lennard_Jones_energy%value, found)
+      call json%get(names_ChemSep(45)%s//'.value', self%Rackett_parameter%value, found)
+      call json%get(names_ChemSep(46)%s//'.value', self%Fuller_diffusion_volume%value, found)
+      call json%get(names_ChemSep(47)%s//'.value', self%Parachor%value, found)
+      call json%get(names_ChemSep(48)%s//'.value', self%Specific_gravity%value, found)
+      call json%get(names_ChemSep(49)%s//'.value', self%Charge%value, found)
+      call json%get(names_ChemSep(50)%s//'.value', self%SRK_acentric_factor%value, found)
+      call json%get(names_ChemSep(51)%s//'.value', self%Wilson_volume%value, found)
+      call json%get(names_ChemSep(52)%s//'.value', self%UNIQUAC_r%value, found)
+      call json%get(names_ChemSep(53)%s//'.value', self%UNIQUAC_q%value, found)
+      call json%get(names_ChemSep(54)%s//'.value', self%Chao_Seader_acentric_factor%value, found)
+      call json%get(names_ChemSep(55)%s//'.value', self%Chao_Seader_solubility_parameter%value, found)
+      call json%get(names_ChemSep(56)%s//'.value', self%Chao_Seader_liquid_volume%value, found)
+      call json%get(names_ChemSep(57)%s//'.value', self%UNIFAC%value, found)
+      call json%get(names_ChemSep(58)%s//'.value', self%UMR%value, found)
+      call json%get(names_ChemSep(59)%s//'.value', self%CAS_number%value, found)
+      call json%get(names_ChemSep(60)%s//'.value', self%SMILES%value, found)
 
     else 
 
