@@ -26,6 +26,8 @@ for compound in root.findall('compound'):
         cadena = cadena.replace("*","")
         cadena = cadena.replace("-","_")
         cadena = cadena.replace("_et_al.", "")
+        file.write(f"call json%get(names_ChemSep({i+1})%s//'.name', self%{cadena}%name, found)\n")
+        file.write(f"call json%get(names_ChemSep({i+1})%s//'.units', self%{cadena}%units, found)\n")
         try:
             float(property.attrib['value'])
             file.write(f"call json%get(names_ChemSep({i+1})%s//'.value', self%{cadena}%value, found)\n")
