@@ -4,7 +4,8 @@ program main
   implicit none
   type(substances) :: compound
 
-  call compound%read("Dichloroacetaldehyde")
+  call compound%read("Water")
+  print *, "Name: ", compound%Name%value_str
   print *, "MW name: ", compound%molecular_weight%name
   print *, "MW: ",compound%molecular_weight%value
   print *, "Tc name: ", compound%Critical_temperature%name
