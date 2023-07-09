@@ -14,7 +14,7 @@ def element_to_dict(element):
     return data
 
 # Leer el archivo XML
-tree = ET.parse("lecture/ChemSep8.32.xml")
+tree = ET.parse("tools/ChemSep8.32.xml")
 root = tree.getroot()
 """
 # Convertir cada objeto <compound> en un diccionario y guardarlo en un archivo JSON
@@ -43,15 +43,15 @@ def parse_element(element):
                 result[child.tag].append(parse_element(child))
             else:
                 result[child.tag] = parse_element(child)
-    elif element.text:
-        value = element.text.strip()
-        try:
-            result['value'] = int(value)
-        except ValueError:
-            try:
-                result['value'] = float(value)
-            except ValueError:
-                result['value'] = value
+#    elif element.text:
+#        value = element.text.strip()
+#        try:
+#            result['value'] = [int(value)]
+#        except ValueError:
+#            try:
+#                result['value'] = [float(value)]
+#            except ValueError:
+#                result['value'] = value
     return result
 
 
@@ -61,15 +61,19 @@ for i, compound in enumerate(root.findall('compound')):
     #recorro el diccionario y cambio los string por float
     for key1,subdict1 in properties.items(): 
         for key2,subdict2 in subdict1.items():
+            if key2 != "value":
+                continue
+            valor = []
             try:
-                valor = float(subdict2)
+                valor.append(float(subdict2))
                 subdict1[key2] = valor
             except (ValueError,TypeError):
-                pass
+                valor.append(subdict2)
+                subdict1[key2] = valor
             try:           
                 for key3,subdict3 in subdict2.items():
                     try:
-                        valor = float(subdict3)
+                        valor.append(float(subdict3))
                         subdict2[key3] = valor
                     except (ValueError,TypeError):
                         pass                                                       
@@ -77,7 +81,7 @@ for i, compound in enumerate(root.findall('compound')):
                 for element in subdict2:
                     try:
                         for key3,subdict3 in element.items():    
-                            valor = int(subdict3)
+                            valor.append(int(subdict3))
                             element[key3] = valor
                     except:
                         pass
@@ -88,11 +92,11 @@ for i, compound in enumerate(root.findall('compound')):
     compound_object = Reader(i)
 
     file_name = compound_object["CompoundID"].value
-    file_name = "lecture/db_json/"+file_name+".json"   
+    file_name = "files/db_json/"+file_name+".json"   
 # Escribir el diccionario en un archivo JSON
     with open(file_name, 'w') as archivo_json:
         json.dump(properties, archivo_json, indent=4)
-
+    #exit()
       
 
 

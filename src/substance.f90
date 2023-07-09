@@ -7,8 +7,10 @@ module substance
   type :: property
     character(len=:), allocatable :: name
     character(len=:), allocatable :: units
-    real(pr) :: value
+    character(len=250), allocatable :: value_str(:)
+    real(pr),allocatable :: value(:)
   end type property
+  
   type :: substances
   type(property) :: Index
   type(property) :: Name
@@ -103,7 +105,7 @@ contains
       ! read properties
 
       call json%get(names_ChemSep(1)%s//'.value', self%Index%value, found)
-      call json%get(names_ChemSep(2)%s//'.value', self%Name%value, found)
+      call json%get(names_ChemSep(2)%s//'.value', self%Name%value_str, found)
       call json%get(names_ChemSep(3)%s//'.value', self%Structure%value, found)
       call json%get(names_ChemSep(4)%s//'.value', self%Family%value, found)
       call json%get(names_ChemSep(5)%s//'.value', self%Critical_temperature%value, found)

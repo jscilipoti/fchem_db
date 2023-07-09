@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 
 class Reader:
     def __init__(self, c_index) -> None:
-        root = ET.parse("lecture/ChemSep8.32.xml")
+        root = ET.parse("tools/ChemSep8.32.xml")
         comp = root.getroot() #Se guarda el árbol completo
 
         self.c_index = c_index
