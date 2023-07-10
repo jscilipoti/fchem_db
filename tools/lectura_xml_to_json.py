@@ -86,9 +86,6 @@ for i, compound in enumerate(root.findall('compound')):
                     except:
                         pass
 
-
-
-
     compound_object = Reader(i)
 
     file_name = compound_object["CompoundID"].value
