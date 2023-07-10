@@ -13,8 +13,7 @@ program main
   print *, "Tc units: ", compound%Critical_temperature%units
   print *, "Acentric factor: ",compound%Acentric_factor%value
   print *, "Ideal_gas_heat_capacity__RPP: ", compound%Ideal_gas_heat_capacity__RPP%value
-  print *, "Name: ", compound%Name%value_str
-
-
+  print *, "Solid_density eq: ", compound%Solid_density%eqno
+  print *, "Solid_density A: ", compound%Solid_density%A
 
 end program main

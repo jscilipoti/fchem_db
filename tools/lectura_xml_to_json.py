@@ -92,7 +92,8 @@ for i, compound in enumerate(root.findall('compound')):
     compound_object = Reader(i)
 
     file_name = compound_object["CompoundID"].value
-    file_name = "files/db_json/"+file_name+".json"   
+    file_name = "files/db_json/"+file_name+".json"  
+    file_name = file_name.lower() 
 # Escribir el diccionario en un archivo JSON
     with open(file_name, 'w') as archivo_json:
         json.dump(properties, archivo_json, indent=4)
