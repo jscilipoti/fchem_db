@@ -84,6 +84,11 @@ module substance
 contains
 
   subroutine read_db(self, name)
+
+    use constants, only: database_dir
+
+    implicit none
+
     class(substances), intent(inout) :: self
     character(len=*), intent(in) :: name
     
@@ -103,7 +108,12 @@ contains
       call json%initialize()  
 
       ! read the file
-      call json%load(filename = 'files/db_json/'//name//'.json')
+! read the file
+      if (allocated(database_dir)) then
+        call json%load(filename = database_dir//name//'.json')
+      else
+        call json%load(filename = 'build/dependencies/fchem_db/files/db_json/'//name//'.json')
+      end if
       
       ! read properties
 
@@ -428,6 +438,11 @@ contains
   end subroutine read_db
 
   logical function search_compound(self,name) result(found)
+
+    use constants, only: database_dir
+
+    implicit none     
+
     class(substances), intent(in) :: self
     character(len=*), intent(in) :: name
     real :: r
@@ -437,6 +452,13 @@ contains
 
     nameint = name//".json"
     ! get the files
+
+    if (allocated(database_dir)) then
+      call system('ls ./files/db_json > fileContents.txt')
+    else
+      call system('ls build/dependencies/fchem_db/files/db_json > fileContents.txt')
+    end if
+
     call system('ls ./files/db_json > fileContents.txt')
     open(31,FILE='fileContents.txt',action="read")
     !how many
