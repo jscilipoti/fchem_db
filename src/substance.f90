@@ -110,6 +110,7 @@ contains
       ! read the file
 ! read the file
       if (allocated(database_dir)) then
+        print *, database_dir//name//'.json'
         call json%load(filename = database_dir//name//'.json')
       else
         call json%load(filename = 'build/dependencies/fchem_db/files/db_json/'//name//'.json')
@@ -459,7 +460,6 @@ contains
       call system('ls build/dependencies/fchem_db/files/db_json > fileContents.txt')
     end if
 
-    call system('ls ./files/db_json > fileContents.txt')
     open(31,FILE='fileContents.txt',action="read")
     !how many
     i = 0

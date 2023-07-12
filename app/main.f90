@@ -8,7 +8,7 @@ program main
   ! defino database_dir para usarlo en este paquete
   ! Si no lo defino, el código supone que está en:
   ! build/dependencies/fchem_db/files/db_json
-  database_dir = "files/db_json"
+  database_dir = "files/db_json/"
 
 
   call compound%read("water")
