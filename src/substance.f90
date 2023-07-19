@@ -96,7 +96,8 @@ contains
     implicit none
 
     class(substances), intent(inout) :: self
-    character(len=*), intent(in) :: name
+    character(len=*), intent(in) :: name 
+    character(len=100):: temp
     
     type(json_file) :: json
     logical :: found
@@ -397,14 +398,7 @@ contains
       call json%get(names_ChemSep(42)%s//'.name', self%COSTLD_characteristic_volume__V%name, found)
       call json%get(names_ChemSep(42)%s//'.units', self%COSTLD_characteristic_volume__V%units, found)
       call json%get(names_ChemSep(42)%s//'.value', self%COSTLD_characteristic_volume__V%value, found)
-
-      call json%get(names_ChemSep(43)%s//'.name', self%Lennard_Jones_diameter%name, found)
-      call json%get(names_ChemSep(43)%s//'.units', self%Lennard_Jones_diameter%units, found)
-      call json%get(names_ChemSep(43)%s//'.value', self%Lennard_Jones_diameter%value, found)
-      call json%get(names_ChemSep(44)%s//'.name', self%Lennard_Jones_energy%name, found)
-      call json%get(names_ChemSep(44)%s//'.units', self%Lennard_Jones_energy%units, found)
-      call json%get(names_ChemSep(44)%s//'.value', self%Lennard_Jones_energy%value, found)
-
+      
       call json%get(names_ChemSep(45)%s//'.name', self%Rackett_parameter%name, found)
       call json%get(names_ChemSep(45)%s//'.units', self%Rackett_parameter%units, found)
       call json%get(names_ChemSep(45)%s//'.value', self%Rackett_parameter%value, found)
@@ -453,7 +447,11 @@ contains
       call json%get(names_ChemSep(56)%s//'.value', self%Chao_Seader_liquid_volume%value, found)
 
       call json%get(names_ChemSep(57)%s//'.name', self%UNIFAC%name, found)
-      call json%get(names_ChemSep(57)%s//'.group', self%UNIFAC%group, found)
+      do 
+        call json%get(names_ChemSep(57)%s//'.group(1)', temp, found)
+        
+      end do
+      
       print *, self%UNIFAC%group
      ! call json%get(names_ChemSep(57)%s//'.group', self%UNIFAC%group, found)
 
