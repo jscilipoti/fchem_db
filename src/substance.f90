@@ -97,7 +97,9 @@ contains
 
     class(substances), intent(inout) :: self
     character(len=*), intent(in) :: name 
-    character(len=100):: temp
+    character(len=:), allocatable :: temp
+    character(len=10) :: MyString
+    integer :: i
     
     type(json_file) :: json
     logical :: found
@@ -447,9 +449,13 @@ contains
       call json%get(names_ChemSep(56)%s//'.value', self%Chao_Seader_liquid_volume%value, found)
 
       call json%get(names_ChemSep(57)%s//'.name', self%UNIFAC%name, found)
+      i = 1
       do 
-        call json%get(names_ChemSep(57)%s//'.group(1)', temp, found)
-        
+        write(MyString,'(i10)') i
+        call json%get(names_ChemSep(57)%s//'.group('//trim(MyString)//').id', temp, found)
+        print *, temp
+        if (.not. found) exit
+        i = i + 1
       end do
       
       print *, self%UNIFAC%group
