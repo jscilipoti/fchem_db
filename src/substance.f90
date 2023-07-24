@@ -16,7 +16,8 @@ module substance
     real(pr),allocatable :: value(:)                !when value is a real data type
     real(pr) :: A, B, C, D, E, Tmin, Tmax
     integer :: eqno
-    character(len=10), allocatable :: group(:)
+    integer, allocatable :: group_id(:) 
+    integer, allocatable :: group_value(:)
 
   end type Property
   
@@ -458,7 +459,7 @@ contains
         i = i + 1
       end do
       
-      print *, self%UNIFAC%group
+
      ! call json%get(names_ChemSep(57)%s//'.group', self%UNIFAC%group, found)
 
       call json%get(names_ChemSep(58)%s//'.name', self%UMR%name, found)

@@ -13,7 +13,6 @@ program main
 
   call compound%read("1,2-butadiene")
   print *, "Name: ", compound%Name%value_str
-  print *, "Unifac: ", compound%UNIFAC%group
   print *, "MW name: ", compound%molecular_weight%name
   print *, "MW: ",compound%molecular_weight%value
   print *, "Tc name: ", compound%Critical_temperature%name
